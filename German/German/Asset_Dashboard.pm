@@ -57,6 +57,10 @@ our $I18N = {
     'lastUpdated' => '1180079197',
     'message' => 'Wer darf verwalten?'
   },
+  'dashboard asset template variables title' => {
+    'lastUpdated' => '1304029627',
+    'message' => 'Dashboard Asset Template Variable'
+  },
   'dashboard template description' => {
     'lastUpdated' => '1180079232',
     'message' => 'Wählen Sie ein Dashboard/Portal Template. Standard ist das <strong>Three Column Layout</strong>'
