@@ -5,21 +5,21 @@ use strict;
 our $I18N = {
     'add pile' => {
         'context'     => 'label for File Pile Admin Console',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Add a Pile of Files'
     },
     'assetName' => {
         'context'     => 'label for Asset Manager, getName',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'File Pile'
     },
     'upload files' => {
         'context'     => 'label for File Pile asset form',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Upload Files'
     },
     'upload files description' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             '<p>This is where files can be uploaded from your computer.  You can upload to to 100 files at a time.  File sizes should not exceed 100MB in size.
 </p>'

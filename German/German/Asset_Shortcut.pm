@@ -200,6 +200,10 @@ Um  auszugeben "Meine Lieblingsfarbe ist blau" und es in den Benutzerpräferenez
     'lastUpdated' => '1251591419',
     'message' => 'Sie haben keine Berechtigung, das Dashboard zu personalisieren'
   },
+  'contains' => {
+    'lastUpdated' => '1286873824',
+    'message' => 'enthält'
+  },
   'disable content lock' => {
     'lastUpdated' => '1251663177',
     'message' => 'Inhaltssperre ausschalten'

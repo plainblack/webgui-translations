@@ -61,6 +61,10 @@ our $I18N = {
     'lastUpdated' => '1227969443',
     'message' => "Tytu\x{142}"
   },
+  'error no image' => {
+    'lastUpdated' => '1276690294',
+    'message' => "Musisz wybra\x{107} zdj\x{119}cie do wgrania."
+  },
   'error no space' => {
     'lastUpdated' => '1237561255',
     'message' => "Nie masz wystarczaj\x{105}cej ilo\x{15b}ci wolnego miejsca, \x{17c}eby przes\x{142}a\x{107} to zdj\x{119}cie."
@@ -225,6 +229,18 @@ our $I18N = {
     'lastUpdated' => '1238072745',
     'message' => "Adres URL zdj\x{119}cia w oryginalnych rozmiarach."
   },
+  'helpvar firstFile_thumbnailUrl' => {
+    'lastUpdated' => '1276690315',
+    'message' => 'Adres URL do miniaturki pierwszego pliku w albumie.'
+  },
+  'helpvar firstFile_title' => {
+    'lastUpdated' => '1276690331',
+    'message' => "Tytu\x{142} pierwszego pliku w albumie."
+  },
+  'helpvar firstFile_url' => {
+    'lastUpdated' => '1276690344',
+    'message' => 'Adres URL do pierwszego pliku w albumie.'
+  },
   'helpvar form_end' => {
     'lastUpdated' => '1238072751',
     'message' => 'Koniec formularza.'
@@ -293,13 +309,61 @@ our $I18N = {
     'lastUpdated' => '1238073763',
     'message' => "P\x{119}tla po s\x{142}owach kluczowych skojarzonych z tym zdj\x{119}ciem"
   },
+  'helpvar lastFile_thumbnailUrl' => {
+    'lastUpdated' => '1276690375',
+    'message' => 'Adres URL do miniaturki ostatniego pliku w albumie.'
+  },
+  'helpvar lastFile_title' => {
+    'lastUpdated' => '1276690384',
+    'message' => "Tytu\x{142} ostatniego pliku w albumie."
+  },
+  'helpvar lastFile_url' => {
+    'lastUpdated' => '1276690392',
+    'message' => 'Adres URL do ostatniego pliku w albumie.'
+  },
+  'helpvar nextFile_thumbnailUrl' => {
+    'lastUpdated' => '1276690405',
+    'message' => "Adres URL do miniaturki nast\x{119}pnego pliku w albumie."
+  },
+  'helpvar nextFile_title' => {
+    'lastUpdated' => '1276690423',
+    'message' => "Tytu\x{142} nast\x{119}pnego pliku w albumie."
+  },
+  'helpvar nextFile_url' => {
+    'lastUpdated' => '1276690434',
+    'message' => "Adres URL do nast\x{119}pnego pliku w albumie."
+  },
   'helpvar numberOfComments' => {
     'lastUpdated' => '1238072854',
     'message' => "Ilo\x{15b}\x{107} komentarzy dla zdj\x{119}cia"
   },
+  'helpvar ownerAlias' => {
+    'lastUpdated' => '1276690561',
+    'message' => "Alias u\x{17c}ytkownika, kt\x{f3}ry doda\x{142} to zdj\x{119}cie."
+  },
+  'helpvar ownerId' => {
+    'lastUpdated' => '1276690516',
+    'message' => "ID u\x{17c}ytkownika kt\x{f3}ry doda\x{142} zdj\x{119}cie."
+  },
+  'helpvar ownerProfileUrl' => {
+    'lastUpdated' => '1276690533',
+    'message' => "Adres URL do profilu u\x{17c}ytkownika, kt\x{f3}ry doda\x{142} to zdj\x{119}cie."
+  },
   'helpvar ownerUsername' => {
-    'lastUpdated' => '1238072863',
-    'message' => "Nazwa u\x{17c}ytkownika kt\x{f3}ry doda\x{142} zdj\x{119}cie"
+    'lastUpdated' => '1276690540',
+    'message' => "Nazwa u\x{17c}ytkownika, kt\x{f3}ry doda\x{142} zdj\x{119}cie"
+  },
+  'helpvar previousFile_thumbnailUrl' => {
+    'lastUpdated' => '1276690469',
+    'message' => 'Adres URL do miniaturki poprzedniego pliku w albumie.'
+  },
+  'helpvar previousFile_title' => {
+    'lastUpdated' => '1276690481',
+    'message' => "Tytu\x{142} poprzedniego pliku w albumie."
+  },
+  'helpvar previousFile_url' => {
+    'lastUpdated' => '1276690497',
+    'message' => 'Adres URL poprzedniego pliku w albumie.'
   },
   'helpvar resolutions_' => {
     'lastUpdated' => '1238568292',
@@ -317,7 +381,7 @@ our $I18N = {
     'lastUpdated' => '1238072908',
     'message' => "Adres URL danej rozdzielczo\x{15b}ci zdj\x{119}cia do pobrania."
   },
-  'helpvar synopsis_text' => {
+  'helpvar synopsis_textonly' => {
     'lastUpdated' => '1238568396',
     'message' => "Pole &quot;Streszczenie&quot; z usuni\x{119}tymi znacznikami HTML"
   },
@@ -440,6 +504,10 @@ our $I18N = {
   'template fileUrl' => {
     'lastUpdated' => '1237557586',
     'message' => "Poka\x{17c} w pe\x{142}nych rozmiarach"
+  },
+  'template filesForUser' => {
+    'lastUpdated' => '1276690355',
+    'message' => "wi\x{119}cej zdj\x{119}\x{107}"
   },
   'template friendsOnly label' => {
     'lastUpdated' => '1237557555',

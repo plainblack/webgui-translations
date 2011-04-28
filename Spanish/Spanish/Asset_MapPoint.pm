@@ -221,6 +221,30 @@ our $I18N = {
     'lastUpdated' => '1253292843',
     'message' => 'Foto'
   },
+  'user defined variables' => {
+    'lastUpdated' => '1302872821',
+    'message' => 'A diferencia del Sistema de Colaboración, un Punto en Mapa no provee campos predefinidos para aquellas variables definidas por el usuario. Por el contrario, Ud. debe crear cualquier tipo de campo de formulario que sea necesario, incluyendo el nombre que WebGUI deberá utilizar para el campo cuando lo almacene.'
+  },
+  'userDefined1' => {
+    'lastUpdated' => '1302872874',
+    'message' => 'El valor del Campo 1 Definido por el Usuario.'
+  },
+  'userDefined2' => {
+    'lastUpdated' => '1302872881',
+    'message' => 'El valor del Campo 2 Definido por el Usuario.'
+  },
+  'userDefined3' => {
+    'lastUpdated' => '1302872887',
+    'message' => 'El valor del Campo 3 Definido por el Usuario.'
+  },
+  'userDefined4' => {
+    'lastUpdated' => '1302872893',
+    'message' => 'El valor del Campo 4 Definido por el Usuario.'
+  },
+  'userDefined5' => {
+    'lastUpdated' => '1302872899',
+    'message' => 'El valor del Campo 5 Definido por el Usuario.'
+  },
   'website' => {
     'lastUpdated' => '1272375824',
     'message' => 'El sitio web asociado a este Punto.'

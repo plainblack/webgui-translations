@@ -221,6 +221,30 @@ our $I18N = {
     'lastUpdated' => '1248782786',
     'message' => 'Foto'
   },
+  'user defined variables' => {
+    'lastUpdated' => '1298566695',
+    'message' => 'Anders dan het collaboratiesysteem, gebruiken mappunten geen voorgedefineerde velden door de door de gebruiker gedefinieerde velden. In plaats daarvan wordt elk formulier veld wat nodig is de naam gegeven van de userDefined variabele die gebruikt wordt. WebGUI handelt dit verder af.'
+  },
+  'userDefined1' => {
+    'lastUpdated' => '1298566734',
+    'message' => 'Gebruiker gedefini&amp;euml;erd als 1'
+  },
+  'userDefined2' => {
+    'lastUpdated' => '1298566740',
+    'message' => 'Gebruiker gedefini&amp;euml;erd als 2'
+  },
+  'userDefined3' => {
+    'lastUpdated' => '1298566745',
+    'message' => 'Gebruiker gedefini&amp;euml;erd als 3'
+  },
+  'userDefined4' => {
+    'lastUpdated' => '1298566751',
+    'message' => 'Gebruiker gedefini&amp;euml;erd als 4'
+  },
+  'userDefined5' => {
+    'lastUpdated' => '1298566757',
+    'message' => 'Gebruiker gedefini&amp;euml;erd als 5'
+  },
   'website' => {
     'lastUpdated' => '1271835942',
     'message' => 'De website van dit punt.'

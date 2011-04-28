@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1252336767',
     'message' => 'URL mit dem der Benutzer einen Bericht hinzufügen kann'
   },
+  'alphabetically' => {
+    'lastUpdated' => '1281649062',
+    'message' => 'Alphabetisch'
+  },
   'approval workflow' => {
     'lastUpdated' => '1252336775',
     'message' => 'Story Approval Workflow'
@@ -56,6 +60,10 @@ our $I18N = {
   'canPostStories' => {
     'lastUpdated' => '1252337078',
     'message' => 'Ein boolscher Wert der wahr ist, wenn der Nutzer Berichte verfassen darf.'
+  },
+  'chronologically' => {
+    'lastUpdated' => '1281649070',
+    'message' => 'Chronologisch'
   },
   'creationDate' => {
     'lastUpdated' => '1252337119',
@@ -164,6 +172,14 @@ our $I18N = {
   'searchHeader' => {
     'lastUpdated' => '1252338154',
     'message' => 'HTML-Startcode des Suchformulars. Diese Variable ist leer, wenn das Berichtsarchiv als HTML exportiert wird.'
+  },
+  'sortAlphabeticallyChronologically' => {
+    'lastUpdated' => '1281649090',
+    'message' => 'Sortierreihenfolge'
+  },
+  'sortAlphabeticallyChronologically description' => {
+    'lastUpdated' => '1281649168',
+    'message' => 'Legt fest, ob Meldungen nach Veröffentlichungsdatum oder alphabetisch nach Titel sortiert werden.'
   },
   'stories per page' => {
     'lastUpdated' => '1252338197',

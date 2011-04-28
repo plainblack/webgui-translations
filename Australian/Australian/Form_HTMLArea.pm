@@ -6,7 +6,7 @@ our $I18N = {
     'rich editor load error' => {
         'context' =>
             'Error message letting the user know that loading the rich editor has failed for some reason.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Can\'t instanciate rich editor.'
     }
 };

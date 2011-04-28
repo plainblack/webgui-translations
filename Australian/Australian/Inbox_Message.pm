@@ -4,7 +4,7 @@ package WebGUI::i18n::Australian::Inbox_Message;
 use strict;
 our $I18N = {
     'from user preface' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You were sent a message from %s'
     }
 };

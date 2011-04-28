@@ -2,60 +2,60 @@ package WebGUI::i18n::Spanish::AuthWebGUI;
 use utf8;
 our $I18N = {
   1 => {
-    'lastUpdated' => '1207704627',
-    'message' => 'Opciones de atenticaci&oacute;n en WebGui'
+    'lastUpdated' => '1291129638',
+    'message' => 'Opciones de Autenticación WebGUI'
   },
   10 => {
-    'lastUpdated' => '1207704657',
-    'message' => 'Contrase&ntilde;a anterior'
+    'lastUpdated' => '1291129647',
+    'message' => 'Contraseña Anterior'
   },
   11 => {
-    'lastUpdated' => '1207723629',
-    'message' => 'Nueva contraseña'
+    'lastUpdated' => '1291129660',
+    'message' => 'Nueva Contraseña'
   },
   12 => {
-    'lastUpdated' => '1207704734',
-    'message' => 'No debe usar su contrase&ntilde;a anterior como su nueva contrase&ntilde;a'
+    'lastUpdated' => '1291129677',
+    'message' => 'No puede volver a utilizar la contraseña anterior como nueva contraseña.'
   },
   13 => {
     'lastUpdated' => '1207704777',
     'message' => '&iquest;Permitir recuperar la contrase&ntilde;a?'
   },
   14 => {
-    'lastUpdated' => '1207704801',
-    'message' => 'Longitud m&iacute;nima de la contrase&ntilde;a'
+    'lastUpdated' => '1291129695',
+    'message' => 'Longitud Mínima para Contraseña'
   },
   15 => {
-    'lastUpdated' => '1207704879',
-    'message' => 'Longitud m&iacute;nima de la contrase&ntilde;a'
+    'lastUpdated' => '1291129732',
+    'message' => 'Longitud Mínima para Contraseña'
   },
   '15 help' => {
     'lastUpdated' => '1233703955',
     'message' => 'La longitud mínima de las contraseñas que los usuarios están obligados a utilizar, en caracteres.'
   },
   16 => {
-    'lastUpdated' => '1207704912',
-    'message' => 'Tiempo de expiraci&oacute;n de la contrase&ntilde;a'
+    'lastUpdated' => '1291129749',
+    'message' => 'Vigencia de la Contraseña'
   },
   '16 help' => {
     'lastUpdated' => '1234630698',
     'message' => 'El vencimiento de una clave de acceso que define cuánto tiempo es válido esa clave. Después del vencimiento, el usuario deberá ingresar una nueva clave.'
   },
   17 => {
-    'lastUpdated' => '1207704986',
-    'message' => 'Contrase&ntilde;a actualizada'
+    'lastUpdated' => '1291129763',
+    'message' => 'Contraseña Actualizada'
   },
   18 => {
-    'lastUpdated' => '1207705023',
-    'message' => '&iquest;Permitir a los usuarios cambiar la contrase&ntilde;a?'
+    'lastUpdated' => '1291129813',
+    'message' => '¿Permitir el cambio de contraseñas?'
   },
   '18 help' => {
     'lastUpdated' => '1234630829',
     'message' => '¿Les estará permitido a los usuarios modificar sus claves de acceso? Tenga en cuenta que conjuntamente con vencimientos dispuestos, esta configuración puede causar mucho trabajo para el administrador.'
   },
   19 => {
-    'lastUpdated' => '1207705052',
-    'message' => '&iquest;Permitir a los usuarios cambiar el nombre de usuario?'
+    'lastUpdated' => '1291129801',
+    'message' => '¿Permitir el cambio de nombre de usuario?'
   },
   '19 help' => {
     'lastUpdated' => '1234630851',
@@ -66,48 +66,52 @@ our $I18N = {
     'message' => 'Escriba su contraseña nuevamente'
   },
   20 => {
-    'lastUpdated' => '1207705103',
-    'message' => '&iquest;Permitir a los usuarios cambiar la contrase&ntilde;a?'
+    'lastUpdated' => '1291129829',
+    'message' => '¿Permitir el cambio de contraseña?'
   },
   21 => {
-    'lastUpdated' => '1207705129',
-    'message' => '&iquest;Permitir a los usuarios cambiar el nombre de usuario?'
+    'lastUpdated' => '1291129840',
+    'message' => '¿Permitir el cambio de nombre de usuario?'
   },
   22 => {
     'lastUpdated' => '1207705220',
     'message' => 'No hay campos para actualizar'
   },
   3 => {
-    'lastUpdated' => '1207723651',
+    'lastUpdated' => '1291129853',
     'message' => 'Las contraseñas no coinciden, por favor intente nuevamente'
   },
   4 => {
-    'lastUpdated' => '1207705481',
-    'message' => 'La contrase&ntilde;a no puede ser vac&iacute;a'
+    'lastUpdated' => '1291129865',
+    'message' => 'No puede dejar la contraseña en blanco.'
   },
   5 => {
-    'lastUpdated' => '1207705511',
-    'message' => 'La contrase&ntilde;a no puede ser &quot;password&quot;'
+    'lastUpdated' => '1291129888',
+    'message' => 'La contraseña no puede ser la palabra "password".'
   },
   6 => {
-    'lastUpdated' => '1207705538',
-    'message' => '&iquest;Permitir recuperar la contrase&ntilde;a?'
+    'lastUpdated' => '1291129900',
+    'message' => '¿Permitir la recuperación de contraseñas?'
   },
   7 => {
-    'lastUpdated' => '1207705768',
-    'message' => 'El m&iacute;nimo de caracteres permitido para la contrase&ntilde;a es '
+    'lastUpdated' => '1291129968',
+    'message' => "La contrase\x{f1}a es muy corta \x{2014} su longitud debe ser al menos "
   },
   8 => {
-    'lastUpdated' => '1207705792',
-    'message' => 'La contrase&ntilde;a a expirado'
+    'lastUpdated' => '1291129994',
+    'message' => 'Su contraseña ha vencido.'
   },
   9 => {
-    'lastUpdated' => '1207706312',
-    'message' => '&iquest;obligar al cambio de contrase&ntilde;a en la creaci&oacute;n del usuario?'
+    'lastUpdated' => '1291130026',
+    'message' => '¿Expirar la contraseña al crear el usuario?'
   },
   '9 help' => {
     'lastUpdated' => '1234630941',
     'message' => 'Esto obligará al usuario a cambiar su contraseña de inmediato una vez que se crea la cuenta.'
+  },
+  'Password Recovery Email Template' => {
+    'lastUpdated' => '1289571578',
+    'message' => 'Plantilla Correo de Recuperación de Clave'
   },
   'account activation template' => {
     'lastUpdated' => '1253635773',
@@ -441,6 +445,10 @@ our $I18N = {
     'lastUpdated' => '1207713475',
     'message' => 'Direcci&oacute;n de correo'
   },
+  'password recovery email template help' => {
+    'lastUpdated' => '1289571607',
+    'message' => 'Seleccione la plantilla a emplear para la construcción de los mensajes de correo enviados durante el proceso de recuperación de clave.'
+  },
   'password recovery login hoverHelp' => {
     'lastUpdated' => '1207723536',
     'message' => 'Introduce aquí tu nombre de usuario'
@@ -545,6 +553,14 @@ our $I18N = {
     'lastUpdated' => '1207711117',
     'message' => 'Direcci&oacute;n para la p&aacute;gina de recuperaci&oacute;n de contrase&ntilde;a.'
   },
+  'recoverPasswordUrl' => {
+    'lastUpdated' => '1289571620',
+    'message' => 'El URL que el usuario debe visitar para recuperar su clave.'
+  },
+  'recovery email template title' => {
+    'lastUpdated' => '1289571648',
+    'message' => 'Plantilla para Correo de Recuperación de Clave bajo Autenticación WebGUI'
+  },
   'recovery template title' => {
     'lastUpdated' => '1207711084',
     'message' => 'Template de autenticaci&oacute;n en WebGUI para recuperar contrase&ntilde;a '
@@ -602,12 +618,12 @@ our $I18N = {
     'message' => 'La ficha (token) de recuperaci&oacute;n de contrase&ntilde;a suministrada ya ha sido utilizada.'
   },
   'topicName' => {
-    'lastUpdated' => '1207706434',
-    'message' => 'WebGUI Autenticaci&oacute;n'
+    'lastUpdated' => '1291130063',
+    'message' => 'Autenticación WebGUI'
   },
   'use captcha' => {
-    'lastUpdated' => '1207706109',
-    'message' => 'Usar&nbsp; imagen captcha?'
+    'lastUpdated' => '1291130076',
+    'message' => '¿Usar CAPTCHA?'
   },
   'use captcha help' => {
     'lastUpdated' => '1234631288',

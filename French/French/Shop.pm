@@ -25,6 +25,10 @@ our $I18N = {
     'lastUpdated' => '1242921521',
     'message' => 'Envoyé'
   },
+  'Shipping Address' => {
+    'lastUpdated' => '1292860313',
+    'message' => 'Adresse de livraison'
+  },
   'add a new address' => {
     'lastUpdated' => '1242921542',
     'message' => 'Ajouter une nouvelle adresse'
@@ -85,6 +89,10 @@ our $I18N = {
     'lastUpdated' => '1242922488',
     'message' => 'Disponible'
   },
+  'billing address1' => {
+    'lastUpdated' => '1292860373',
+    'message' => 'Veuillez entrer une adresse de facturation'
+  },
   'biweekly' => {
     'lastUpdated' => '1242921924',
     'message' => '2 semaines'
@@ -106,7 +114,7 @@ our $I18N = {
     'message' => 'Ville'
   },
   'code' => {
-    'lastUpdated' => '1242921963',
+    'lastUpdated' => '1292860382',
     'message' => 'Code postal'
   },
   'company url' => {
@@ -154,7 +162,7 @@ our $I18N = {
     'message' => 'Email'
   },
   'empty cart' => {
-    'lastUpdated' => '1242922922',
+    'lastUpdated' => '1292860390',
     'message' => 'Actuellement il n\'y a pas d\'article dans votre panier.'
   },
   'error help' => {
@@ -206,7 +214,7 @@ our $I18N = {
     'message' => ''
   },
   'item' => {
-    'lastUpdated' => '1242923356',
+    'lastUpdated' => '1292860394',
     'message' => 'Article'
   },
   'item assetId' => {

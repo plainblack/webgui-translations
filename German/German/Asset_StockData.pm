@@ -81,6 +81,10 @@ our $I18N = {
     'lastUpdated' => '1241126766',
     'message' => 'Börsendaten'
   },
+  'cache timeout help' => {
+    'lastUpdated' => '1301988868',
+    'message' => 'Wie lange sollen die abgerufenen Aktiensymbole intern gecached werden? Hinweis: Das Standardtemplate nutzt Javascript um die Abrufe clientseitig durchzuführen.'
+  },
   'defaultStocks' => {
     'lastUpdated' => '1252339245',
     'message' => 'Standardliste des Aktienbestandes wenn der Nutzer keinen gewählt hat. String zeilenweise.'

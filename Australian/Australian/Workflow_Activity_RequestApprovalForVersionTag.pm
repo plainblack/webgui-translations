@@ -5,8 +5,8 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
-        'message'     => 'Request Approval For Version Tag'
+        'lastUpdated' => 1270834474,
+        'message'     => 'Request Approval Four Version Tag'
     }
 };
 1;

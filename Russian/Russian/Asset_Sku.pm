@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1236354426',
     'message' => "\x{417}\x{430}\x{434}\x{430}\x{439}\x{442}\x{435} \x{446}\x{435}\x{43d}\x{443} \x{442}\x{43e}\x{432}\x{430}\x{440}\x{430} \x{438} SKU"
   },
+  'add to cart' => {
+    'lastUpdated' => '1268093244',
+    'message' => "\x{41f}\x{43e}\x{43b}\x{43e}\x{436}\x{438}\x{442}\x{44c} \x{432} \x{43a}\x{43e}\x{440}\x{437}\x{438}\x{43d}\x{443}"
+  },
   'assetName' => {
     'lastUpdated' => '1236354446',
     'message' => 'Sku (Stock Keeping Unit)'
@@ -21,6 +25,14 @@ our $I18N = {
     'lastUpdated' => '1236354354',
     'message' => "\x{41e}\x{442}\x{43e}\x{431}\x{440}\x{430}\x{436}\x{430}\x{442}\x{44c} \x{43d}\x{430}\x{437}\x{432}\x{430}\x{43d}\x{438}\x{435}?"
   },
+  'see more' => {
+    'lastUpdated' => '1268093202',
+    'message' => "\x{41f}\x{43e}\x{434}\x{440}\x{43e}\x{431}\x{43d}\x{435}\x{435}"
+  },
+  'shipsSeparately' => {
+    'lastUpdated' => '1268093298',
+    'message' => "\x{414}\x{43e}\x{441}\x{442}\x{430}\x{432}\x{43b}\x{44f}\x{442}\x{44c} \x{43e}\x{442}\x{434}\x{435}\x{43b}\x{44c}\x{43d}\x{43e}?"
+  },
   'shop' => {
     'lastUpdated' => '1236354337',
     'message' => "\x{41c}\x{430}\x{433}\x{430}\x{437}\x{438}\x{43d}"
@@ -28,6 +40,10 @@ our $I18N = {
   'sku' => {
     'lastUpdated' => '1236354324',
     'message' => 'SKU (Stock Keeping Unit)'
+  },
+  'sku properties title' => {
+    'lastUpdated' => '1268093356',
+    'message' => "\x{421}\x{432}\x{43e}\x{439}\x{441}\x{442}\x{432}\x{430} Sku (Stock Keeping Unit)"
   },
   'vendor' => {
     'lastUpdated' => '1236463907',

@@ -409,6 +409,14 @@ our $I18N = {
     'lastUpdated' => '1215709485',
     'message' => 'Incluir Fechas'
   },
+  'invalid end date' => {
+    'lastUpdated' => '1302872715',
+    'message' => 'Fecha de final es inválida. Por favor ingrese una fecha válida de la forma \'AAAA-MM-DD\'.'
+  },
+  'invalid start date' => {
+    'lastUpdated' => '1302872723',
+    'message' => 'Fecha de inicio es inválida. Por favor ingrese una fecha válida de la forma \'AAAA-MM-DD\'.'
+  },
   'isAllDay' => {
     'lastUpdated' => '1215709225',
     'message' => 'Un condicional que es verdadero si este evento ha sido configurado para realizarse todo el d&iacute;a.'

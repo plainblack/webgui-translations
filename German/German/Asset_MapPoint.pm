@@ -221,6 +221,30 @@ our $I18N = {
     'lastUpdated' => '1250972851',
     'message' => 'Bild'
   },
+  'user defined variables' => {
+    'lastUpdated' => '1298376580',
+    'message' => 'Anders als das CollaborationSystem unterstützt MapPoint keine vordefinierten Felder für nutzerdefinierte Variablen. Stattdessen kann jede benötigte Art von Formularfeld erzeugt werden, dem Feld muss als gewünschte Bezeichnung die der Variable userDefined gegeben werden. WebGUI kümmert sich dann um die Speicherung.'
+  },
+  'userDefined1' => {
+    'lastUpdated' => '1298376612',
+    'message' => 'Der Wert des userDefined-Feldes 1'
+  },
+  'userDefined2' => {
+    'lastUpdated' => '1298376618',
+    'message' => 'Der Wert des userDefined-Feldes 2'
+  },
+  'userDefined3' => {
+    'lastUpdated' => '1298376623',
+    'message' => 'Der Wert des userDefined-Feldes 3'
+  },
+  'userDefined4' => {
+    'lastUpdated' => '1298376629',
+    'message' => 'Der Wert des userDefined-Feldes 4'
+  },
+  'userDefined5' => {
+    'lastUpdated' => '1298376638',
+    'message' => 'Der Wert des userDefined-Feldes 5'
+  },
   'website' => {
     'lastUpdated' => '1271849882',
     'message' => 'Website zu dieser Kartenposition'

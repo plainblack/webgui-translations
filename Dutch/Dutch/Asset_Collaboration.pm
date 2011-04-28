@@ -431,6 +431,42 @@ Gebruik van avatars vermindert de snelheid van het collaboratiesysteem.'
     'lastUpdated' => '1222875930',
     'message' => 'De datum in epoch waarop dit object gepubliceerd is, zodat het Date macro het met verschillende opmaak kan gebruiken.'
   },
+  'every 10 minutes' => {
+    'lastUpdated' => '1298566479',
+    'message' => 'Elke 10 minuten'
+  },
+  'every 15 minutes' => {
+    'lastUpdated' => '1298566491',
+    'message' => 'Elke 15 minuten'
+  },
+  'every 20 minutes' => {
+    'lastUpdated' => '1298566501',
+    'message' => 'Elke 20 minuten'
+  },
+  'every 30 minutes' => {
+    'lastUpdated' => '1298566509',
+    'message' => 'Elke 30 minuten'
+  },
+  'every 5 minutes' => {
+    'lastUpdated' => '1298566516',
+    'message' => 'Elke 5 minuten'
+  },
+  'every hour' => {
+    'lastUpdated' => '1298566524',
+    'message' => 'Elk uur'
+  },
+  'every minute' => {
+    'lastUpdated' => '1298566533',
+    'message' => 'Elke minuut'
+  },
+  'every other hour' => {
+    'lastUpdated' => '1298566540',
+    'message' => 'Om het huur'
+  },
+  'every other minute' => {
+    'lastUpdated' => '1298566547',
+    'message' => 'Om de minuut'
+  },
   'fatal' => {
     'lastUpdated' => '1147954549',
     'message' => 'Fataal (totdat het probleem is opgelost kan er niet verder gegaan worden)'
@@ -826,6 +862,10 @@ Nadat u deze instelling wijzigt worden niet alle  bestaande foto\'s opnieuw verk
   'notification template description' => {
     'lastUpdated' => '1147706162',
     'message' => 'Het sjabloon dat gebruikt wordt voor het aanmaken van emails naar gebruikers die zich voor deze asset hebben ingeschreven.'
+  },
+  'once per day' => {
+    'lastUpdated' => '1298566560',
+    'message' => 'Eens per dag'
   },
   'open' => {
     'lastUpdated' => '1147187690',

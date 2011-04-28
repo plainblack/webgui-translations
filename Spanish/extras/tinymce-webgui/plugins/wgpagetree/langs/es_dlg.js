@@ -1,9 +1,9 @@
-tinyMCE.addI18n('en.wgpagetree',{
-    desc        : 'Insert A Link',
-    linkprops   : 'Link Properties',
+tinyMCE.addI18n('es.wgpagetree',{
+    desc        : 'Insertar un Enlace',
+    linkprops   : 'Propiedades del Enlace',
     linkurl     : 'URL',
-    linktarget  : 'Target',
-    samewindow  : 'Open link in same window.',
-    newwindow   : 'Open link in new window.',
-    pages       : 'Pages'
+    linktarget  : 'Destino',
+    samewindow  : 'Abrir enlace en la misma ventana.',
+    newwindow   : 'Abrir enlace en una ventana nueva.',
+    pages       : 'P&aacute;ginas'
 });

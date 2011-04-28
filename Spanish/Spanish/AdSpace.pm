@@ -14,20 +14,20 @@ our $I18N = {
     'message' => 'Texto de la Publicidad'
   },
   'ad text help' => {
-    'lastUpdated' => '1223923974',
-    'message' => 'Escriba hasta un m&aacute;ximo de 255 caracteres con el texto que le gustar&iacute;a ver aparecer en esta Publicidad. Tenga en cuenta que dependiendo del tama&ntilde;o del anuncio, es posible que no pueda leerse todo el texto. Se recomienda mantenerlo en 60 caracteres o menos.'
+    'lastUpdated' => '1291130203',
+    'message' => 'Escriba no más de 255 caracteres con el texto que ha de aparecer en esta Publicidad. Tenga en cuenta que dependiendo del tamaño del anuncio, es posible que no pueda leerse todo el texto. Se recomienda mantenerlo en 60 caracteres o menos.'
   },
   'add ad space' => {
-    'lastUpdated' => '1223923987',
-    'message' => 'A&ntilde;adir Espacio Publicitario'
+    'lastUpdated' => '1291130215',
+    'message' => 'Añadir Espacio Publicitario'
   },
   'add ad space body' => {
     'lastUpdated' => '1223924013',
     'message' => 'Esta pantalla presenta una lista con todos los Espacios Publicitarios disponibles en WebGUI. Los &iacute;conos al lado de cada Espacio Publicitario le permiten editarlo o eliminarlo. Adicionalmente, encontrar&aacute; un enlace que le permite a&ntilde;adir nuevos Espacios Publicitario.'
   },
   'add an ad' => {
-    'lastUpdated' => '1223924041',
-    'message' => 'Agregar una Publicidad.'
+    'lastUpdated' => '1291130228',
+    'message' => 'Añadir Publicidad.'
   },
   'background color' => {
     'lastUpdated' => '1223923452',
@@ -50,24 +50,24 @@ our $I18N = {
     'message' => 'Clicks comprados'
   },
   'clicks bought help' => {
-    'lastUpdated' => '1223923635',
-    'message' => '&iquest;Cu&aacute;ntos clics ha comprado el anunciante? Si se adquiri&oacute; un n&uacute;mero de impresiones puede dejar &eacute;sta en cero.'
+    'lastUpdated' => '1291130280',
+    'message' => '¿Cuántos clicks ha comprado el anunciante? Puede dejarse en cero, si el anunciante adquirió un número de impresiones en lugar de un número de clicks.'
   },
   'confirm ad delete' => {
-    'lastUpdated' => '1223924101',
-    'message' => '&iquest;Est&aacute; seguro que desea borrar esta Publicidad?'
+    'lastUpdated' => '1291130321',
+    'message' => '¿Está seguro que desea borrar esta Publicidad?'
   },
   'confirm ad space delete' => {
-    'lastUpdated' => '1223924128',
-    'message' => '&iquest;Est&aacute; seguro que quieres eliminar este Espacio Publicitario y todas las Publicidades asociadas?'
+    'lastUpdated' => '1291130340',
+    'message' => '¿Está seguro que desea borrar este Espacio Publicitario y todas las Publicidades asociadas?'
   },
   'description' => {
-    'lastUpdated' => '1223923706',
-    'message' => 'Descripci&oacute;n'
+    'lastUpdated' => '1291130347',
+    'message' => 'Descripción'
   },
   'description help' => {
-    'lastUpdated' => '1223924148',
-    'message' => 'Una descripci&oacute;n de la ubicaci&oacute;n de este Espacio Publicitario en el sitio.'
+    'lastUpdated' => '1291130366',
+    'message' => 'Una descripción para la ubicación de este Espacio Publicitario en el sitio.'
   },
   'edit ad space' => {
     'lastUpdated' => '1223924161',
@@ -86,16 +86,16 @@ our $I18N = {
     'message' => 'Hay un error en su Espacio Publicitario:'
   },
   'error invalid characters' => {
-    'lastUpdated' => '1223924268',
-    'message' => 'El t&iacute;tulo solamente puede contener letras, n&uacute;meros y espacios en blanco.'
+    'lastUpdated' => '1291130386',
+    'message' => 'El título solamente puede contener letras, números y espacios en blanco.'
   },
   'height' => {
     'lastUpdated' => '1223925271',
     'message' => 'Altura'
   },
   'height help' => {
-    'lastUpdated' => '1223924291',
-    'message' => 'Altura en p&iacute;xeles para el Espacio Publicitario.'
+    'lastUpdated' => '1291130398',
+    'message' => 'Altura en pixels para el Espacio Publicitario.'
   },
   'image' => {
     'lastUpdated' => '1223924312',
@@ -110,20 +110,20 @@ our $I18N = {
     'message' => 'Impresiones Compradas'
   },
   'impressions bought help' => {
-    'lastUpdated' => '1252512547',
-    'message' => '¿Cuántas impresiones ha comprado el anunciante? Si se adquirió un número de clicks, puede dejar éste en cero.'
+    'lastUpdated' => '1291130432',
+    'message' => '¿Cuántas impresiones ha comprado el anunciante? Puede dejarse en cero si el anunciante adquirió un número de clicks en lugar de impresiones.'
   },
   'is active' => {
-    'lastUpdated' => '1223924458',
-    'message' => 'Activo?'
+    'lastUpdated' => '1291130439',
+    'message' => '¿Activo?'
   },
   'is active help' => {
-    'lastUpdated' => '1223924479',
-    'message' => '&iquest;Incluir esta Publicidad en la rotaci&oacute;n?'
+    'lastUpdated' => '1291130454',
+    'message' => '¿Incluir esta Publicidad en la rotación?'
   },
   'macro code prompt' => {
-    'lastUpdated' => '1223924502',
-    'message' => 'Utilice este c&oacute;digo para colocar este Espacio Publicitario:'
+    'lastUpdated' => '1291130495',
+    'message' => 'Utilice este macro en aquellas plantillas donde quiera incluir este Espacio Publicitario:'
   },
   'manage ad spaces' => {
     'lastUpdated' => '1223924514',
@@ -182,8 +182,8 @@ our $I18N = {
     'message' => 'Color del texto, expresado en RGB hexadecimal.'
   },
   'title' => {
-    'lastUpdated' => '1223925060',
-    'message' => 'T&iacute;tulo'
+    'lastUpdated' => '1291130510',
+    'message' => 'Título'
   },
   'title help' => {
     'lastUpdated' => '1223925094',
@@ -198,8 +198,8 @@ our $I18N = {
     'message' => 'Tipo'
   },
   'type help' => {
-    'lastUpdated' => '1223925153',
-    'message' => '&iquest;Qu&eacute; tipo de Publicidad estamos incluyendo?'
+    'lastUpdated' => '1291130522',
+    'message' => '¿Qué tipo de Publicidad estamos incluyendo?'
   },
   'url' => {
     'lastUpdated' => '1223925165',
@@ -218,8 +218,8 @@ our $I18N = {
     'message' => 'Anchura'
   },
   'width help' => {
-    'lastUpdated' => '1223925306',
-    'message' => 'Anchura en p&iacute;xeles para el Espacio Publicitario.'
+    'lastUpdated' => '1291130541',
+    'message' => 'Anchura en pixels para el Espacio Publicitario.'
   }
 }
 ;

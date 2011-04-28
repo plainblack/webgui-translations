@@ -313,6 +313,10 @@ our $I18N = {
     'lastUpdated' => '1178799516',
     'message' => 'Die ID des Templates, das für die Bestätigung benutzt wird, die dem Benutzer nach dem Abschicken der Daten des Daten Formulars gezeigt wird.'
   },
+  'add entry' => {
+    'lastUpdated' => '1295596786',
+    'message' => 'Eintrag hinzufügen'
+  },
   'addField.label' => {
     'lastUpdated' => '1178799545',
     'message' => 'Das Standard Label für die addField.url Variable.'

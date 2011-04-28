@@ -4,15 +4,15 @@ package WebGUI::i18n::Australian::Macro_AssetProxy;
 use strict;
 our $I18N = {
     'asset in clipboard' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'AssetProxy: Asset in clipboard'
     },
     'asset in trash' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'AssetProxy: Asset in trash'
     },
     'invalid url' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'AssetProxy: Invalid Asset URL or assetId'
     }
 };

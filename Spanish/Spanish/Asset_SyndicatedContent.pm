@@ -237,6 +237,10 @@ our $I18N = {
     'lastUpdated' => '1224527449',
     'message' => 'N&uacute;mero m&aacute;ximo de titulares a mostrar.'
   },
+  'media' => {
+    'lastUpdated' => '1302873353',
+    'message' => 'Cualquier entrada MediaRSS para este item. Su estructura es copiada directamente usando el módulo XML::FeedPP::MediaRSS'
+  },
   'new_rss_site' => {
     'lastUpdated' => '1224527543',
     'message' => 'Un condicional que indica haber iniciado la presentaci&oacute;n de los items de una fuente RSS diferente la del item previo. Esto tiene utilidad cuando las fuentes est&aacute;n siendo presentadas en modo &quot;Agrupados por Fuente&quot;, pues permite acceder a las variables <strong>site_title</strong> y <strong>site_link</strong> en el momento preciso.'

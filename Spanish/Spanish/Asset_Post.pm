@@ -205,6 +205,10 @@ our $I18N = {
     'lastUpdated' => '1253407401',
     'message' => 'Un condicional que indica si el usuario está respondiendo a una Publicación existente.'
   },
+  'isSubscribedToCs' => {
+    'lastUpdated' => '1280249175',
+    'message' => 'Un condicional que indica si el usuario actual está suscrito al Sistema de Colaboración que contiene este artículo.'
+  },
   'isThread' => {
     'lastUpdated' => '1253407428',
     'message' => 'Un condicional que indica si el usuario está editando la Publicación principal de un Hilo o no.'

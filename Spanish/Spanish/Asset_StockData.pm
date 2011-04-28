@@ -81,6 +81,10 @@ our $I18N = {
     'lastUpdated' => '1253415330',
     'message' => 'Acciones y Valores'
   },
+  'cache timeout help' => {
+    'lastUpdated' => '1302873407',
+    'message' => '¿Cuánto tiempo almacenar en caché la información obtenida para cada símbolo?'
+  },
   'defaultStocks' => {
     'lastUpdated' => '1253999521',
     'message' => 'La lista por defecto de las Acciones Valores si el usuario no selecciona ninguna.'

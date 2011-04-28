@@ -170,8 +170,8 @@ our $I18N = {
     'message' => "Adres e-mail jest ju\x{17c} w u\x{17c}yciu. Prosz\x{119} wprowadzi\x{107} inny."
   },
   1073 => {
-    'lastUpdated' => '1204890507',
-    'message' => 'Szablon stylu'
+    'lastUpdated' => '1271144468',
+    'message' => 'Szablon strony'
   },
   1075 => {
     'lastUpdated' => '1204890515',
@@ -1750,8 +1750,8 @@ our $I18N = {
     'message' => 'Poprzednia strona'
   },
   92 => {
-    'lastUpdated' => '1207321622',
-    'message' => "Strona nast\x{119}pna"
+    'lastUpdated' => '1274566190',
+    'message' => "Nast\x{119}pna strona"
   },
   93 => {
     'lastUpdated' => '1207321630',
@@ -1989,6 +1989,14 @@ our $I18N = {
     'lastUpdated' => '1238498106',
     'message' => ''
   },
+  'Clear' => {
+    'lastUpdated' => '1266310569',
+    'message' => "Czy\x{15b}\x{107}"
+  },
+  'Comments' => {
+    'lastUpdated' => '1266310513',
+    'message' => 'Komentarze'
+  },
   'Contact Us' => {
     'lastUpdated' => '1238417093',
     'message' => 'Kontakt z nami'
@@ -2055,6 +2063,10 @@ a user.'
     'lastUpdated' => '1238500163',
     'message' => "Umie\x{15b}\x{107} tutaj zawarto\x{15b}\x{107} strony &quot;O NAS&quot;"
   },
+  'Select One' => {
+    'lastUpdated' => '1266310649',
+    'message' => 'Wybierz jeden'
+  },
   'Select State' => {
     'lastUpdated' => '1237460839',
     'message' => 'Wybierz stan'
@@ -2099,6 +2111,10 @@ a user.'
     'lastUpdated' => '1238419334',
     'message' => ''
   },
+  'Working...' => {
+    'lastUpdated' => '1266310656',
+    'message' => "Pracuj\x{119}..."
+  },
   'Your Email Address' => {
     'lastUpdated' => '1238419346',
     'message' => 'Twój adres E-mail'
@@ -2118,6 +2134,10 @@ a user.'
   'account.options' => {
     'lastUpdated' => '1238417236',
     'message' => ''
+  },
+  'activate user' => {
+    'lastUpdated' => '1266310667',
+    'message' => "Aktywacja u\x{17c}ytkownika"
   },
   'additional parameters' => {
     'lastUpdated' => '1238420736',
@@ -2224,8 +2244,8 @@ a user.'
     'message' => 'Wybierz zasób/asset'
   },
   'class name' => {
-    'lastUpdated' => '1238421194',
-    'message' => ''
+    'lastUpdated' => '1266310683',
+    'message' => 'Nazwa klasy'
   },
   'clear cache' => {
     'lastUpdated' => '1238417428',
@@ -2303,6 +2323,10 @@ a user.'
     'lastUpdated' => 0,
     'message' => "Kt\x{f3}rey workflow powinien by\x{107} u\x{17c}yty domy\x{15b}lnie gdy u\x{17c}ytkownik utworzy swoj\x{105} w\x{142}\x{105}sn\x{105} wersj\x{119} 'tags'."
   },
+  'delete user' => {
+    'lastUpdated' => '1266310691',
+    'message' => "Usu\x{144} u\x{17c}ytkownika"
+  },
   'demographic info short' => {
     'lastUpdated' => '1238664542',
     'message' => 'Demograficzne'
@@ -2346,6 +2370,14 @@ a user.'
   'float' => {
     'lastUpdated' => '1238417695',
     'message' => "Liczba (Dziesi\x{119}tnie)"
+  },
+  'formFooter' => {
+    'lastUpdated' => '1266310707',
+    'message' => "Kod HTML ko\x{144}cz\x{105}cy formularz."
+  },
+  'formHeader' => {
+    'lastUpdated' => '1266310720',
+    'message' => "Kod HTML rozpoczynaj\x{105}cy formularz."
   },
   'group' => {
     'lastUpdated' => '1238417705',
@@ -2442,6 +2474,10 @@ a user.'
   'is editable help' => {
     'lastUpdated' => '1238419834',
     'message' => "<p>Czy grupa powinna by\x{107} pokazywana na li\x{15b}cie zarz\x{105}dzania grupami? Je\x{17c}eli zaznaczysz \"Nie\" wtedy nie b\x{119}dziesz m\x{f3}g\x{142} zarz\x{105}dza\x{107} t\x{105} grup\x{105}. </p>"
+  },
+  'language help' => {
+    'lastUpdated' => '1266310782',
+    'message' => "Wybierz domy\x{15b}lny j\x{119}zyk dla u\x{17c}ytkownika na tej stronie."
   },
   'language not available error' => {
     'lastUpdated' => '1238419854',
@@ -3096,8 +3132,8 @@ a user.'
     'message' => "Wy\x{15b}lij"
   },
   'target' => {
-    'lastUpdated' => '1118936724',
-    'message' => 'Target'
+    'lastUpdated' => '1266310842',
+    'message' => 'Cel'
   },
   'target description' => {
     'lastUpdated' => '1237244396',
@@ -3238,6 +3274,10 @@ a user.'
   'view inbox template description' => {
     'lastUpdated' => '1238418404',
     'message' => "Wybierz szablon dla wy\x{15b}wietlenia skrzynki odbiorczej"
+  },
+  'view profile' => {
+    'lastUpdated' => '1266310886',
+    'message' => "Widok profilu u\x{17c}ytkownika."
   },
   'webgui' => {
     'lastUpdated' => '1238418334',

@@ -4,19 +4,19 @@ package WebGUI::i18n::Australian::Macro_FileUrl;
 use strict;
 our $I18N = {
     'invalid url' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Invalid Asset URL'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'File Url'
     },
     'no filename' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The Asset you requested does not have a filename property.'
     },
     'no storage' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The Asset you requested does not store files.'
     }
 };

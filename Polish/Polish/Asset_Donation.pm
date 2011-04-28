@@ -54,16 +54,16 @@ our $I18N = {
     'message' => "Warunek spe\x{142}niony je\x{17c}eli u\x{17c}ytkownik doda\x{142} darowizn\x{119} do swojego koszyka, a wi\x{119}c mo\x{17c}emy wy\x{15b}wietli\x{107} wiadomo\x{15b}\x{107} z podzi\x{119}kowaniem."
   },
   'priceField' => {
-    'lastUpdated' => '1238592839',
-    'message' => ''
+    'lastUpdated' => '1276694263',
+    'message' => "Pole w formularzu dotacji w kt\x{f3}rym u\x{17c}ytkownik typuje jak\x{105} kwot\x{119} chcia\x{142}by przeznaczy\x{107}. "
   },
   'thank you message' => {
     'lastUpdated' => '1238592966',
     'message' => "Wiadomo\x{15b}\x{107} z podzi\x{119}kowaniem"
   },
   'thank you message help' => {
-    'lastUpdated' => '1238593005',
-    'message' => ''
+    'lastUpdated' => '1276694206',
+    'message' => "Napisz podzi\x{119}kowania dla u\x{17c}ytkownik\x{f3}w kt\x{f3}rzy dokonali dotacji."
   }
 }
 ;

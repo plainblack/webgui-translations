@@ -1,5 +1,16 @@
-Escribir los nombres de Assets con la primera letra
-mayúscula permite denotar su cualidad como "objetos".
+Haga un esfuerzo por utilizar un español neutral.
+
+Add    = Agregar
+Modify = Cambiar
+Delete = Eliminar
+
+Escribir los nombres de Assets con la primera letra mayúscula permite denotar su cualidad como "objetos".
+Así mismo, es conveniente escribir sus componentes en mayúscula para facilitar la conexión entre las partes y el todo.
+
+DataForm      = Formulario
+   Tab        = Pestaña
+   Field      = Campo
+   Entry      = Registro
 
 ad            = Publicidad
 ad space      = Espacio Publicitario
@@ -26,7 +37,7 @@ Cron = Cron
 Page Layout = Diseño de Página
 Dashboard = Panel
 Dashlet = Elemento
-Data Form = Formulario de Datos
+
 MiniCart = MiniCarro
 Cache Timeout = Tiempo Máximo en Caché
 Commit = Entrega
@@ -122,6 +133,7 @@ sub makeUrlCompliant {                  # you have to have this method, but it c
 1;
 #vim:ft=perl
 --------------------------------------------------------------------------
+
 
 
 

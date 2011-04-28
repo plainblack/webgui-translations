@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1253707899',
     'message' => 'El URL para agregar Noticia.'
   },
+  'alphabetically' => {
+    'lastUpdated' => '1280335550',
+    'message' => 'Alfabéticamente'
+  },
   'approval workflow' => {
     'lastUpdated' => '1253707911',
     'message' => 'Flujo de Trabajo para Aprobar Noticia'
@@ -56,6 +60,10 @@ our $I18N = {
   'canPostStories' => {
     'lastUpdated' => '1253708417',
     'message' => 'Un condicional que indica si el usuario puede publicar Noticias.'
+  },
+  'chronologically' => {
+    'lastUpdated' => '1280335555',
+    'message' => 'Cronológicamente'
   },
   'creationDate' => {
     'lastUpdated' => '1253708438',
@@ -164,6 +172,14 @@ our $I18N = {
   'searchHeader' => {
     'lastUpdated' => '1253710040',
     'message' => 'Código HTML para comenzar el formulario de búsqueda. Esta variable estará vacía cuando el Archivo de Noticias sea exportado a HTML.'
+  },
+  'sortAlphabeticallyChronologically' => {
+    'lastUpdated' => '1280335565',
+    'message' => 'Ordenar'
+  },
+  'sortAlphabeticallyChronologically description' => {
+    'lastUpdated' => '1280335589',
+    'message' => 'Indica si los mensajes aparecen en orden de publicación o según el título.'
   },
   'stories per page' => {
     'lastUpdated' => '1253710052',

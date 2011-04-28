@@ -4,9 +4,9 @@ use strict;
 use utf8;
 
 our $LANGUAGE = {
-  'label' => "\x{7e41}\x{9ad4}\x{4e2d}\x{6587}",
-  'languageAbbreviation' => 'zh-tw',
-  'locale' => 'zh-tw',
+  'label' => "\x{6b63}\x{9ad4}\x{4e2d}\x{6587}",
+  'languageAbbreviation' => 'zh',
+  'locale' => 'TW',
   'toolbar' => 'bullet'
 }
 ;
@@ -14,6 +14,14 @@ our $LANGUAGE = {
 sub makeUrlCompliant {
     my $value = shift;
 ##<-- start transliteration -->##
+$value =~ s/^\s+//;
+$value =~ s/^\\//;
+$value =~ s/ /_/g;
+$value =~ s/\.\$//;
+$value =~ s/[^A-Za-z0-9\-\.\_\/]//g;
+$value =~ s/^\///;
+$value =~ s/\/\//\//g;
+
 
 ##<-- end transliteration -->##
     $value =~ s/\s+$//;                     #removes trailing whitespace

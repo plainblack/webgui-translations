@@ -4,7 +4,7 @@ package WebGUI::i18n::Australian::Macro_LastModified;
 use strict;
 our $I18N = {
     'never' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Never'
     }
 };

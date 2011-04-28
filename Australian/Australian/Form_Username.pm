@@ -4,7 +4,7 @@ package WebGUI::i18n::Australian::Form_Username;
 use strict;
 our $I18N = {
     'username in use' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Sorry, that account name is already in use by another member of this site.'
     }
 };

@@ -1,6 +1,18 @@
 package WebGUI::i18n::German::Asset_Thingy;
 use utf8;
 our $I18N = {
+  'Creating column headers' => {
+    'lastUpdated' => '1288983254',
+    'message' => 'Erstelle Spaltenüberschriften'
+  },
+  'Return to %s' => {
+    'lastUpdated' => '1288983291',
+    'message' => 'Zurück zu %s.'
+  },
+  'Writing data' => {
+    'lastUpdated' => '1288983232',
+    'message' => 'Schreibe Daten'
+  },
   'add field label' => {
     'lastUpdated' => '1227002067',
     'message' => 'Feld hinzufügen'
@@ -603,6 +615,10 @@ Wenn Sie "verborgen" oder "sichtbar" wählen, geben Sie bitte auch einen Standar
     'lastUpdated' => '1246485021',
     'message' => 'Die Id eines Suchergebnisses.'
   },
+  'searchResult_json' => {
+    'lastUpdated' => '1285235293',
+    'message' => 'JSON-kodierte Version des searchResult_loop, so dass per JavaScript auf die Daten zugegriffen werden kann.'
+  },
   'searchResult_loop' => {
     'lastUpdated' => '1251505702',
     'message' => 'Eine Schleife, die die Suchergebnisse enthält'
@@ -768,8 +784,8 @@ Wenn Sie "verborgen" oder "sichtbar" wählen, geben Sie bitte auch einen Standar
     'message' => 'Tabelle Standardanzeige'
   },
   'viewScreenTitle' => {
-    'lastUpdated' => '1240997967',
-    'message' => 'Anzeige'
+    'lastUpdated' => '1299573425',
+    'message' => 'Der Titel für die Anzeige. Dies ist die Verknüpfung aller Werte der Felder, die den Anzeige-Titel für diese Tabelle gesetzt haben. Wenn keine Felder gesetzt sind, dann ist der Titel leer.'
   },
   'view_url' => {
     'lastUpdated' => '1240471825',

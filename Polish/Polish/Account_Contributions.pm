@@ -2,12 +2,16 @@ package WebGUI::i18n::Polish::Account_Contributions;
 use utf8;
 our $I18N = {
   'account contributions layout template' => {
-    'lastUpdated' => '1238670584',
-    'message' => ''
+    'lastUpdated' => '1277189282',
+    'message' => "Szablon Zas\x{142}ug Konta "
   },
   'contrib layout template hoverHelp' => {
-    'lastUpdated' => '1238668502',
-    'message' => ''
+    'lastUpdated' => '1277189307',
+    'message' => "Wybierz szablon kt\x{f3}ry b\x{119}dzie prezentowa\x{142} zak\x{142}adk\x{119} zas\x{142}ug konta."
+  },
+  'contrib layout template label' => {
+    'lastUpdated' => '1263297126',
+    'message' => 'Szablon layout\'u'
   },
   'contrib style template hoverHelp' => {
     'lastUpdated' => '1238670566',
@@ -38,8 +42,8 @@ our $I18N = {
     'message' => "Liczba wszystkich wprowadzonych obiekt\x{f3}w przez danego u\x{17c}ytkownika."
   },
   'contributions_variables' => {
-    'lastUpdated' => '1238668458',
-    'message' => ''
+    'lastUpdated' => '1277189667',
+    'message' => "Zmienne ka\x{17c}dego zasobu s\x{105} dostarczane za pomoc\x{105} p\x{119}tli, przez nazw\x{119}. U\x{17c}ytecznymi b\x{119}d\x{105} title, url, menutitle, dateCreated, synopsis, lastModified."
   },
   'date label' => {
     'lastUpdated' => '1227968231',
@@ -86,8 +90,8 @@ our $I18N = {
     'message' => "Nazwa u\x{17c}ytkownika, kt\x{f3}rego wprowadzone obiekty s\x{105} przegl\x{105}dane."
   },
   'user_member_since' => {
-    'lastUpdated' => '1238668559',
-    'message' => ''
+    'lastUpdated' => '1277189401',
+    'message' => "Zmienna reprezentuj\x{105}ca dzie\x{144} w kt\x{f3}rym u\x{17c}ytkownik za\x{142}o\x{17c}y\x{142} konto w serwisie."
   }
 }
 ;

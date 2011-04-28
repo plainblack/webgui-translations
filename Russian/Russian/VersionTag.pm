@@ -1,6 +1,10 @@
 package WebGUI::i18n::Russian::VersionTag;
 use utf8;
 our $I18N = {
+  'Rolling back %s' => {
+    'lastUpdated' => '1286182006',
+    'message' => "\x{41e}\x{442}\x{43a}\x{430}\x{442} \x{43d}\x{430}\x{437}\x{430}\x{434} %s"
+  },
   'add a version tag' => {
     'lastUpdated' => '1235866722',
     'message' => "\x{414}\x{43e}\x{431}\x{430}\x{432}\x{438}\x{442}\x{44c} \x{41c}\x{435}\x{442}\x{43a}\x{443} (Tag) \x{432}\x{435}\x{440}\x{441}\x{438}\x{438}."
@@ -16,6 +20,10 @@ our $I18N = {
   'back to home' => {
     'lastUpdated' => '1235866754',
     'message' => "\x{412}\x{435}\x{440}\x{43d}\x{443}\x{442}\x{44c}\x{441}\x{44f} \x{43d}\x{430} \x{437}\x{430}\x{433}\x{43b}\x{430}\x{432}\x{43d}\x{443}\x{44e}"
+  },
+  'back to site' => {
+    'lastUpdated' => '1286181964',
+    'message' => "\x{412}\x{435}\x{440}\x{43d}\x{443}\x{442}\x{44c}\x{441}\x{44f} \x{43d}\x{430} \x{441}\x{430}\x{439}\x{442}"
   },
   'comments' => {
     'lastUpdated' => '1235866763',
@@ -65,6 +73,10 @@ our $I18N = {
     'lastUpdated' => '1235866903',
     'message' => "\x{41a}\x{43e}\x{433}\x{434}\x{430} \x{441}\x{43e}\x{437}\x{434}\x{430}\x{43d}\x{43e}"
   },
+  'denied' => {
+    'lastUpdated' => '1286182055',
+    'message' => "\x{417}\x{430}\x{43f}\x{440}\x{435}\x{449}\x{435}\x{43d}\x{43e}"
+  },
   'deny' => {
     'lastUpdated' => '1235866914',
     'message' => "\x{417}\x{430}\x{43f}\x{440}\x{435}\x{442}\x{438}\x{442}\x{44c}"
@@ -84,6 +96,10 @@ our $I18N = {
   'notify about version tag' => {
     'lastUpdated' => '1235866983',
     'message' => "\x{41f}\x{440}\x{438}\x{43c}\x{435}\x{447}\x{430}\x{43d}\x{438}\x{44f} \x{43a} \x{41c}\x{435}\x{442}\x{43a}\x{435} (Tag) \x{432}\x{435}\x{440}\x{441}\x{438}\x{438}"
+  },
+  'notify message' => {
+    'lastUpdated' => '1286182122',
+    'message' => "\x{417}\x{430}\x{43c}\x{435}\x{442}\x{43a}\x{438} \x{43f}\x{43e} \x{44d}\x{442}\x{43e}\x{439} \x{432}\x{435}\x{440}\x{441}\x{438}\x{438}"
   },
   'pending versions' => {
     'lastUpdated' => '1235866999',

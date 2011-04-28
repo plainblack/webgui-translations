@@ -42,8 +42,8 @@ our $I18N = {
     'message' => 'Akcesoria'
   },
   '17 description' => {
-    'lastUpdated' => '1237554438',
-    'message' => ''
+    'lastUpdated' => '1266309275',
+    'message' => 'Wybierz z listy wprowadzony produkt'
   },
   18 => {
     'lastUpdated' => '1247736851',
@@ -66,8 +66,8 @@ our $I18N = {
     'message' => "Produkt powi\x{105}zany"
   },
   '20 description' => {
-    'lastUpdated' => '1237554533',
-    'message' => ''
+    'lastUpdated' => '1266309292',
+    'message' => 'Wybierz z listy wprowadzony produkt.'
   },
   21 => {
     'lastUpdated' => '1237554658',
@@ -120,6 +120,10 @@ our $I18N = {
   28 => {
     'lastUpdated' => '1247737007',
     'message' => "Doda\x{107} inn\x{105} specyfikacje?"
+  },
+  '28 description' => {
+    'lastUpdated' => '1266309324',
+    'message' => "Je\x{17c}eli chcesz doda\x{107} kolejn\x{105} specyfikacj\x{119}, wybierz \"Tak\"."
   },
   29 => {
     'lastUpdated' => '1247737027',

@@ -109,17 +109,21 @@ our $I18N = {
     'lastUpdated' => '1227567532',
     'message' => 'Diese Angabe macht das Passwort sofort nach der Kontenerstellung ungültig.'
   },
+  'Password Recovery Email Template' => {
+    'lastUpdated' => '1287563135',
+    'message' => 'Passwort-Wiederherstellung, E-Mail-Template'
+  },
   'account activation template' => {
-    'lastUpdated' => '1238017107',
-    'message' => 'Emailvorlage Kontoaktivierung'
+    'lastUpdated' => '1287563144',
+    'message' => 'E-Mailvorlage Kontoaktivierung'
   },
   'account activation template help' => {
-    'lastUpdated' => '1238017173',
-    'message' => 'Wählen Sie eine Vorlage für die Email, die an neue Benutzer versendet wird.'
+    'lastUpdated' => '1287563152',
+    'message' => 'Wählen Sie eine Vorlage für die E-Mail, die an neue Benutzer versendet wird.'
   },
   'account activation template title' => {
-    'lastUpdated' => '1238017283',
-    'message' => 'WebgGUI Authentifizierung - Email zur Benutzeraktivierung'
+    'lastUpdated' => '1287563161',
+    'message' => 'WebgGUI Authentifizierung - E-Mail zur Benutzeraktivierung'
   },
   'account deactivate account template title' => {
     'lastUpdated' => '1269422312',
@@ -190,8 +194,8 @@ our $I18N = {
     'message' => 'Geben Sie die nachfolgende Zeichenfolge ein'
   },
   'check email for validation' => {
-    'lastUpdated' => '1244063395',
-    'message' => 'Bitte checken Sie Ihre Email, um Ihren Account zu aktivieren.'
+    'lastUpdated' => '1287563173',
+    'message' => 'Bitte checken Sie Ihre E-Mail, um Ihren Account zu aktivieren.'
   },
   'create account template' => {
     'lastUpdated' => '1178701843',
@@ -288,8 +292,8 @@ Danach können Sie sich mit Ihrer Kennung und dem Passwort anmelden.
     'message' => 'Geben Sie ein neues Kennwort auf Ihren Account unten ein.'
   },
   'email recover password finish message' => {
-    'lastUpdated' => '1227567721',
-    'message' => 'Eine Email mit einer Anleitung zur Änderung des Passwort wurde verschickt.'
+    'lastUpdated' => '1287563192',
+    'message' => 'Eine E-Mail mit einer Anleitung zur Änderung des Passwort wurde verschickt.'
   },
   'email recover password finish message1' => {
     'lastUpdated' => '1192977827',
@@ -385,12 +389,12 @@ Sie können sich jetzt mit Ihrer Kennung und Ihrem Passwort anmelden.'
     'message' => 'WebGUI Authentifizierung Login Template'
   },
   'login.form.email' => {
-    'lastUpdated' => '1178704028',
-    'message' => 'Standard Email Formular Feld.'
+    'lastUpdated' => '1287563217',
+    'message' => 'Standard E-Mail Formular Feld.'
   },
   'login.form.email.label' => {
-    'lastUpdated' => '1178704050',
-    'message' => 'Standard Text für Email Formular Feld'
+    'lastUpdated' => '1287563239',
+    'message' => 'Standard Text für E-Mail Formular Feld'
   },
   'login.label' => {
     'lastUpdated' => '1178704071',
@@ -447,6 +451,10 @@ Sie können sich jetzt mit Ihrer Kennung und Ihrem Passwort anmelden.'
   'password recovery email label' => {
     'lastUpdated' => '1200441458',
     'message' => 'E-Mail-Adresse'
+  },
+  'password recovery email template help' => {
+    'lastUpdated' => '1287563308',
+    'message' => 'Wählen Sie ein Template zur Formatierung der E-Mails für die Passwort-Wiederherstellung.'
   },
   'password recovery login hoverHelp' => {
     'lastUpdated' => '1200441468',
@@ -551,6 +559,14 @@ Sie können sich jetzt mit Ihrer Kennung und Ihrem Passwort anmelden.'
   'recoverPassword.url' => {
     'lastUpdated' => '1178704750',
     'message' => 'URL der Passwortwiederherstellungsseite.'
+  },
+  'recoverPasswordUrl' => {
+    'lastUpdated' => '1287563351',
+    'message' => 'URL zur Funktion Passwort-Zurücksetzung'
+  },
+  'recovery email template title' => {
+    'lastUpdated' => '1287563391',
+    'message' => 'WebGUI Authentication Passwort-Wiederherstellung, E-Mail-Template'
   },
   'recovery template title' => {
     'lastUpdated' => '1178704797',

@@ -5,9 +5,57 @@ our $I18N = {
     'lastUpdated' => '1258547405',
     'message' => 'Bereits angehängt!'
   },
+  'Configure' => {
+    'lastUpdated' => '1295597015',
+    'message' => 'Konfigurieren'
+  },
+  'Configure Preview' => {
+    'lastUpdated' => '1295597025',
+    'message' => 'Vorschau konfigurieren'
+  },
+  'Fetch' => {
+    'lastUpdated' => '1295597032',
+    'message' => 'Holen'
+  },
+  'Fetch Variables' => {
+    'lastUpdated' => '1295597044',
+    'message' => 'Variable holen'
+  },
+  'Fetch Variables hoverHelp' => {
+    'lastUpdated' => '1295597085',
+    'message' => 'Versucht die Variablen aus der URL zu bestimmen, die dieses Template benutzt.'
+  },
   'No url!' => {
     'lastUpdated' => '1258547392',
     'message' => 'Keine URL!'
+  },
+  'Plain Text hoverHelp' => {
+    'lastUpdated' => '1295597201',
+    'message' => 'Wenn mit JA markiert, wird die Ausgabe als Plain-Text formatiert (nützlich um die Original-Ausgabe eines Templates zu prüfen). Andernfalls wird die Ausgabe in HTML gerendert.'
+  },
+  'Plain Text?' => {
+    'lastUpdated' => '1295597233',
+    'message' => 'Vorschau als Plain-Text?'
+  },
+  'Preview' => {
+    'lastUpdated' => '1295597239',
+    'message' => 'Vorschau'
+  },
+  'URL' => {
+    'lastUpdated' => '1295597246',
+    'message' => 'URL'
+  },
+  'URL hoverHelp' => {
+    'lastUpdated' => '1295597264',
+    'message' => 'URL des Hole-Buttons'
+  },
+  'Variables' => {
+    'lastUpdated' => '1295597273',
+    'message' => 'Variablen'
+  },
+  'Variables hoverHelp' => {
+    'lastUpdated' => '1295597300',
+    'message' => 'Variablen die vom Render-Button verwandt werden (in JSON).'
   },
   'assetName' => {
     'lastUpdated' => '1179920785',
@@ -38,8 +86,8 @@ our $I18N = {
     'message' => 'Typ'
   },
   'attachment header url' => {
-    'lastUpdated' => '1243496908',
-    'message' => 'Url'
+    'lastUpdated' => '1295597333',
+    'message' => 'URL'
   },
   'body background color' => {
     'lastUpdated' => '1179921002',

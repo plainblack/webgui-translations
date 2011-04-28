@@ -18,12 +18,12 @@ our $I18N = {
     'message' => "Wybierz szablon, kt\x{f3}ry ma otacza\x{107} zawarto\x{15b}\x{107} r\x{f3}\x{17c}nych metod wewn\x{105}trz zak\x{142}adki konta"
   },
   'user layout template label' => {
-    'lastUpdated' => '1238671825',
-    'message' => ''
+    'lastUpdated' => '1263297059',
+    'message' => 'Szablony layout\'u'
   },
   'user layout template title' => {
-    'lastUpdated' => '1238671814',
-    'message' => ''
+    'lastUpdated' => '1263297091',
+    'message' => "Szablon konta u\x{17c}ytkownika"
   },
   'user style template hoverHelp' => {
     'lastUpdated' => '1238671136',

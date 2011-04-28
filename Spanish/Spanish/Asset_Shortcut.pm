@@ -197,6 +197,10 @@ our $I18N = {
     'lastUpdated' => '1253671420',
     'message' => 'No se le permite personalizar este Panel.'
   },
+  'contains' => {
+    'lastUpdated' => '1289571471',
+    'message' => 'contiene'
+  },
   'disable content lock' => {
     'lastUpdated' => '1253671442',
     'message' => '¿Desbloquear el contenido?'

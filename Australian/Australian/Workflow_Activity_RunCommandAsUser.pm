@@ -5,17 +5,17 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Run Command As User'
     },
     'command' => {
         'context'     => 'a label for the command to be run',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Command'
     },
     'command help' => {
         'context'     => 'the hover help for the command field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' => 'Type the command you wish to run here. Feel free to use macros for additional parameters.'
     }
 };

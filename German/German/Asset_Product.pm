@@ -277,6 +277,10 @@ our $I18N = {
     'lastUpdated' => '1251507232',
     'message' => 'Kontrollen'
   },
+  'Lost' => {
+    'lastUpdated' => '1301988746',
+    'message' => 'Asset verloren'
+  },
   'accessory.controls' => {
     'lastUpdated' => undef,
     'message' => ''

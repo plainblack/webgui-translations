@@ -5,132 +5,132 @@ use strict;
 our $I18N = {
     'ITransact' => {
         'context'     => 'The name of the ITransact plugin',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'ITransact'
     },
     'Itransact' => {
         'context'     => 'Name of the gateway from the definition',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Credit Card (ITransact)'
     },
     'address' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Address'
     },
     'addressField help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'A single text field for the user to enter in their street address.'
     },
     'cardNumber' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Credit card number'
     },
     'cardNumberField help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'A single text field for the user to enter in their credit card number.'
     },
     'checkoutButton help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'A button with an internationalised label to submit the form and continue the checkout process.'
     },
     'city' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'City'
     },
     'country' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Country'
     },
     'credentials template' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Credentials Template'
     },
     'credentials template help' => {
         'context' =>
             'Hover help for the credentials template field in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'Pick a template to display the form where the user will enter in their billing information and credit card information.'
     },
     'cvv2' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Verification number (ie. CVV2)'
     },
     'cvv2Field help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'A single text field for the user to enter in their credit card verification number.  If the PayDriver is not configured to use CVV2, then this field will be empty.'
     },
     'edit credentials template' => {
         'context'     => 'Title of the help page.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Edit Credentials Template'
     },
     'edit credentials template help' => {
         'context'     => 'Title of the help page.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'This template is used to display a form to the user where they can enter in contact and credit card billing information.'
     },
     'email' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Email'
     },
     'emailField help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'A single text field for the user to enter in their email address.'
     },
     'emailMessage' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Email message'
     },
     'emailMessage help' => {
         'context' => 'Hover help for the email message field in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The message that will be appended to the email user will receive from ITransact.'
     },
     'error help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
-        'message'     => 'One error from the errors loop.  It will have minimal markup.'
+        'lastUpdated' => 1270834474,
+        'message'     => 'One crikey from the Crikeys loop.  It will have minimal markup.'
     },
     'error occurred message' => {
         'context' => 'The message that tell the user that there were some errors in their submitted credentials.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The following errors occurred:'
     },
     'errors help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'A template loop containing a list of errors from processing the form.'
     },
     'expiration date' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Expiration date'
     },
     'expired expiration date' => {
         'context'     => 'An error indicating that an an expired card was used.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The expiration date on your card has already passed.'
     },
     'extra info' => {
         'context'     => 'An informational message that\'s shown in the configuration form of this plugin.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Setting up your ecommerce site is as easy as these few steps:
 <p>
 <b>Step 1: Get A Merchant Account</b><br />
@@ -155,7 +155,7 @@ Contact your hosting provider to install your certificate or install it yourself
 
 <p>
 <b>Step 5: Enable IP Address</b><br />
-For added security the system will not allow just anyone to post requests to the merchant account. We have to tell the merchant account what the IP address of our site (or sites) is. To do this go to your virtual terminal and log in. Go to Account Settings &gt; Fraud Control &gt; and click on the "IP Filter Settings" link. There enter the IP address of your server Set the status to Active and set the module to XML, then hit go. Contact your system administrator for your server IP address. You\'ll also need to <a href="http://support.paymentclearing.com/">submit a support ticket</a> to let iTransact know that you wish to enable the XML API.
+Four added security the system will not allow just anyone to post requests to the merchant account. We have to tell the merchant account what the IP address of our site (or sites) is. To do this go to your virtual terminal and log in. Go to Account Settings &gt; Fraud Control &gt; and click on the "IP Filter Settings" link. There enter the IP address of your server Set the status to Active and set the module to XML, then hit go. Contact your system administrator for your server IP address. You\'ll also need to <a href="http://support.paymentclearing.com/">submit a support ticket</a> to let iTransact know that you wish to enable the XML API.
 </p>
 
 <p>
@@ -230,134 +230,134 @@ Also set the \'RECURRING POST-BACK URL\' field in the Account Settings part of t
     },
     'firstName' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'First name'
     },
     'invalid address' => {
         'context'     => 'An error indicating that an invalid street has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid address.'
     },
     'invalid card number' => {
         'context'     => 'An error indicating that an invalid credit card number has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid credit card number.'
     },
     'invalid city' => {
         'context'     => 'An error indicating that an invalid city has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid city.'
     },
     'invalid cvv2' => {
         'context'     => 'An error indicating that an invalid card security code has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid card security code (ie. cvv2).'
     },
     'invalid email' => {
         'context'     => 'An error indicating that an invalid email address has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid email address.'
     },
     'invalid expiration date' => {
         'context'     => 'An error indicating that an invalid expiration date has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid expiration date.'
     },
     'invalid firstName' => {
         'context'     => 'An error indicating that an invalid first name has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid first name.'
     },
     'invalid lastName' => {
         'context'     => 'An error indicating that an invalid last name has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid last name.'
     },
     'invalid zip' => {
         'context'     => 'An error indicating that an invalid zipcode has been entered.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'You have to enter a valid zipcode.'
     },
     'label' => {
         'context'     => 'Default ITransact payment gateway label',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Credit Card'
     },
     'lastName' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Last name'
     },
     'module name' => {
         'context'     => 'The displayed name of the payment module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'iTransact'
     },
     'monthYearField help' => {
         'context'     => 'Template variable help.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'A combination form field for the user to enter in the month and year of the expiration date for the credit card.'
     },
     'no description' => {
         'context'     => 'The default description of purchase of users.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'No description'
     },
     'password' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Password'
     },
     'password help' => {
         'context'     => 'Hover help for the password field in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The password for your ITransact account.'
     },
     'phone' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Telephone Number'
     },
     'show terminal' => {
         'context'     => 'The label of the link that points to the virtual terminal login.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Click here to use your virtual terminal.'
     },
     'state' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'State'
     },
     'template gone' => {
         'context'     => 'Error message when the getCredentials template cannot be accessed.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'The template for entering in credentials has been deleted.  Please notify the site administrator.'
     },
     'use cvv2' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Use CVV2'
     },
     'use cvv2 help' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Set this option to yes if you want to use CVV2.'
     },
     'vendorId' => {
         'context'     => 'Form label in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Username (Vendor ID)'
     },
     'vendorId help' => {
         'context'     => 'Hover help for vendor id in the configuration form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Fill in the  username or vendor id you got from ITransact.'
     },
     'zipcode' => {
         'context'     => 'Form label in the checkout form of the iTransact module.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Zipcode'
     }
 };

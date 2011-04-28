@@ -173,6 +173,14 @@ our $I18N = {
     'lastUpdated' => '1223927293',
     'message' => 'Agregar campos de meta-datos al Activo.'
   },
+  'Allowed Classes' => {
+    'lastUpdated' => '1302819636',
+    'message' => 'Clases Permitidas'
+  },
+  'Allowed Classes hoverHelp' => {
+    'lastUpdated' => '1302819653',
+    'message' => '¿Cuáles Activos usan estos metadatos?'
+  },
   'Any Class' => {
     'lastUpdated' => '1259453134',
     'message' => 'Cualquiera'
@@ -252,6 +260,14 @@ our $I18N = {
   'Export Page' => {
     'lastUpdated' => '1223927757',
     'message' => 'Exportar p&aacute;gina'
+  },
+  'Export Related Assets' => {
+    'lastUpdated' => '1302868357',
+    'message' => 'Exportar Activos Relacionados'
+  },
+  'Export Related Assets description' => {
+    'lastUpdated' => '1302868407',
+    'message' => '¿Incluir en la descarga los Activos relacionados con éste?'
   },
   'Export as user' => {
     'lastUpdated' => '1223927768',

@@ -4,10 +4,10 @@ use strict;
 use utf8;
 
 our $LANGUAGE = {
-  'label' => 'Persian',
-  'languageAbbreviation' => 'farsi',
+  'label' => "\x{67e}\x{627}\x{631}\x{633}\x{6cc}",
+  'languageAbbreviation' => 'fa',
   'locale' => 'IR',
-  'toolbar' => 'elina'
+  'toolbar' => 'bullet'
 }
 ;
 

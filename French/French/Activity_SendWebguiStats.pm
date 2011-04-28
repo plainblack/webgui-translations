@@ -9,6 +9,14 @@ our $I18N = {
     'lastUpdated' => '1245058167',
     'message' => 'activer'
   },
+  'topicName' => {
+    'lastUpdated' => '1303366831',
+    'message' => 'Sujet'
+  },
+  'why to send' => {
+    'lastUpdated' => '1303366884',
+    'message' => 'Pourquoi envoyer'
+  },
   'would you participate' => {
     'lastUpdated' => '1245058147',
     'message' => 'voulez vous participer'

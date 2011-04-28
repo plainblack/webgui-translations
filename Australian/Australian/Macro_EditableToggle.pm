@@ -4,28 +4,28 @@ package WebGUI::i18n::Australian::Macro_EditableToggle;
 use strict;
 our $I18N = {
     '516' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Turn Admin On!'
     },
     '517' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Turn Admin Off!'
     },
     'editable toggle title' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Editable Toggle Macro Template Variables'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Editable Toggle'
     },
     'toggle.text' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
-            'The Internationalized label for turning on or off Admin (depending on the state of the macro), or the text that you supply to the macro.'
+            'The Internationalised label for turning on or off Admin (depending on the state of the macro), or the text that you supply to the macro.'
     },
     'toggle.url' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The URL to activate or deactivate Admin mode.'
     }
 };

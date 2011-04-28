@@ -44,8 +44,8 @@ our $I18N = {
     'message' => "Tytu\x{142} przekierowania dodaj/edytuj"
   },
   'redirect type description' => {
-    'lastUpdated' => '1237829359',
-    'message' => ''
+    'lastUpdated' => '1270539515',
+    'message' => "Typ nag\x{142}\x{f3}wka HTTP kt\x{f3}ry b\x{119}dzie wysy\x{142}a\x{142} zas\x{f3}b/asset"
   },
   'redirect url' => {
     'context' => "Domy\x{15b}lna warto\x{15b}\x{107} przekierowania",
@@ -58,8 +58,8 @@ our $I18N = {
     'message' => "<p>Adres URL, na kt\x{f3}ry zostanie przekierowany u\x{17c}ytkownik.</p>"
   },
   'self_referential' => {
-    'lastUpdated' => '1237829405',
-    'message' => ''
+    'lastUpdated' => '1277187858',
+    'message' => "Przekierowanie jest odwo\x{142}aniem do siebie"
   },
   'what do you want to do with this redirect' => {
     'context' => 'Przekierowanie.',

@@ -5,27 +5,27 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Add User To Group'
     },
     'expire offset' => {
         'context'     => 'a label for the expire offset field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Expire Offset'
     },
     'expire offset help' => {
         'context'     => 'the hover help for the expire offset field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'How long should the user remain a member of the group?'
     },
     'group' => {
         'context'     => 'a label for the group field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Group'
     },
     'group help' => {
         'context'     => 'the hover help for the group field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Choose a group to add this user to.'
     }
 };

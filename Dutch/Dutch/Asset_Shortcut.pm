@@ -198,6 +198,10 @@ our $I18N = {
     'lastUpdated' => '1246970508',
     'message' => 'U kunt geen persoonlijke instellingen voor dit dashboard maken.'
   },
+  'contains' => {
+    'lastUpdated' => '1286871515',
+    'message' => 'bevat'
+  },
   'disable content lock' => {
     'lastUpdated' => '1152539999',
     'message' => 'Uitschakelen content slot?'

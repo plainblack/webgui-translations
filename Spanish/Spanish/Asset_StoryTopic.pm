@@ -58,7 +58,7 @@ our $I18N = {
     'message' => 'Seleccione la Plantilla empleada para desplegar Noticias dentro de este Tópico de Noticias.'
   },
   'story_loop' => {
-    'lastUpdated' => '1253710573',
+    'lastUpdated' => '1302873359',
     'message' => 'Un ciclo que itera sobre las Noticias más recientes para este Tópico de Noticias.'
   },
   'storytopic asset template variables title' => {
@@ -76,6 +76,10 @@ our $I18N = {
   'title' => {
     'lastUpdated' => '1253710625',
     'message' => 'El Título de la Noticia.'
+  },
+  'topStory' => {
+    'lastUpdated' => '1302873382',
+    'message' => 'Contiene el mismo tipo de valores que story_loop, pero para la historia destacada.'
   },
   'topStoryCreationDate' => {
     'lastUpdated' => '1253710656',

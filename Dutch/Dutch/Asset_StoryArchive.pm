@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1248971508',
     'message' => 'De URL waar de gebruiker een verhaal kan toevoegen.'
   },
+  'alphabetically' => {
+    'lastUpdated' => '1280491603',
+    'message' => 'Alfabetisch'
+  },
   'approval workflow' => {
     'lastUpdated' => '1248971570',
     'message' => 'Goedkeurings workflow voor verhalen'
@@ -56,6 +60,10 @@ our $I18N = {
   'canPostStories' => {
     'lastUpdated' => '1249028227',
     'message' => 'Een functie die waar is als de gebruiker verhalen kan insturen.'
+  },
+  'chronologically' => {
+    'lastUpdated' => '1280491612',
+    'message' => 'Chronologisch'
   },
   'creationDate' => {
     'lastUpdated' => '1249028268',
@@ -166,6 +174,14 @@ hebben.'
   'searchHeader' => {
     'lastUpdated' => '1249030222',
     'message' => 'HTML code waar het formulier mee geopend wordt. Deze variabele is leeg als het Verhalenarchief als HTML ge&euml;xporteerd wordt.'
+  },
+  'sortAlphabeticallyChronologically' => {
+    'lastUpdated' => '1280491629',
+    'message' => 'Sorteervolgorde'
+  },
+  'sortAlphabeticallyChronologically description' => {
+    'lastUpdated' => '1280491739',
+    'message' => 'Toon berichten in alfabetische of chronologische volgorde.'
   },
   'stories per page' => {
     'lastUpdated' => '1249030238',

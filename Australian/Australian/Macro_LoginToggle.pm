@@ -4,28 +4,28 @@ package WebGUI::i18n::Australian::Macro_LoginToggle;
 use strict;
 our $I18N = {
     '716' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Login'
     },
     '717' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Logout'
     },
     'login toggle title' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Login Toggle Macro Template Variables'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Login Toggle'
     },
     'toggle.text' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
-            'The Internationalized label for logging in or logging out (depending on the state of the macro), or the text that you supply to the macro.'
+            'The Internationalised label for logging in or logging out (depending on the state of the macro), or the text that you supply to the macro.'
     },
     'toggle.url' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The URL to login or logout.'
     }
 };

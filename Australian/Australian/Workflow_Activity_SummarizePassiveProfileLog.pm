@@ -5,8 +5,8 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
-        'message'     => 'Summarize Passive Profile Log'
+        'lastUpdated' => 1270834474,
+        'message'     => 'Summarise Passive Profile Log'
     }
 };
 1;

@@ -2,12 +2,28 @@ package WebGUI::i18n::German::Asset_Carousel;
 use utf8;
 our $I18N = {
   'assetName' => {
-    'lastUpdated' => '1244064122',
-    'message' => 'Carousel'
+    'lastUpdated' => '1301988649',
+    'message' => 'Karussell'
+  },
+  'carousel autoPlay description' => {
+    'lastUpdated' => '1301988620',
+    'message' => 'Soll dieses Karussell automatisch durch die Einträge scrollen?'
+  },
+  'carousel autoPlay label' => {
+    'lastUpdated' => '1301988661',
+    'message' => 'Auto Play'
+  },
+  'carousel autoPlayInterval description' => {
+    'lastUpdated' => '1301988714',
+    'message' => 'Länge in Sekunden zwischen den Karussell-Wechseln'
+  },
+  'carousel autoPlayInterval label' => {
+    'lastUpdated' => '1301988729',
+    'message' => 'Auto-Play Intervall'
   },
   'carousel slideHeight description' => {
-    'lastUpdated' => '1279222516',
-    'message' => 'Höhe in Pixel. Das Carousel passt seine Größe nicht selbst automatisch bei unterschiedlichen Breiten an. Das Vorgeben dieser Breite führt zu einer besseren Darstellung. Beim Standardwert \'0\' wird die Breite des Carousels auf die Breite des ersten Carousel-Elements gesetzt.'
+    'lastUpdated' => '1281649002',
+    'message' => 'Höhe in Pixel. Das Carousel passt seine Größe nicht selbst automatisch bei unterschiedlichen Höhen an. Das Vorgeben dieser Höhe führt zu einer besseren Darstellung. Beim Standardwert \'0\' wird die Höhe des Carousels auf die Höhe des ersten Carousel-Elements gesetzt.'
   },
   'carousel slideHeight label' => {
     'lastUpdated' => '1279222341',
@@ -33,6 +49,10 @@ our $I18N = {
     'lastUpdated' => '1244064459',
     'message' => 'Carouselvorlage'
   },
+  'delete' => {
+    'lastUpdated' => '1295596758',
+    'message' => 'Löschen'
+  },
   'id description' => {
     'lastUpdated' => '1244064296',
     'message' => 'Geben Sie eine eindeutige ID für dieses Carouselitem ein.'
@@ -56,6 +76,10 @@ our $I18N = {
   'items label' => {
     'lastUpdated' => '1244064335',
     'message' => 'Items'
+  },
+  'rich editor description' => {
+    'lastUpdated' => '1303289466',
+    'message' => 'Wählen Sie einen Komfort-Editor für die Inhaltseingabe in die Carousel-Bereiche. Diese Einstellung wird bei der nächsten Carousel-Nutzung wirksam.'
   },
   'sequenceNumber' => {
     'lastUpdated' => '1244064369',

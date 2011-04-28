@@ -269,6 +269,10 @@ our $I18N = {
     'lastUpdated' => '1253413190',
     'message' => 'Controles'
   },
+  'Lost' => {
+    'lastUpdated' => '1302873426',
+    'message' => 'Activo Perdido'
+  },
   'accessory_controls' => {
     'lastUpdated' => '1253413204',
     'message' => 'Los controles administrativos WebGUI para este Accesorio.'

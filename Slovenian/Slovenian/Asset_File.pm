@@ -2,7 +2,7 @@ package WebGUI::i18n::Slovenian::Asset_File;
 use utf8;
 our $I18N = {
   'assetName' => {
-    'lastUpdated' => 1208788988,
+    'lastUpdated' => '1208788988',
     'message' => 'Datoteka'
   },
   'cache timeout' => {
@@ -54,15 +54,15 @@ our $I18N = {
     'message' => ''
   },
   'fileSize' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263083328',
+    'message' => 'Velikost datoteke'
   },
   'fileUrl' => {
-    'lastUpdated' => 1208789052,
+    'lastUpdated' => '1208789052',
     'message' => 'URL naslov datoteke.'
   },
   'filename' => {
-    'lastUpdated' => 1221335263,
+    'lastUpdated' => '1221335263',
     'message' => 'Ime datoteke.'
   },
   'filename var' => {
@@ -74,8 +74,8 @@ our $I18N = {
     'message' => ''
   },
   'new file' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263083348',
+    'message' => 'Nova datoteka'
   },
   'new file description' => {
     'lastUpdated' => undef,

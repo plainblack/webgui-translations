@@ -1,6 +1,14 @@
 package WebGUI::i18n::Polish::Form_DataTable;
 use utf8;
 our $I18N = {
+  'New Column' => {
+    'lastUpdated' => '1265117528',
+    'message' => 'Nowa kolumna'
+  },
+  'Value' => {
+    'lastUpdated' => '1265117522',
+    'message' => "Warto\x{15b}\x{107}"
+  },
   'add column' => {
     'lastUpdated' => '1237824526',
     'message' => "Dodaj kolumn\x{119}"

@@ -70,7 +70,7 @@ our $I18N = {
     'message' => '<p>Krótki opis tego zasobu/asset.</p>'
   },
   43 => {
-    'lastUpdated' => '1238070121',
+    'lastUpdated' => '1252413778',
     'message' => "Czy jeste\x{15b} pewny, \x{17c}e chcesz usun\x{105}\x{107} t\x{105} zawarto\x{15b}\x{107}? Zauwa\x{17c}, \x{17c}e ta zmiana nie jest wersjonowana i odniesie skutek natychmiastowy."
   },
   486 => {
@@ -173,6 +173,14 @@ our $I18N = {
     'lastUpdated' => '1236940919',
     'message' => "<p>Otw\x{f3}rz formularz, w kt\x{f3}rym mo\x{17c}na doda\x{107} pola metadata do zasobu/asset.</p>"
   },
+  'Any Class' => {
+    'lastUpdated' => '1266307587',
+    'message' => "\x{17b}adna klasa"
+  },
+  'Attempting to commit changes' => {
+    'lastUpdated' => '1266307820',
+    'message' => 'Próba dokonania zmian'
+  },
   'Class Icon' => {
     'lastUpdated' => '1203964579',
     'message' => 'Ikona klasy'
@@ -181,17 +189,45 @@ our $I18N = {
     'lastUpdated' => '1237543641',
     'message' => "<p>Ka\x{17c}dy zas\x{f3}b/asset wy\x{15b}wietla r\x{f3}wnie\x{17c} ikon\x{119} klasy. Ikony klas s\x{105} unikalne (w wi\x{119}kszo\x{15b}ci) i s\x{105} mniejszymi wersjami ikon wy\x{15b}wietlanych w sekcji &quot;Nowa zawarto\x{15b}\x{107}&quot; w Konsoli Administratora. Klikni\x{119}cie na Ikon\x{119} klasy rozwinie menu z dodatkowymi opcjami edycji.</p>"
   },
+  'Clearing asset tables' => {
+    'lastUpdated' => '1266307864',
+    'message' => 'Czyszczenie tablicy zasobów'
+  },
+  'Clearing cache' => {
+    'lastUpdated' => '1266307875',
+    'message' => "Czyszczenie pami\x{119}ci podr\x{119}cznej"
+  },
+  'Clearing search index' => {
+    'lastUpdated' => '1266307904',
+    'message' => 'Czyszczenie indeksu wyszukiwarki'
+  },
   'Copy' => {
     'lastUpdated' => '1225266934',
     'message' => 'Kopiuj'
+  },
+  'Copy Assets' => {
+    'lastUpdated' => '1276692431',
+    'message' => 'Kopiuj zasób'
   },
   'Data Type description' => {
     'lastUpdated' => '1237543672',
     'message' => '<p>Wybierz typ dla tego elementu formularza.</p>'
   },
+  'Delete Assets' => {
+    'lastUpdated' => '1266307917',
+    'message' => 'Usuwanie zasobu'
+  },
   'Delete Metadata field' => {
     'lastUpdated' => '1203964847',
     'message' => "Usu\x{144} w\x{142}asno\x{15b}\x{107} Metadata"
+  },
+  'Deleting exported files' => {
+    'lastUpdated' => '1266307937',
+    'message' => 'Usuwanie wyeksportowanych plików'
+  },
+  'Deleting keywords' => {
+    'lastUpdated' => '1266307947',
+    'message' => "Usuwanie s\x{142}\x{f3}w kluczowych"
   },
   'Depth' => {
     'lastUpdated' => '1203964939',
@@ -204,6 +240,10 @@ our $I18N = {
   'Edit Metadata' => {
     'lastUpdated' => '1237543701',
     'message' => "Edycja w\x{142}asno\x{15b}ci Metadata"
+  },
+  'Error getting asset with assetId %s' => {
+    'lastUpdated' => '1276692452',
+    'message' => "B\x{142}\x{105}d pobrania zasobu z id %s"
   },
   'Error: Cannot instantiate template' => {
     'lastUpdated' => '1237543720',
@@ -269,13 +309,45 @@ our $I18N = {
     'lastUpdated' => '1203965499',
     'message' => 'Status Eksportu Strony'
   },
+  'Paste' => {
+    'lastUpdated' => '1266307971',
+    'message' => 'Wklej'
+  },
+  'Paste Assets' => {
+    'lastUpdated' => '1266307995',
+    'message' => 'Wklej zasoby/assets'
+  },
   'Possible Values description' => {
     'lastUpdated' => '1245159624',
     'message' => "<p>Pole to wykorzystywane jest wy\x{142}\x{105}cznie dla typ\x{f3}w Radio List i Select List. Wprowad\x{17a} warto\x{15b}ci jakie maj\x{105} si\x{119} pokaza\x{107}. Jedna warto\x{15b}\x{107} w jednej linii.</p><p>Je\x{15b}li chcia\x{142}by\x{15b} uzyska\x{107} r\x{f3}\x{17c}ne etykiety dla poszczeg\x{f3}lnych warto\x{15b}ci istnieje mo\x{17c}liwo\x{15b}\x{107} specjalnego sformatowania listy:</p><pre>{<br />   &quot;key1&quot;=&gt;&quot;value1&quot;,<br />   &quot;key2&quot;=&gt;&quot;value2&quot;,<br />   &quot;key3&quot;=&gt;&quot;value3&quot;<br />   ...<br />}</pre><p>Pami\x{119}taj, aby poprawnie zastosowa\x{107} nawiasy, cudzys\x{142}owy, przecinki i inne wymagane znaki. Najlepiej podmie\x{144} warto\x{15b}ci wewn\x{105}trz cudzys\x{142}ow\x{f3}w na nowe pary kluczy i warto\x{15b}ci. Je\x{15b}li potrzebujesz wi\x{119}cej pozycji wystarczy powieli\x{107} linie wewn\x{105}trz klamer {}. </p>"
   },
+  'Processing form data' => {
+    'lastUpdated' => '1270550528',
+    'message' => 'Przetwarzanie danych formularza'
+  },
+  'Purging %s' => {
+    'lastUpdated' => '1266308029',
+    'message' => 'Czyszczenie %s'
+  },
+  'Purging shortcuts' => {
+    'lastUpdated' => '1266308043',
+    'message' => 'Czyszczenie skrótów '
+  },
   'Select' => {
     'lastUpdated' => '1237544373',
     'message' => 'Wybierz...'
+  },
+  'Set Rank' => {
+    'lastUpdated' => '1266308067',
+    'message' => 'Ustaw ranking'
+  },
+  'Trying to delete system page %s.  Aborting' => {
+    'lastUpdated' => '1266308103',
+    'message' => "Pr\x{f3}ba usuni\x{119}cia strony systemowej %s. Przerwana. "
+  },
+  'Undefined child' => {
+    'lastUpdated' => '1266308121',
+    'message' => 'Niezdefiniowane dziecko'
   },
   'Uploads URL' => {
     'lastUpdated' => '1236940294',
@@ -284,6 +356,10 @@ our $I18N = {
   'Uploads URL description' => {
     'lastUpdated' => '1237545049',
     'message' => "<p>Ustala adres URL dla plik\x{f3}w Uploads. Domy\x{15b}lnie warto\x{15b}\x{107} ustawiona w pliku konfiguracyjnym WebGUI.</p>"
+  },
+  'You cannot edit the asset %s, skipping' => {
+    'lastUpdated' => '1266308179',
+    'message' => "Nie mo\x{17c}esz edytowa\x{107} zasobu %s, pomijanie"
   },
   'add the missing page' => {
     'lastUpdated' => '1203965700',
@@ -325,6 +401,14 @@ our $I18N = {
     'lastUpdated' => '1237544543',
     'message' => 'Historia zasobu/asset'
   },
+  'assetId' => {
+    'lastUpdated' => '1266308258',
+    'message' => 'Unikalny identyfikator dla tego zasobu/asset, zakodowany w systemie base64'
+  },
+  'assetIdHex' => {
+    'lastUpdated' => '1266308307',
+    'message' => 'Unikalny identyfikator dla tego zasobu, w formacie szesnastkowym'
+  },
   'assetSize' => {
     'lastUpdated' => '1236941143',
     'message' => "Jak du\x{17c}y w bajtach jest ten zas\x{f3}b/asset.  Suma wszystkich p\x{f3}l bazy danych i za\x{142}\x{105}cznik\x{f3}w."
@@ -348,6 +432,10 @@ our $I18N = {
   'change url help' => {
     'lastUpdated' => '1237544574',
     'message' => 'Aktywowanie zmiany URL dla tego zasobu/asset.'
+  },
+  'clear package flag' => {
+    'lastUpdated' => '1276692483',
+    'message' => "Czy\x{15b}\x{107} paczk\x{119}"
   },
   'committed versions' => {
     'lastUpdated' => '1237544581',
@@ -433,6 +521,10 @@ our $I18N = {
     'lastUpdated' => '1204234568',
     'message' => 'Zdegraduj'
   },
+  'demote %s' => {
+    'lastUpdated' => '1266308324',
+    'message' => 'degradacja %s'
+  },
   'demote help' => {
     'lastUpdated' => '1237544724',
     'message' => "Przesu\x{144} ten zas\x{f3}b do do\x{142}u o jedno miejsce na stronie."
@@ -480,6 +572,10 @@ our $I18N = {
   'edit branch url help' => {
     'lastUpdated' => '1236941613',
     'message' => "<p>Adres URL mo\x{17c}esz zmieni\x{107} wykorzystuj\x{105}c dwie sekcje: adres serwera (lewa sekcja) i \x{15b}cie\x{17c}ka pliku (prawa sekcja). Dla sekcji adresu serwera dost\x{119}pne s\x{105} trzy opcje:</p><p>Adres URL rodzica</p><p>&nbsp;&nbsp;&nbsp; Startuje ten adres URL z adresem rodzica</p><p>Okre\x{15b}lony</p><p>&nbsp;&nbsp;&nbsp; Wprowad\x{17a} now\x{105} baz\x{119} adresu w polu, kt\x{f3}re pojawi si\x{119} kiedy Specified Base zostanie wybrane.</p><p>\x{17b}aden</p><p>&nbsp;&nbsp;&nbsp; Wszystkie Zasoby/Asset maj\x{105} mie\x{107} adres URL &quot;top-level&quot; .</p><p>&nbsp;</p><p>Dost\x{119}pne s\x{105} r\x{f3}wnie\x{17c} trzy opcje dla adresu pliku:&nbsp; </p><p>Tytu\x{142} w menu</p><p>&nbsp;&nbsp;&nbsp; Nowy adres URL b\x{119}dzie bazowa\x{142} na polu tytu\x{142}u dla menu zasobu&nbsp;</p><p> Title</p><p>&nbsp;&nbsp;&nbsp; Nowy adres URL b\x{119}dzie bazowa\x{142} na polu tytu\x{142}u.</p><p>Aktualny adres URL</p><p>&nbsp;&nbsp;&nbsp;  Nowy adres URL b\x{119}dzie bazowa\x{142} na aktualnym adresie zasobu</p><p>&nbsp;</p><p>Nowe adresy URL b\x{119}d\x{105} przekazane przez funkcj\x{119} makeUrlCompliant, kt\x{f3}ra jest specyficzna dla ka\x{17c}dego j\x{119}zyka. </p><p>&nbsp;</p>"
+  },
+  'editing %s' => {
+    'lastUpdated' => '1266308352',
+    'message' => 'edycja %s'
   },
   'encrypt page' => {
     'lastUpdated' => '1236941889',
@@ -553,6 +649,10 @@ our $I18N = {
     'lastUpdated' => '1236942364',
     'message' => 'Import'
   },
+  'indexing %s' => {
+    'lastUpdated' => '1266308420',
+    'message' => 'indeksowanie %s'
+  },
   'inherit parent permissions' => {
     'lastUpdated' => '1236942372',
     'message' => 'Odziedzicz uprawnienia rodzica'
@@ -578,8 +678,12 @@ our $I18N = {
     'message' => "S\x{142}owa kluczowe"
   },
   'keywords help' => {
-    'lastUpdated' => '1236943047',
-    'message' => "Wprowad\x{17a} kilka s\x{142}\x{f3}w kluczowych dla zasobu. Klucze b\x{119}d\x{105} automatycznie dodane do indeksu szukania, a tak\x{17c}e do sekcji meta w dokumentach HTML."
+    'lastUpdated' => '1266308626',
+    'message' => "Wprowad\x{17a} kilka s\x{142}\x{f3}w kluczowych dla zasobu. Klucze b\x{119}d\x{105} automatycznie dodane do indeksu szukania, a tak\x{17c}e do sekcji meta w dokumentach HTML. S\x{142}owa kluczowe powinny by\x{107} oddzielane przecinkiem. "
+  },
+  'keywords template var' => {
+    'lastUpdated' => '1276692517',
+    'message' => "To b\x{119}d\x{105} s\x{142}owa kluczowe dla tego zasobu. "
   },
   'last updated' => {
     'lastUpdated' => '1236943063',
@@ -649,6 +753,18 @@ our $I18N = {
     'lastUpdated' => '1236944009',
     'message' => "Strona, kt\x{f3}rej za\x{17c}\x{105}dano nie istnieje. Co chcia\x{142}by\x{15b} zrobi\x{107}?"
   },
+  'moving %s' => {
+    'lastUpdated' => '1266308639',
+    'message' => 'przenoszenie %s'
+  },
+  'moving %s aside' => {
+    'lastUpdated' => '1266308656',
+    'message' => 'przenoszenie %s na bok'
+  },
+  'moving %s back' => {
+    'lastUpdated' => '1266308679',
+    'message' => 'przenoszenie %s z powrotem'
+  },
   'need a depth' => {
     'lastUpdated' => '1237457108',
     'message' => "Potrzebne zagnie\x{17c}d\x{17c}enie"
@@ -697,9 +813,17 @@ our $I18N = {
     'lastUpdated' => '1227965663',
     'message' => "Nadrz\x{119}dny URL"
   },
+  'pasting %s' => {
+    'lastUpdated' => '1266308688',
+    'message' => 'wklejanie %s'
+  },
   'promote' => {
     'lastUpdated' => '1214817333',
     'message' => "Przesu\x{144} wy\x{17c}ej"
+  },
+  'promote %s' => {
+    'lastUpdated' => '1266308731',
+    'message' => 'promowanie %s'
   },
   'promote help' => {
     'lastUpdated' => '1236944682',
@@ -809,6 +933,10 @@ our $I18N = {
     'lastUpdated' => '1204239497',
     'message' => 'Rozmiar'
   },
+  'skipping %s' => {
+    'lastUpdated' => '1266308748',
+    'message' => 'pomijanie %s'
+  },
   'specified base' => {
     'lastUpdated' => '1238592309',
     'message' => 'Specyficzna baza'
@@ -816,6 +944,14 @@ our $I18N = {
   'status' => {
     'lastUpdated' => '1238070617',
     'message' => "Status dla zasobu zwi\x{105}zany z kontrol\x{105} wersji. Zazwyczaj reprezentuj\x{105} go s\x{142}owa \"zatwierdzony\", \"b\x{119}d\x{105}cy w toku\", \"dopuszczony\"."
+  },
+  'swap first' => {
+    'lastUpdated' => '1266308773',
+    'message' => 'zamiana pierwsza'
+  },
+  'swap second' => {
+    'lastUpdated' => '1266308780',
+    'message' => 'zamiana druga'
   },
   'synopsis' => {
     'lastUpdated' => '1237545329',
@@ -852,6 +988,14 @@ our $I18N = {
   'url' => {
     'lastUpdated' => '1204236181',
     'message' => 'Adres URL zasobu.'
+  },
+  'usePackedHeadTags description' => {
+    'lastUpdated' => '1277193094',
+    'message' => "U\x{17c}yj spakowanej wersji tag\x{f3}w head dla szybszego pobierania"
+  },
+  'usePackedHeadTags label' => {
+    'lastUpdated' => '1276692544',
+    'message' => "U\x{17c}yj spakowanych znacznik\x{f3}w head"
   },
   'view' => {
     'lastUpdated' => '1204236187',

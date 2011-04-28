@@ -70,8 +70,8 @@ our $I18N = {
     'message' => 'Standaard wordt de tabel exact zo gesorteerd als het moment dat deze wordt opgeslagen.'
   },
   'help edit cell' => {
-    'lastUpdated' => '1225915822',
-    'message' => 'Dubbelklik op een beld om deze te bewerken. Op de tab toets zal het huidige veld opslaan en de volgende openen.'
+    'lastUpdated' => '1290779853',
+    'message' => 'Dubbelklik op een veld om deze te bewerken. Op de tab toets zal het huidige veld opslaan en de volgende openen.'
   },
   'help reorder column' => {
     'lastUpdated' => '1225915844',

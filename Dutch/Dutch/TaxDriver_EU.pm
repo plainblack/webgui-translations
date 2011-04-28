@@ -1,6 +1,18 @@
 package WebGUI::i18n::Dutch::TaxDriver_EU;
 use utf8;
 our $I18N = {
+  'Add another VAT number' => {
+    'lastUpdated' => '1297776537',
+    'message' => 'Voeg een BTW nummer toe.'
+  },
+  'Approved for use' => {
+    'lastUpdated' => '1297776549',
+    'message' => 'Goedgekeurd voor gebruik'
+  },
+  'Enter VAT numbers' => {
+    'lastUpdated' => '1297776563',
+    'message' => 'Voer BTW nummers in'
+  },
   'accept when vies unavailable' => {
     'lastUpdated' => '1250839975',
     'message' => 'Ongecontroleerde BTW nummers toestaan als de BTW nummercheckservice niet beschikbaar is?'

@@ -457,6 +457,10 @@ our $I18N = {
     'lastUpdated' => '1241298388',
     'message' => 'Angabe, ob der Benutzer bereits eine Versandadresse angegeben hat. Diese Versandadresse ist immer notwendig um die Steuer errechnen zu können.'
   },
+  'hasSku' => {
+    'lastUpdated' => '1303289636',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn das Asset, auf das sich dieser Artikel bezieht, noch in WebGUI enthalten ist. Ist diese Variable \'false\', dann sollte <strong>viewItemURL</strong> nicht genutzt werden'
+  },
   'import tax' => {
     'lastUpdated' => '1240756543',
     'message' => 'Importsteuer'
@@ -580,6 +584,10 @@ our $I18N = {
   'item shippingName' => {
     'lastUpdated' => '1241158116',
     'message' => 'Name Versandadresse für dieses Item'
+  },
+  'item sku deleted' => {
+    'lastUpdated' => '1303289660',
+    'message' => 'Das Asset zu diesem Artikel kann nicht instantiiert werden.'
   },
   'item taxAmount help' => {
     'lastUpdated' => '1279222235',

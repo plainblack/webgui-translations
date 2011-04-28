@@ -246,8 +246,8 @@ Cuando se hace referencia a cualquier página, es posible acceder a cualquiera d
     'message' => 'El <strong>assetID</strong> de la página actual.'
   },
   'page.depthDiff' => {
-    'lastUpdated' => '1252453699',
-    'message' => 'La diferencia de profundidad entre la página previa y la página actual, calculada como <strong>parent.absDepth - page.absDepth</strong>. Note que <strong>parent.absDepth</strong> no es una variable disponible en plantillas.'
+    'lastUpdated' => '1290168620',
+    'message' => 'La diferencia de profundidad entre la página previa y la página actual, calculada como <strong>previous.absDepth - page.absDepth</strong>, aunque <strong>previous.absDepth</strong> no es una variable disponible en la plantilla. Para la primera página (que no tiene página previa), esta variable valdrá cero.'
   },
   'page.depthDiffIsN' => {
     'lastUpdated' => '1252453825',

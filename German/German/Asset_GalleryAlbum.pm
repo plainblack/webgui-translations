@@ -13,6 +13,10 @@ our $I18N = {
     'lastUpdated' => '1254902470',
     'message' => 'Gefundene Datei: %s'
   },
+  'Getting list of files for sorting purposes' => {
+    'lastUpdated' => '1285235214',
+    'message' => 'Dateiliste fürs Sortieren holen.'
+  },
   'Requesting commit for version tag' => {
     'lastUpdated' => '1254902486',
     'message' => 'Commit für Versions-Tag anfordern'

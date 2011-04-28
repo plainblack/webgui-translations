@@ -1,6 +1,18 @@
 package WebGUI::i18n::Dutch::Asset_Thingy;
 use utf8;
 our $I18N = {
+  'Creating column headers' => {
+    'lastUpdated' => '1288950752',
+    'message' => 'Kolomnamen aanmaken'
+  },
+  'Return to %s' => {
+    'lastUpdated' => '1288950763',
+    'message' => 'Ga terug naar %s.'
+  },
+  'Writing data' => {
+    'lastUpdated' => '1288950773',
+    'message' => 'Data schrijven'
+  },
   'add field label' => {
     'lastUpdated' => '1205853556',
     'message' => 'Veld toevoegen'
@@ -553,6 +565,10 @@ our $I18N = {
     'lastUpdated' => '1206449969',
     'message' => 'Het label van een doorzoekbaar veld'
   },
+  'searchFields_listType' => {
+    'lastUpdated' => '1278062203',
+    'message' => 'Een functie die waar is wanneer het veld van het type Lijst is.'
+  },
   'searchFields_loop' => {
     'lastUpdated' => '1206449994',
     'message' => 'Een functie die de velden bevat die doorzoekbaar zijn.'
@@ -592,6 +608,10 @@ our $I18N = {
   'searchResult_id' => {
     'lastUpdated' => '1206450243',
     'message' => 'De identificatie van een zoekresultaat.'
+  },
+  'searchResult_json' => {
+    'lastUpdated' => '1285166622',
+    'message' => 'JSON gecodeerde versie van de searchResult_loop, zodat de data door Javascript gelezen kan worden.'
   },
   'searchResult_loop' => {
     'lastUpdated' => '1206952592',
@@ -758,8 +778,8 @@ our $I18N = {
     'message' => 'Standaard Thingy'
   },
   'viewScreenTitle' => {
-    'lastUpdated' => '1205854475',
-    'message' => 'De titel voor het weergave scherm'
+    'lastUpdated' => '1302256493',
+    'message' => 'De titel voor het weergave scherm. Dit is een aaneensluiting van alle waarden van velden die de titel van het weergave scherm ingesteld hebben voor dit Thing. Als er geen velden ingesteld zijn, is dit veld leeg.'
   },
   'view_url' => {
     'lastUpdated' => '1228763556',

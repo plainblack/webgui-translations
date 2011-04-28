@@ -5,58 +5,58 @@ use strict;
 our $I18N = {
     '1082' => {
         'context'     => 'A tab heading in the admin bar accordion.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Clipboard'
     },
     '1083' => {
         'context'     => 'A tab heading in the admin bar accordion.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'New Content'
     },
     '12' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Turn admin off.'
     },
     '399' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Validate this page.'
     },
     'basic' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Basic'
     },
     'commit my changes' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Commit My Changes'
     },
     'community' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Community'
     },
     'intranet' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Intranet'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'AdminBar'
     },
     'packages' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Packages'
     },
     'prototypes' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Prototypes'
     },
     'utilities' => {
         'context'     => 'A category heading in the New Content menu.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Utilities'
     }
 };

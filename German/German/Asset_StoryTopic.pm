@@ -58,8 +58,8 @@ our $I18N = {
     'message' => 'Template zur Anzeige von Berichtsassets zu diesem Berichtsthema'
   },
   'story_loop' => {
-    'lastUpdated' => '1252336349',
-    'message' => 'Eine Schleife die die letzten Berichte zu diesem Thema enthält'
+    'lastUpdated' => '1295596997',
+    'message' => 'Eine Schleife die die letzten Berichte zu diesem Thema enthält. Zusätzlich zu den aufgeführten Variablen sind alle View-Template-Variablen des Story-Assets nutzbar.'
   },
   'storytopic asset template variables title' => {
     'lastUpdated' => '1252336355',
@@ -76,6 +76,10 @@ our $I18N = {
   'title' => {
     'lastUpdated' => '1252336394',
     'message' => 'Titel des Berichts'
+  },
+  'topStory' => {
+    'lastUpdated' => '1296988385',
+    'message' => 'Variable die gleichartige Werte wie story_loop enthält  aber für topStory. Verwendung z.B. mit topStory.hasPhoto usw.'
   },
   'topStoryCreationDate' => {
     'lastUpdated' => '1252336445',

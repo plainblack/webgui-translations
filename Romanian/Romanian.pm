@@ -4,7 +4,7 @@ use strict;
 use utf8;
 
 our $LANGUAGE = {
-  'label' => 'Romana',
+  'label' => "Rom\x{e2}n\x{103}",
   'languageAbbreviation' => 'ro',
   'locale' => 'RO',
   'toolbar' => 'bullet'

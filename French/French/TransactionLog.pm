@@ -12,6 +12,14 @@ our $I18N = {
   'and' => {
     'lastUpdated' => '1242927863',
     'message' => 'et'
+  },
+  'any' => {
+    'lastUpdated' => '1292860434',
+    'message' => 'Tout'
+  },
+  'gateway' => {
+    'lastUpdated' => '1292860500',
+    'message' => 'Le moyen de paiement qui a été utilisée.'
   }
 }
 ;

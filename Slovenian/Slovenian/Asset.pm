@@ -1,55 +1,55 @@
 package WebGUI::i18n::Slovenian::Asset;
 use utf8;
 our $I18N = {
-  '104' => {
-    'lastUpdated' => 1178226155,
+  104 => {
+    'lastUpdated' => '1178226155',
     'message' => 'URL'
   },
   '104 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '105' => {
+  105 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '107' => {
+  107 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '1073' => {
+  1073 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '1079' => {
+  1079 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '108' => {
-    'lastUpdated' => 1221334842,
+  108 => {
+    'lastUpdated' => '1221334842',
     'message' => 'Lastnik'
   },
   '108 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '1082' => {
-    'lastUpdated' => 1221334949,
+  1082 => {
+    'lastUpdated' => '1221334949',
     'message' => "Odlo\x{17e}i\x{161}\x{10d}e"
   },
-  '1083' => {
-    'lastUpdated' => 1178733063,
+  1083 => {
+    'lastUpdated' => '1178733063',
     'message' => 'Nova vsebina'
   },
-  '11' => {
-    'lastUpdated' => 1221335035,
+  11 => {
+    'lastUpdated' => '1221335035',
     'message' => "Izprazni ko\x{161} za smeti."
   },
-  '174' => {
-    'lastUpdated' => 1221335058,
+  174 => {
+    'lastUpdated' => '1221335058',
     'message' => "Prika\x{17e}i naslov?"
   },
-  '411' => {
+  411 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -57,31 +57,31 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '412' => {
-    'lastUpdated' => 1221335084,
+  412 => {
+    'lastUpdated' => '1221335084',
     'message' => 'Povzetek'
   },
   '412 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '43' => {
+  43 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '486' => {
-    'lastUpdated' => 1221335114,
+  486 => {
+    'lastUpdated' => '1221335114',
     'message' => 'Podatkovni tip'
   },
-  '487' => {
-    'lastUpdated' => 1221335130,
+  487 => {
+    'lastUpdated' => '1221335130',
     'message' => "Mo\x{17e}ne vrednosti"
   },
-  '85' => {
+  85 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '871' => {
+  871 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -89,7 +89,7 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '872' => {
+  872 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -97,7 +97,7 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '886' => {
+  886 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -105,15 +105,15 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '895' => {
+  895 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '896' => {
+  896 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '940' => {
+  940 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -121,39 +121,39 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '949' => {
+  949 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '950' => {
+  950 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '951' => {
+  951 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '954' => {
+  954 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '959' => {
+  959 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '964' => {
+  964 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '965' => {
+  965 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '966' => {
+  966 => {
     'lastUpdated' => undef,
     'message' => ''
   },
-  '99' => {
+  99 => {
     'lastUpdated' => undef,
     'message' => ''
   },
@@ -698,16 +698,16 @@ our $I18N = {
     'message' => ''
   },
   'size' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263083566',
+    'message' => 'Velikost'
   },
   'specified base' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   'status' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263083575',
+    'message' => 'Status'
   },
   'synopsis' => {
     'lastUpdated' => undef,

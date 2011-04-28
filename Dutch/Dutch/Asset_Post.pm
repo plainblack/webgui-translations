@@ -205,6 +205,10 @@ our $I18N = {
     'lastUpdated' => '1152808563',
     'message' => 'Een voorwaarde die waar is als de gebruiker bezig is een bestaand bericht te beantwoorden'
   },
+  'isSubscribedToCs' => {
+    'lastUpdated' => '1278062166',
+    'message' => 'Een functie die waar is wanneer de huidige gebruiker geabonneerd is op het CS met deze post.'
+  },
   'isThread' => {
     'lastUpdated' => '1152808625',
     'message' => 'Een voorwaarde die waar is als de gebruiker bezig is het hoofdartikel van een thread te bewerken, in tegenstelling tot het beantwoorden binnen een thread. '

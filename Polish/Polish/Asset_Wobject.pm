@@ -38,8 +38,8 @@ our $I18N = {
     'message' => "Nie, pomyli\x{142}em si\x{119}"
   },
   827 => {
-    'lastUpdated' => '1237838797',
-    'message' => ''
+    'lastUpdated' => '1270548067',
+    'message' => 'Zmienne szablonu Wobject'
   },
   85 => {
     'lastUpdated' => '1236870318',
@@ -54,27 +54,27 @@ our $I18N = {
     'message' => 'Dodaj'
   },
   'assetId' => {
-    'lastUpdated' => '1237838823',
-    'message' => ''
+    'lastUpdated' => '1270548118',
+    'message' => 'Unikalny identyfikator zasobu.'
   },
   'assetName' => {
-    'lastUpdated' => '1237838830',
-    'message' => ''
+    'lastUpdated' => '1265117398',
+    'message' => 'Wobject'
   },
   'description' => {
     'lastUpdated' => '1236870582',
     'message' => 'Opis dla tego obiektu'
   },
   'displayTitle' => {
-    'lastUpdated' => '1237838849',
-    'message' => ''
+    'lastUpdated' => '1270548148',
+    'message' => "Zmienna zawieraj\x{105}ca informacj\x{119} czy tytu\x{142} zasobu powinien by\x{107} wy\x{15b}wietlany."
   },
   'edit' => {
     'lastUpdated' => '1236870357',
     'message' => 'Edycja'
   },
   'originalURL' => {
-    'lastUpdated' => '1237838923',
+    'lastUpdated' => '1270548163',
     'message' => "Je\x{17c}eli ten obiekt jest skr\x{f3}tem, wtedy ten URL przeniesie Ciebie do oryginalnego zasobu."
   },
   'printableStyleTemplateId' => {
@@ -82,8 +82,8 @@ our $I18N = {
     'message' => ''
   },
   'title' => {
-    'lastUpdated' => '1237838902',
-    'message' => ''
+    'lastUpdated' => '1265117480',
+    'message' => "Tytu\x{142} dla tego wobjektu"
   }
 }
 ;

@@ -110,8 +110,8 @@ our $I18N = {
     'message' => "Liczba wszystkich odpowiedzi we wszystkich w\x{105}tkach forum."
   },
   'forum.threads' => {
-    'lastUpdated' => '1208428422',
-    'message' => "Liczba wszystkich w\x{105}tk&oacute;w w forum."
+    'lastUpdated' => '1270543042',
+    'message' => "Liczba wszystkich w\x{105}tk&oacute;w w forum. Nie zlicza w\x{105}tk\x{f3}w z archiwum."
   },
   'forum.title' => {
     'lastUpdated' => '1208428437',

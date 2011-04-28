@@ -97,6 +97,10 @@ our $I18N = {
     'lastUpdated' => '1235908966',
     'message' => "\x{421}\x{43c}\x{430}\x{439}\x{43b}\x{438}\x{43a}\x{438}"
   },
+  'enable context menu' => {
+    'lastUpdated' => '1300182995',
+    'message' => "\x{440}\x{430}\x{437}\x{440}\x{435}\x{448}\x{438}\x{442}\x{44c} \x{43a}\x{43e}\x{43d}\x{442}\x{435}\x{43a}\x{441}\x{442}\x{43d}\x{43e}\x{435} \x{43c}\x{435}\x{43d}\x{44e}"
+  },
   'fontselect' => {
     'lastUpdated' => '1235908984',
     'message' => "\x{428}\x{440}\x{438}\x{444}\x{442}"

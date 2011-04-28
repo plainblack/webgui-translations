@@ -4,23 +4,23 @@ package WebGUI::i18n::Australian::Macro_a_account;
 use strict;
 our $I18N = {
     '46' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'My Account'
     },
     'account title' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Account Macro Template Variables'
     },
     'account.text' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The translated label for the account link, or the text that you supply to the macro.'
     },
     'account.url' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'The URL to the account page.'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Account'
     }
 };

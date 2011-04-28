@@ -1,6 +1,18 @@
 package WebGUI::i18n::Spanish::TaxDriver_EU;
 use utf8;
 our $I18N = {
+  'Add another VAT number' => {
+    'lastUpdated' => '1302872983',
+    'message' => 'Agregar otro Número VAT'
+  },
+  'Approved for use' => {
+    'lastUpdated' => '1302872994',
+    'message' => 'Aprobado para el uso'
+  },
+  'Enter VAT numbers' => {
+    'lastUpdated' => '1302873006',
+    'message' => 'Ingrese Números VAT'
+  },
   'accept when vies unavailable' => {
     'lastUpdated' => '1253893681',
     'message' => 'Aceptar números VAT sin validar cuando VIES no esté disponible'

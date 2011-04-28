@@ -54,16 +54,16 @@ our $I18N = {
     'message' => 'N&eacute;cessaire?'
   },
   '474 description' => {
-    'lastUpdated' => '1202576970',
-    'message' => 'L\'utilisateur doit-t-il remplir ce champ?'
+    'lastUpdated' => '1294219102',
+    'message' => 'L\'utilisateur doit-t-il remplir ce champ ? Si cette option est positionnée à \'oui\', le champ sera automatiquement placé en mode édition.'
   },
   475 => {
     'lastUpdated' => '1202576979',
     'message' => 'Nom du champ'
   },
   '475 description' => {
-    'lastUpdated' => '1202577022',
-    'message' => 'Le nom du champ, utilis&eacute; en interne dans la base de donn&eacute;es.'
+    'lastUpdated' => '1294219223',
+    'message' => 'Le nom du champ, utilisé en interne dans la base de données. Les noms de champ ne doivent pas contenir d\'espace. Certain noms de champ sont réservés comme "op", "func", "username", "shop", "karma", "status", "lastUpdated", dateCreated".'
   },
   486 => {
     'lastUpdated' => '1202577032',
@@ -152,6 +152,14 @@ our $I18N = {
   'category short name description' => {
     'lastUpdated' => '1242808373',
     'message' => 'Le nom court de cette catégorie'
+  },
+  'default privacy setting description' => {
+    'lastUpdated' => '1294219329',
+    'message' => 'Choisissez les paramètres de confidentialité par défaut de ce champ de profil. Ils seront utilisés lorsqu\'un nouvel utilisateur sera créé.'
+  },
+  'default privacy setting label' => {
+    'lastUpdated' => '1294219357',
+    'message' => 'Paramètre de confidentialité par défaut'
   },
   'displayTitle' => {
     'lastUpdated' => '1242808435',

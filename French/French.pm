@@ -7,7 +7,7 @@ our $LANGUAGE = {
   'label' => 'French',
   'languageAbbreviation' => 'fr',
   'locale' => 'FR',
-  'toolbar' => 'Francais'
+  'toolbar' => 'bullet-fr'
 }
 ;
 
@@ -15,6 +15,9 @@ sub makeUrlCompliant {
     my $value = shift;
 ##<-- start transliteration -->##
 $value =~ tr/àâäéèêëïîöôòùüç/aaaeeeeiiooouuc/;
+
+
+
 
 
 

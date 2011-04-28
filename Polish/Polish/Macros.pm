@@ -22,8 +22,8 @@ our $I18N = {
     'message' => 'Skrót Makro'
   },
   'macros list body' => {
-    'lastUpdated' => '1227966307',
-    'message' => "Udost\x{119}pnianie makra na Twojej stronie sk\x{142}ada si\x{119} z dw\x{f3}ch krok\x{f3}w:\n\n  1. Makro musi by\x{107} umieszczone w katalogu Macros w katalogu z kodem \x{17a}r\x{f3}d\x{142}owym WebGUI: /lib/WebGUI/Macros/.\n\n  2. Makro musi by\x{107} w\x{142}\x{105}czone w Twoim pliku WebGUI.conf, w sekcji \"macros\".  Mo\x{17c}esz tam te\x{17c} przypisa\x{107} skr\x{f3}t, kt\x{f3}ry jest inny, ni\x{17c} nazwa makra.\n\nPoni\x{17c}sza tabela pokazuje kt\x{f3}re makra s\x{105} zainstalowane dla Twojej witryny i zosta\x{142}y skonfigurowane w pliku WebGUI.conf."
+    'lastUpdated' => '1252413820',
+    'message' => "Udost\x{119}pnianie makra na Twojej stronie sk\x{142}ada si\x{119} z dw\x{f3}ch krok\x{f3}w:\r\n\r\n  1. Makro musi by\x{107} umieszczone w katalogu Macros w katalogu z kodem \x{17a}r\x{f3}d\x{142}owym WebGUI: /lib/WebGUI/Macros/.\r\n\r\n  2. Makro musi by\x{107} w\x{142}\x{105}czone w Twoim pliku WebGUI.conf, w sekcji \"macros\".  Mo\x{17c}esz tam te\x{17c} przypisa\x{107} skr\x{f3}t, kt\x{f3}ry jest inny, ni\x{17c} nazwa makra.\r\n\r\nPoni\x{17c}sza tabela pokazuje kt\x{f3}re makra s\x{105} zainstalowane dla Twojej witryny i zosta\x{142}y skonfigurowane w pliku WebGUI.conf."
   },
   'macros list title' => {
     'lastUpdated' => '1217419945',

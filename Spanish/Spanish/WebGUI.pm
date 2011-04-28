@@ -50,28 +50,28 @@ our $I18N = {
     'message' => 'Texto'
   },
   1011 => {
-    'lastUpdated' => '1169610732',
-    'message' => 'C&oacute;digo'
+    'lastUpdated' => '1291126400',
+    'message' => 'Código'
   },
   1016 => {
     'lastUpdated' => '1199971371',
     'message' => 'Respuestas'
   },
   1017 => {
-    'lastUpdated' => '1199971411',
-    'message' => '&Uacute;ltima Respuesta'
+    'lastUpdated' => '1289571727',
+    'message' => 'Última Respuesta'
   },
   1021 => {
     'lastUpdated' => '1207945962',
     'message' => 'Calificar Mensaje'
   },
   1026 => {
-    'lastUpdated' => '1224122903',
-    'message' => '&iquest;Permitir editor de texto enriquecido?'
+    'lastUpdated' => '1289571737',
+    'message' => '¿Permitir editor de texto enriquecido?'
   },
   1027 => {
-    'lastUpdated' => '1224122919',
-    'message' => '&iquest;Usar filtros de contenido?'
+    'lastUpdated' => '1289571751',
+    'message' => '¿Aplicar filtros de contenido?'
   },
   1029 => {
     'lastUpdated' => '1199971793',
@@ -82,12 +82,12 @@ our $I18N = {
     'message' => 'por'
   },
   1035 => {
-    'lastUpdated' => '1199971835',
-    'message' => 'Plantilla de Notificaci&oacute;n'
+    'lastUpdated' => '1291126247',
+    'message' => 'Plantilla de Notificación'
   },
   1039 => {
-    'lastUpdated' => '1199971850',
-    'message' => 'Atr&aacute;s'
+    'lastUpdated' => '1291126257',
+    'message' => 'Atrás'
   },
   104 => {
     'lastUpdated' => '1199971863',
@@ -98,12 +98,12 @@ our $I18N = {
     'message' => 'Introduce una URL para tu enlace'
   },
   1043 => {
-    'lastUpdated' => '1208147813',
-    'message' => 'Archivo Despu&eacute;s'
+    'lastUpdated' => '1291126282',
+    'message' => 'Archivar luego de'
   },
   1044 => {
-    'lastUpdated' => '1200060287',
-    'message' => 'Plantilla de b&uacute;squeda '
+    'lastUpdated' => '1291126416',
+    'message' => 'Plantilla para Búsqueda'
   },
   1045 => {
     'lastUpdated' => '1199974304',
@@ -114,8 +114,8 @@ our $I18N = {
     'message' => 'Archivado'
   },
   1047 => {
-    'lastUpdated' => '1199975778',
-    'message' => 'A&ntilde;adir un filtro de contenidos.'
+    'lastUpdated' => '1291126756',
+    'message' => 'Agregar Filtro de Contenido.'
   },
   1049 => {
     'lastUpdated' => '1206738995',
@@ -190,16 +190,16 @@ our $I18N = {
     'message' => 'La funci&oacute;n que est&aacute; intentando llamar no est&aacute; disponible para este m&oacute;dulo de autenticaci&oacute;n'
   },
   1078 => {
-    'lastUpdated' => '1207087755',
-    'message' => 'Ya existe un usuario del sistema con la direcci&oacute;n de correo que usted ha entrado. Por favor recomplete el formulario y presiones &quot;Guardar&quot; si desea crear este usuario'
+    'lastUpdated' => '1291126838',
+    'message' => 'Ya existe un usuario registrado con esa dirección de correo elecrónico. Por favor indique una dirección de correo diferente y oprima \'Guardar\' si aún desea crear el usuario.'
   },
   1079 => {
     'lastUpdated' => '1207145389',
     'message' => 'Estilo imprimible'
   },
   108 => {
-    'lastUpdated' => '1203217628',
-    'message' => 'Due&ntilde;o'
+    'lastUpdated' => '1291126447',
+    'message' => 'Dueño'
   },
   1084 => {
     'lastUpdated' => '1207145448',
@@ -226,24 +226,24 @@ our $I18N = {
     'message' => 'Ocultar panel administrativo'
   },
   125 => {
-    'lastUpdated' => '1206739117',
-    'message' => 'Nombre de Compa&ntilde;&iacute;a'
+    'lastUpdated' => '1291127195',
+    'message' => 'Nombre de Compañía'
   },
   '125 description' => {
-    'lastUpdated' => '1169610835',
-    'message' => 'El nombre de tu compa&ntilde;&iacute;a. Aparecer&aacute; en todos los correos-e y en cualquier parte que se use el nombre de la compa&ntilde;&iacute;a en la macro estilo.<br />'
+    'lastUpdated' => '1291127253',
+    'message' => 'El nombre de la compañía. Aparecerá en todos los correos electrónicos y plantillas en las cuales se haya utilizado el Macro Nombre de Compañía.'
   },
   126 => {
-    'lastUpdated' => '1206739155',
-    'message' => 'Correo de la Compa&ntilde;&iacute;a'
+    'lastUpdated' => '1291127268',
+    'message' => 'Correo de la Compañía'
   },
   '126 description' => {
     'lastUpdated' => '1207145779',
     'message' => 'Una direcci&oacute;n de correo electr&oacute;nico general de su compa&ntilde;&iacute;a. Esta es la direcci&oacute;n para todos los mensajes automatizados que vengan. Tambi&eacute;n puede utilizarse a trav&eacute;s de la macro de estilo Direcci&oacute;n de Correo Electr&oacute;nico Empresa.'
   },
   127 => {
-    'lastUpdated' => '1206739234',
-    'message' => 'URL de la Compa&ntilde;&iacute;a'
+    'lastUpdated' => '1291127279',
+    'message' => 'URL de la Compañía'
   },
   '127 description' => {
     'lastUpdated' => '1207145902',
@@ -262,8 +262,8 @@ our $I18N = {
     'message' => 'Mensaje de Recuperar Contrase&ntilde;a'
   },
   135 => {
-    'lastUpdated' => '1206739320',
-    'message' => 'Servidot SMTP'
+    'lastUpdated' => '1279900655',
+    'message' => 'Servidor SMTP'
   },
   '135 description' => {
     'lastUpdated' => '1207146400',
@@ -282,28 +282,28 @@ our $I18N = {
     'message' => 'Ver presentaciones pendientes'
   },
   141 => {
-    'lastUpdated' => '1206739346',
-    'message' => 'P&aacute;gina no encontrada'
+    'lastUpdated' => '1291127310',
+    'message' => 'Página para No Encontrada'
   },
   '141 description' => {
     'lastUpdated' => '1207147190',
     'message' => '<div id="result_box" dir="ltr">Si una p&aacute;gina en la que un usuario solicita no se encuentra en el sistema, el usuario puede ser redireccionado a la p&aacute;gina principal o a una p&aacute;gina de error en el que puedan tratar de encontrar lo que estaba buscando. Usted decide qu&eacute; es mejor para sus usuarios.</div>'
   },
   142 => {
-    'lastUpdated' => '1206739359',
-    'message' => 'Sesion Expirada'
+    'lastUpdated' => '1291126374',
+    'message' => 'Expirar sesión luego de'
   },
   '142 description' => {
     'lastUpdated' => '1208180716',
     'message' => '<p>La cantidad de tiempo que permacene activa una sesion de usuario (antes se necesitaba ingresar otravez). Este tiempo fuera se reinicia cada vez que un usuario ve una pagina. De esta manera, al configurar el tiempo fuera en 8 horas, un usuario tendria que ingresar nuevamente si no ha visitado el sitio en 8 horas.</p>'
   },
   144 => {
-    'lastUpdated' => '1206739372',
-    'message' => 'Ver estad&iacute;sticas.'
+    'lastUpdated' => '1291128300',
+    'message' => 'Ver estadísticas.'
   },
   145 => {
-    'lastUpdated' => '1208180766',
-    'message' => '<p>Version de construccion de WebGUI&nbsp;</p><p>&nbsp;</p><p>WebGUI Build Version</p>'
+    'lastUpdated' => '1291128313',
+    'message' => 'Versión de WebGUI'
   },
   146 => {
     'lastUpdated' => '1206739525',
@@ -330,64 +330,64 @@ our $I18N = {
     'message' => 'Enviado por'
   },
   163 => {
-    'lastUpdated' => '1206739790',
-    'message' => 'Adicionar Usuario'
+    'lastUpdated' => '1291128348',
+    'message' => 'Agregar Usuario'
   },
   164 => {
-    'lastUpdated' => '1207604676',
-    'message' => 'M&eacute;todo de Autenticaci&oacute;n'
+    'lastUpdated' => '1291128325',
+    'message' => 'Método de Autenticación'
   },
   '164 description' => {
     'lastUpdated' => '1207724135',
     'message' => 'Configura el m&eacute;todo de autenticaci&oacute;n por defecto para nuevas cuentas. Hay dos opciones disponibles por defecto WebGUI y LDAP. Las autenticaciones WebGUI significan que los usuarios se autenticar&aacute;n con el usuario y contrase&ntilde;a almacenados en la base de datos de WebGUI. Las autenticaciones LDAP significan que los usuarios se autenticar&aacute;n con el servidor externo LDAP. Otros m&eacute;todos de autenticaci&oacute;n pueden ser proveidos escribiento un plugin de autenticación.</p><p>&nbsp;</p><p><strong><em>NOTAS</em></strong>:</p><p>La configuración de la autenticación puede ser personalizada por cada usuario en una base. <br /> <br /> Dependiendo de los m&oacute;dulos de autenticación que ha instalado en su sistema, podr&aacute; ver todas las opciones a partir de este punto. </p>'
   },
   167 => {
-    'lastUpdated' => '1206740297',
-    'message' => '&iquest;Est&aacute; seguro de que desea eliminar este usuario? Ten en cuenta que toda esta informaci&oacute;n del usuario se perder&aacute;n definitivamente si decide proceder.'
+    'lastUpdated' => '1291128398',
+    'message' => '¿Está seguro que quiere eliminar este usuario? Tenga en cuenta que toda la información asociada al usuario se perderá definitivamente al proceder con la eliminación.'
   },
   168 => {
     'lastUpdated' => '1207605090',
     'message' => 'Editar Usuario'
   },
   169 => {
-    'lastUpdated' => '1207605105',
-    'message' => 'Adicionar un nuevo usuario.'
+    'lastUpdated' => '1291127341',
+    'message' => 'Agregar Usuario.'
   },
   170 => {
     'lastUpdated' => '1207605127',
     'message' => 'buscar'
   },
   174 => {
-    'lastUpdated' => '1207605143',
-    'message' => 'Mostrar el t&iacute;tulo?'
+    'lastUpdated' => '1291127355',
+    'message' => '¿Mostrar el Título?'
   },
   175 => {
-    'lastUpdated' => '1207605164',
-    'message' => 'Procesar macros?'
+    'lastUpdated' => '1291127363',
+    'message' => '¿Procesar macros?'
   },
   2 => {
-    'lastUpdated' => '1203025528',
-    'message' => 'P&aacute;gina'
+    'lastUpdated' => '1291127370',
+    'message' => 'Página'
   },
   229 => {
     'lastUpdated' => '1207605178',
     'message' => 'Asunto'
   },
   '229 description' => {
-    'lastUpdated' => '1207605215',
-    'message' => 'El asunto para el correo.'
+    'lastUpdated' => '1291127386',
+    'message' => 'El asunto para el mensaje de correo electrónico.'
   },
   230 => {
     'lastUpdated' => '1203217815',
     'message' => 'Mensaje'
   },
   '230 description' => {
-    'lastUpdated' => '1207605304',
-    'message' => 'El mensaje que ser&aacute; enviado a todos los miembros de este grupo.&nbsp; El mensaje ser&aacute; neviado in formato HTML. No se puede incluir archivos adjuntos.'
+    'lastUpdated' => '1291127425',
+    'message' => 'El texto del mensaje que será enviado a todos los miembros del grupo. El mensaje será enviado en formato HTML. No es posible incorporar adjuntos adicionales.'
   },
   232 => {
-    'lastUpdated' => '1207605331',
-    'message' => 'sin asunto'
+    'lastUpdated' => '1291128413',
+    'message' => 'Sin asunto'
   },
   240 => {
     'lastUpdated' => '1206740409',
@@ -398,43 +398,43 @@ our $I18N = {
     'message' => 'Autor'
   },
   304 => {
-    'lastUpdated' => '1207605355',
-    'message' => 'Lenguaje'
+    'lastUpdated' => '1291127433',
+    'message' => 'Idioma'
   },
   309 => {
-    'lastUpdated' => '1207605375',
-    'message' => 'Permitir nombre real?'
+    'lastUpdated' => '1291127446',
+    'message' => '¿Permitir uso del nombre real?'
   },
   310 => {
-    'lastUpdated' => '1207605397',
-    'message' => 'Permitir informaci&oacute;n extra del contacto?'
+    'lastUpdated' => '1291127463',
+    'message' => '¿Permitir información adicional de contacto?'
   },
   311 => {
-    'lastUpdated' => '1207607341',
-    'message' => 'Permitir informaci&oacute;n de origen?'
+    'lastUpdated' => '1291127476',
+    'message' => '¿Permitir información de residencia?'
   },
   312 => {
-    'lastUpdated' => '1207607362',
-    'message' => 'Permitir informaci&oacute;n de negocios?'
+    'lastUpdated' => '1291127490',
+    'message' => '¿Permitir información de negocio/oficina?'
   },
   313 => {
-    'lastUpdated' => '1207607390',
-    'message' => 'Permitir informaci&oacute;n miscelanea?'
+    'lastUpdated' => '1291127501',
+    'message' => '¿Permitir información miscelánea?'
   },
   314 => {
-    'lastUpdated' => '1203217859',
-    'message' => 'Nombre'
+    'lastUpdated' => '1291127511',
+    'message' => 'Primer Nombre'
   },
   315 => {
-    'lastUpdated' => '1207607403',
+    'lastUpdated' => '1291127517',
     'message' => 'Segundo Nombre'
   },
   316 => {
-    'lastUpdated' => '1203217976',
-    'message' => 'Apellido'
+    'lastUpdated' => '1291127522',
+    'message' => 'Apellidos'
   },
   317 => {
-    'lastUpdated' => '1207607549',
+    'lastUpdated' => '1291127536',
     'message' => '<a href="http://www.icq.com/" title="ICQ">ICQ</a> UIN'
   },
   318 => {
@@ -450,16 +450,16 @@ our $I18N = {
     'message' => '<a href="http://messenger.yahoo.com/" title="Yahoo! Messenger">Yahoo! Messenger</a> Id'
   },
   321 => {
-    'lastUpdated' => '1207607623',
-    'message' => 'Celular'
+    'lastUpdated' => '1291127548',
+    'message' => 'Teléfono Móvil'
   },
   322 => {
     'lastUpdated' => '1207607635',
     'message' => 'Beeper'
   },
   323 => {
-    'lastUpdated' => '1207607659',
-    'message' => 'Direcci&oacute;n casa'
+    'lastUpdated' => '1291127559',
+    'message' => 'Dirección Residencia'
   },
   324 => {
     'lastUpdated' => '1207607702',
@@ -470,20 +470,20 @@ our $I18N = {
     'message' => 'Estado'
   },
   326 => {
-    'lastUpdated' => '1207607749',
-    'message' => 'Codipo postal'
+    'lastUpdated' => '1291127622',
+    'message' => 'Código Postal'
   },
   327 => {
-    'lastUpdated' => '1207607762',
-    'message' => 'Pa&iacute;s'
+    'lastUpdated' => '1291127575',
+    'message' => 'País'
   },
   328 => {
-    'lastUpdated' => '1207607779',
-    'message' => 'Tel&eacute;fono'
+    'lastUpdated' => '1291127588',
+    'message' => 'Teléfono Residencia'
   },
   329 => {
-    'lastUpdated' => '1207607794',
-    'message' => 'Direcci&oacute;n Trabajo'
+    'lastUpdated' => '1291127597',
+    'message' => 'Dirección Oficina'
   },
   330 => {
     'lastUpdated' => '1207607815',
@@ -494,27 +494,27 @@ our $I18N = {
     'message' => 'Estado'
   },
   332 => {
-    'lastUpdated' => '1207607840',
-    'message' => 'C&oacute;digo Postal'
+    'lastUpdated' => '1291127611',
+    'message' => 'Código Postal'
   },
   333 => {
-    'lastUpdated' => '1207607854',
-    'message' => 'Pa&iacute;s'
+    'lastUpdated' => '1291127631',
+    'message' => 'País'
   },
   334 => {
-    'lastUpdated' => '1207607870',
-    'message' => 'Tel&eacute;fono'
+    'lastUpdated' => '1291127644',
+    'message' => 'Teléfono Oficina'
   },
   335 => {
-    'lastUpdated' => '1207607907',
-    'message' => 'G&eacute;nero'
+    'lastUpdated' => '1291127651',
+    'message' => 'Sexo'
   },
   336 => {
     'lastUpdated' => '1207607944',
     'message' => 'Fecha Nacimiento'
   },
   337 => {
-    'lastUpdated' => '1207607968',
+    'lastUpdated' => '1291127662',
     'message' => 'Homepage URL'
   },
   338 => {
@@ -534,15 +534,15 @@ our $I18N = {
     'message' => 'Editar Perfil.'
   },
   342 => {
-    'lastUpdated' => '1207608025',
-    'message' => 'Editar informaci&oacute;n de cuenta.'
+    'lastUpdated' => '1291127678',
+    'message' => 'Editar información de Cuenta.'
   },
   343 => {
     'lastUpdated' => '1207608038',
     'message' => 'Ver perfil.'
   },
   345 => {
-    'lastUpdated' => '1207724181',
+    'lastUpdated' => '1291127689',
     'message' => 'No es un miembro'
   },
   346 => {
@@ -554,16 +554,16 @@ our $I18N = {
     'message' => 'Ver Perfil Para'
   },
   348 => {
-    'lastUpdated' => '1207667943',
+    'lastUpdated' => '1291127697',
     'message' => 'Nombre'
   },
   349 => {
-    'lastUpdated' => '1207667967',
-    'message' => '&Uacute;ltima versi&oacute;n disponible'
+    'lastUpdated' => '1291127709',
+    'message' => 'Última versión disponible'
   },
   35 => {
-    'lastUpdated' => '1207668198',
-    'message' => 'Funci&oacute;n Administrativa'
+    'lastUpdated' => '1291127719',
+    'message' => 'Función Administrativa'
   },
   350 => {
     'lastUpdated' => '1207681779',
@@ -578,8 +578,8 @@ our $I18N = {
     'message' => 'Fecha'
   },
   353 => {
-    'lastUpdated' => '1207681831',
-    'message' => 'No tienes mensajes en tu bandeja de entrada por el momento.'
+    'lastUpdated' => '1291127747',
+    'message' => 'No hay mensajes en su Bandeja de Entrada.'
   },
   354 => {
     'lastUpdated' => '1207681847',
@@ -606,20 +606,20 @@ our $I18N = {
     'message' => 'Usted debe ser un administrador para realizar esta funci&oacute;n. Por favor, p&oacute;ngase en contacto con uno de los administradores.'
   },
   360 => {
-    'lastUpdated' => '1207682055',
-    'message' => '<div id="result_box" dir="ltr">Uno M&aacute;s de Tres</div>'
+    'lastUpdated' => '1291127763',
+    'message' => 'Uno sobre Tres'
   },
   361 => {
-    'lastUpdated' => '1207682077',
-    'message' => 'Tres m&aacute;s de uno'
+    'lastUpdated' => '1291127771',
+    'message' => 'Tres sobre Uno'
   },
   362 => {
-    'lastUpdated' => '1207725427',
-    'message' => 'Uno al lado del otro'
+    'lastUpdated' => '1291127779',
+    'message' => 'Lado a Lado'
   },
   363 => {
-    'lastUpdated' => '1207725472',
-    'message' => 'Posición de plantilla de página'
+    'lastUpdated' => '1291127811',
+    'message' => 'Posición de la Plantilla de Página'
   },
   364 => {
     'lastUpdated' => '1207682237',
@@ -634,8 +634,8 @@ our $I18N = {
     'message' => '<p>La cantidad de tiempo que un usuario pertenecera a este grupo antes de expirar o ser removido. Esto es muy util para sitios con membresia donde los usuarios tienen ciertos privilegios por periodos especificos de tiempo. &nbsp;</p><p><strong>NOTA</strong>: esto se puede anular en una configuracion usuario a usuario.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>'
   },
   368 => {
-    'lastUpdated' => '1207682338',
-    'message' => 'Adicionar un nuevo grupo a este usuario.'
+    'lastUpdated' => '1291127840',
+    'message' => 'Agregar este usuario a otro grupo.'
   },
   369 => {
     'lastUpdated' => '1207682356',
@@ -646,19 +646,19 @@ our $I18N = {
     'message' => '<p>Cuando la membresia del usuario en el grupo expira. </p><p>&nbsp;</p>'
   },
   37 => {
-    'lastUpdated' => '1206741343',
-    'message' => 'Permiso Denegado!'
+    'lastUpdated' => '1291127868',
+    'message' => '¡No tiene permiso!'
   },
   370 => {
-    'lastUpdated' => '1207682384',
-    'message' => 'Editar Agrupaci&oacute;n'
+    'lastUpdated' => '1291127878',
+    'message' => 'Editar Agrupación'
   },
   371 => {
-    'lastUpdated' => '1207682442',
-    'message' => 'Adicionar Agrupaci&oacute;n'
+    'lastUpdated' => '1291127889',
+    'message' => 'Agregar Agrupación'
   },
   372 => {
-    'lastUpdated' => '1207682461',
+    'lastUpdated' => '1291127899',
     'message' => 'Editar Grupos de Usuarios'
   },
   378 => {
@@ -682,16 +682,16 @@ our $I18N = {
     'message' => '<div id="result_box" dir="ltr">Usted no tiene suficientes privilegios para acceder a esta p&aacute;gina.</div>'
   },
   391 => {
-    'lastUpdated' => '1207684105',
-    'message' => 'Borrar el archivo adjunto.'
+    'lastUpdated' => '1291127920',
+    'message' => 'Eliminar archivo adjunto.'
   },
   392 => {
-    'lastUpdated' => '1207684140',
-    'message' => 'Borrar este archivo?'
+    'lastUpdated' => '1291127928',
+    'message' => '¿Eliminar este archivo?'
   },
   395 => {
-    'lastUpdated' => '1207684183',
-    'message' => 'Adicionar una nueva imagen.'
+    'lastUpdated' => '1291127938',
+    'message' => 'Agregar una imagen.'
   },
   40 => {
     'lastUpdated' => '1207684212',
@@ -706,44 +706,44 @@ our $I18N = {
     'message' => '<p>Algunas empresas tienen servidores proxy que han causado problemas con el WebGUI. Si usted esta teniendo problemas con WebGUI, y ademas tiene un servidor proxy, es recomendable activar esta configuracion poniendola en &quot;si&quot; o &quot;yes&quot;. Tenga en cuenta que las direcciones de internet o &quot;URLs&quot; del WebGUI no seran tan amigables para el usuario una vez se active esta caracteristica.&nbsp; </p>'
   },
   403 => {
-    'lastUpdated' => '1207684393',
+    'lastUpdated' => '1291127959',
     'message' => 'Prefiero no decirlo.'
   },
   404 => {
-    'lastUpdated' => '1207684899',
-    'message' => 'Primera P&aacute;gina'
+    'lastUpdated' => '1291127972',
+    'message' => 'Primera Página'
   },
   405 => {
-    'lastUpdated' => '1203219036',
-    'message' => '&Uacute;ltima P&aacute;gina'
+    'lastUpdated' => '1291127980',
+    'message' => 'Última Página'
   },
   406 => {
-    'lastUpdated' => '1207690922',
-    'message' => 'Imagen en miniatura'
+    'lastUpdated' => '1291127994',
+    'message' => 'Tamaño para Miniaturas'
   },
   '406 description' => {
-    'lastUpdated' => '1208182795',
-    'message' => '<p>Cuando una imagen se cargue en su sistema, se generara automaticamente la vista en miniatura del tama&ntilde;o especificado aqui (a menos que se anule en una configuracio de caso a caso). El tama&ntilde;o de la vista en miniatura es medida en pixeles. </p>'
+    'lastUpdated' => '1291128067',
+    'message' => 'WebGUI genera automáticamente versiones en miniatura (thumbnails) de cada imagen incorporada al sistema. El tamaño en pixels especificado aquí se aplicará a la dimensión más grande de la imagen, a menos que la imagen particular tenga una configuración más específica.'
   },
   407 => {
-    'lastUpdated' => '1207685267',
-    'message' => 'Click aqu&iacute; para registrarse.'
+    'lastUpdated' => '1291128091',
+    'message' => 'Click aquí para registrarse.'
   },
   41 => {
-    'lastUpdated' => '1207685728',
+    'lastUpdated' => '1291128100',
     'message' => '<div id="result_box" dir="ltr">Est&aacute;s intentando eliminar un componente vital del sistema WebGUI. Si permites que contin&uacute;e WebGUI puede dejar de funcionar.</div>'
   },
   411 => {
-    'lastUpdated' => '1207685770',
-    'message' => 'Titulo de Menu'
+    'lastUpdated' => '1291128111',
+    'message' => 'Título para Menú'
   },
   412 => {
-    'lastUpdated' => '1207685812',
+    'lastUpdated' => '1291128118',
     'message' => 'Resumen'
   },
   418 => {
-    'lastUpdated' => '1207685868',
-    'message' => 'Filtro de Contenido'
+    'lastUpdated' => '1291128128',
+    'message' => 'Filtrar Contenido'
   },
   '418 description' => {
     'lastUpdated' => '1208183093',
@@ -754,11 +754,11 @@ our $I18N = {
     'message' => '<div id="result_box" dir="ltr">Eliminar todo, pero el texto.</div>'
   },
   42 => {
-    'lastUpdated' => '1207685950',
+    'lastUpdated' => '1291128137',
     'message' => 'Confirma'
   },
   420 => {
-    'lastUpdated' => '1207686064',
+    'lastUpdated' => '1291128168',
     'message' => 'Eliminar nada.'
   },
   421 => {
@@ -770,32 +770,32 @@ our $I18N = {
     'message' => '<div id="result_box" dir="ltr"><h1>Error de inicio de sesi&oacute;n</h1><p> La informaci&oacute;n proporcionada no coincide con la cuenta. </p></div>'
   },
   425 => {
-    'lastUpdated' => '1207686550',
-    'message' => 'Sesiones Activar'
+    'lastUpdated' => '1291128302',
+    'message' => 'Sesiones Activas'
   },
   426 => {
-    'lastUpdated' => '1207686608',
-    'message' => 'Historial Logueo'
+    'lastUpdated' => '1291128190',
+    'message' => 'Historia de Ingresos'
   },
   428 => {
     'lastUpdated' => '1207686629',
     'message' => 'Usuario (Id)'
   },
   429 => {
-    'lastUpdated' => '1207686742',
-    'message' => 'Hora de Logueo'
+    'lastUpdated' => '1291128199',
+    'message' => 'Hora de Ingreso'
   },
   43 => {
     'lastUpdated' => '1207686845',
     'message' => 'Est&aacute; seguro que desea borrar este contenido?'
   },
   430 => {
-    'lastUpdated' => '1207686867',
-    'message' => '&Uacute;ltima p&aacute;gina vista'
+    'lastUpdated' => '1291128215',
+    'message' => 'Última Página Visitada'
   },
   431 => {
-    'lastUpdated' => '1207686887',
-    'message' => 'Direcci&oacute;n IP'
+    'lastUpdated' => '1291128223',
+    'message' => 'Dirección IP'
   },
   432 => {
     'lastUpdated' => '1207686985',
@@ -814,56 +814,56 @@ our $I18N = {
     'message' => 'Firma de sesion'
   },
   436 => {
-    'lastUpdated' => '1207687115',
+    'lastUpdated' => '1291128236',
     'message' => 'Matar Sesion'
   },
   437 => {
-    'lastUpdated' => '1207687140',
-    'message' => 'Estad&iacute;sticas'
+    'lastUpdated' => '1291128243',
+    'message' => 'Estadísticas'
   },
   438 => {
     'lastUpdated' => '1203218904',
     'message' => 'Su Nombre'
   },
   439 => {
-    'lastUpdated' => '1207687156',
-    'message' => 'Informaci&oacute;n Personal'
+    'lastUpdated' => '1291128253',
+    'message' => 'Información Personal'
   },
   44 => {
     'lastUpdated' => '1207687173',
     'message' => 'Si, estoy seguro.'
   },
   440 => {
-    'lastUpdated' => '1207687196',
-    'message' => 'Informaci&oacute;n de Contacto'
+    'lastUpdated' => '1291128264',
+    'message' => 'Información de Contacto'
   },
   441 => {
     'lastUpdated' => '1252460135',
     'message' => 'Correo a Beeper/SMS'
   },
   442 => {
-    'lastUpdated' => '1207687248',
-    'message' => 'Informaci&oacute;n de trabajo'
+    'lastUpdated' => '1291128463',
+    'message' => 'Información de Negocio/Oficina'
   },
   443 => {
-    'lastUpdated' => '1207687273',
-    'message' => 'Informaci&oacute;n de la casa'
+    'lastUpdated' => '1291128471',
+    'message' => 'Información de Residencia'
   },
   444 => {
-    'lastUpdated' => '1207687512',
-    'message' => 'Informacion Demogr&aacute;fica'
+    'lastUpdated' => '1291128480',
+    'message' => 'Información Demográfica'
   },
   445 => {
-    'lastUpdated' => '1207687528',
-    'message' => 'Prefencias'
+    'lastUpdated' => '1291128542',
+    'message' => 'Preferencias'
   },
   446 => {
     'lastUpdated' => '1208183954',
     'message' => 'Sitio de Internet del trabajo'
   },
   449 => {
-    'lastUpdated' => '1207688046',
-    'message' => 'Informaci&oacute;n Miscel&aacute;nea'
+    'lastUpdated' => '1291128594',
+    'message' => 'Información Miscelánea'
   },
   45 => {
     'lastUpdated' => '1207688245',
@@ -874,20 +874,20 @@ our $I18N = {
     'message' => 'Nombre de la Empresa'
   },
   451 => {
-    'lastUpdated' => '1207688386',
-    'message' => 'es requerido.'
+    'lastUpdated' => '1291128612',
+    'message' => 'es obligatorio.'
   },
   452 => {
     'lastUpdated' => '1207688416',
     'message' => 'Por favor espere...'
   },
   453 => {
-    'lastUpdated' => '1207688454',
-    'message' => 'Fecha de creaci&oacute;n'
+    'lastUpdated' => '1291128622',
+    'message' => 'Fecha de Creación'
   },
   454 => {
-    'lastUpdated' => '1207688523',
-    'message' => '&Uacute;ltima Actualizaci&oacute;n'
+    'lastUpdated' => '1291128635',
+    'message' => 'Última Actualización'
   },
   455 => {
     'lastUpdated' => '1207688555',
@@ -906,24 +906,24 @@ our $I18N = {
     'message' => 'Tiempo de desplazamiento'
   },
   461 => {
-    'lastUpdated' => '1207688711',
-    'message' => 'Formato de Fecha'
+    'lastUpdated' => '1291128702',
+    'message' => 'Formato para Fecha'
   },
   462 => {
-    'lastUpdated' => '1207688731',
-    'message' => 'Formato de Tiempo'
+    'lastUpdated' => '1291128692',
+    'message' => 'Formato para Hora'
   },
   465 => {
-    'lastUpdated' => '1208184162',
-    'message' => 'tama&ntilde;o de la caja de texto'
+    'lastUpdated' => '1291128715',
+    'message' => 'Tamaño para Textos'
   },
   '465 description' => {
     'lastUpdated' => '1208184214',
     'message' => '<p>Cuantos caracteres pueden ser mostrados al mismo tiempo en las cajas de texto del sitio.</p>'
   },
   475 => {
-    'lastUpdated' => '1207690870',
-    'message' => 'Text'
+    'lastUpdated' => '1291128723',
+    'message' => 'Texto'
   },
   476 => {
     'lastUpdated' => '1207724227',
@@ -938,52 +938,52 @@ our $I18N = {
     'message' => 'URL'
   },
   480 => {
-    'lastUpdated' => '1207948297',
-    'message' => 'Direcci&oacute;n de Correo Electr&oacute;nico'
+    'lastUpdated' => '1291128737',
+    'message' => 'Dirección de Correo Electrónico'
   },
   481 => {
-    'lastUpdated' => '1207948312',
-    'message' => 'N&uacute;mero Telef&oacute;nico'
+    'lastUpdated' => '1291128748',
+    'message' => 'Número de Teléfono'
   },
   482 => {
-    'lastUpdated' => '1207948328',
-    'message' => 'N&uacute;mero (Entero)'
+    'lastUpdated' => '1291128756',
+    'message' => 'Número Entero'
   },
   483 => {
-    'lastUpdated' => '1203218333',
-    'message' => 'S&iacute; o no'
+    'lastUpdated' => '1291128764',
+    'message' => 'Si o No'
   },
   484 => {
-    'lastUpdated' => '1207724405',
-    'message' => 'Seleccione la lista'
+    'lastUpdated' => '1291128773',
+    'message' => 'Lista de Selección'
   },
   485 => {
-    'lastUpdated' => '1208184338',
-    'message' => 'Booleano (Caja de chequeo)'
+    'lastUpdated' => '1291128786',
+    'message' => 'Booleano (Checkbox)'
   },
   486 => {
-    'lastUpdated' => '1207724737',
+    'lastUpdated' => '1291128792',
     'message' => 'Lista'
   },
   487 => {
-    'lastUpdated' => '1207724791',
-    'message' => 'Seleccione la casilla'
+    'lastUpdated' => '1291128802',
+    'message' => 'Caja de Selección'
   },
   493 => {
-    'lastUpdated' => '1207724900',
+    'lastUpdated' => '1291128807',
     'message' => 'Volver al sitio.'
   },
   496 => {
-    'lastUpdated' => '1208200521',
+    'lastUpdated' => '1291128815',
     'message' => 'Editor a usar'
   },
   499 => {
-    'lastUpdated' => '1216503529',
-    'message' => 'C&oacute;digo Wobject'
+    'lastUpdated' => '1291128825',
+    'message' => 'Wobject ID'
   },
   50 => {
-    'lastUpdated' => '1207724744',
-    'message' => 'Nombre de usuario'
+    'lastUpdated' => '1291128833',
+    'message' => 'Nombre de Usuario'
   },
   '50 description' => {
     'lastUpdated' => '1207725152',
@@ -1006,8 +1006,8 @@ our $I18N = {
     'message' => 'Arreglo esquematico de discusion '
   },
   51 => {
-    'lastUpdated' => '1207723918',
-    'message' => 'Contrase&ntilde;a'
+    'lastUpdated' => '1291128845',
+    'message' => 'Contraseña'
   },
   '51 description' => {
     'lastUpdated' => '1208184595',
@@ -1074,12 +1074,12 @@ our $I18N = {
     'message' => '<p>SI usted ha activado el Karma, entonces usted sera capaz de configurar este valor. EL umbral del Karma, es la cantidad de Karma que un usuario debe tener para ser considerado como parte de este grupo. </p><p>&nbsp;</p>'
   },
   539 => {
-    'lastUpdated' => '1208185714',
-    'message' => 'Activar Karma?'
+    'lastUpdated' => '1291126155',
+    'message' => '¿Activar Karma?'
   },
   '539 description' => {
-    'lastUpdated' => '1208185740',
-    'message' => 'El Karma debe ser activado?'
+    'lastUpdated' => '1291126183',
+    'message' => '¿Activar la funcionalidad de Karma?'
   },
   54 => {
     'lastUpdated' => '1207723854',
@@ -1110,8 +1110,8 @@ our $I18N = {
     'message' => 'Estado'
   },
   554 => {
-    'lastUpdated' => '1207725900',
-    'message' => 'Tomar Acci&oacute;n'
+    'lastUpdated' => '1291128875',
+    'message' => 'Tomar Acción'
   },
   555 => {
     'lastUpdated' => '1207725926',
@@ -1170,8 +1170,8 @@ our $I18N = {
     'message' => 'Estado por defecto'
   },
   565 => {
-    'lastUpdated' => '1207726073',
-    'message' => 'Qui&eacute;n puede moderar?'
+    'lastUpdated' => '1291128894',
+    'message' => '¿Quién puede moderar?'
   },
   566 => {
     'lastUpdated' => '1208186128',
@@ -1182,12 +1182,12 @@ our $I18N = {
     'message' => 'Esto solo es necesario si quiere usar las ventajas que requieren correo'
   },
   572 => {
-    'lastUpdated' => '1208186139',
+    'lastUpdated' => '1291128904',
     'message' => 'Aprobar'
   },
   574 => {
-    'lastUpdated' => '1208186179',
-    'message' => 'Denegar'
+    'lastUpdated' => '1291128912',
+    'message' => 'Negar'
   },
   575 => {
     'lastUpdated' => '1208186189',
@@ -1278,8 +1278,8 @@ our $I18N = {
     'message' => 'Error'
   },
   700 => {
-    'lastUpdated' => '1203219208',
-    'message' => 'D&iacute;a(s)'
+    'lastUpdated' => '1291128923',
+    'message' => 'Día(s)'
   },
   701 => {
     'lastUpdated' => '1207726177',
@@ -1290,8 +1290,8 @@ our $I18N = {
     'message' => 'Mes(es)'
   },
   703 => {
-    'lastUpdated' => '1207726208',
-    'message' => 'A&ntilde;o(s)'
+    'lastUpdated' => '1291128936',
+    'message' => 'Año(s)'
   },
   704 => {
     'lastUpdated' => '1207726233',
@@ -1306,8 +1306,8 @@ our $I18N = {
     'message' => 'Hora(s)'
   },
   707 => {
-    'lastUpdated' => '1207726291',
-    'message' => 'Mostrar depuraci&oacute;n?'
+    'lastUpdated' => '1291128954',
+    'message' => '¿Mostrar traza para depuración?'
   },
   '707 description' => {
     'lastUpdated' => '1208186743',
@@ -1382,8 +1382,8 @@ our $I18N = {
     'message' => 'Nivel de Interfaz de Usuario'
   },
   74 => {
-    'lastUpdated' => '1207724072',
-    'message' => 'Informaci&oacute;n de la cuenta'
+    'lastUpdated' => '1291128979',
+    'message' => 'Información de Cuenta'
   },
   743 => {
     'lastUpdated' => '1207726689',
@@ -1969,6 +1969,10 @@ our $I18N = {
     'lastUpdated' => '1253894651',
     'message' => 'Espacio Publicitario'
   },
+  'Addons title' => {
+    'lastUpdated' => '1289571828',
+    'message' => 'Módulos Adicionales'
+  },
   'All Rights Reserved' => {
     'lastUpdated' => '1224122043',
     'message' => 'Todos los derechos reservados'
@@ -1980,6 +1984,10 @@ our $I18N = {
   'Attachments formName' => {
     'lastUpdated' => '1208196888',
     'message' => 'Archivos Adjuntos'
+  },
+  'Cancel' => {
+    'lastUpdated' => '1302872968',
+    'message' => 'Cancelar'
   },
   'Cannot find what you are looking for? Try our search.' => {
     'lastUpdated' => '1224122099',
@@ -2014,12 +2022,12 @@ our $I18N = {
     'message' => '<p>Esto activa la tabla de metadatos en los activos de manera que los metadatos puedan ser ingresados y monitoreados por WebGUI. </p><p>&nbsp;</p><p>&nbsp;</p>'
   },
   'Enable passive profiling' => {
-    'lastUpdated' => '1208197037',
-    'message' => 'Activar perfilacion pasiva?'
+    'lastUpdated' => '1291126476',
+    'message' => '¿Perfilado pasivo?'
   },
   'Enable passive profiling description' => {
-    'lastUpdated' => '1208197101',
-    'message' => '<p>Usado en conjunto con los metadatos. esto mantiene un record de cada &quot;wobject&quot; visto por un usuario. </p><p>&nbsp;</p><p>&nbsp;</p>'
+    'lastUpdated' => '1291126552',
+    'message' => 'El perfilado pasivo se combina con los meta-datos de los wobjects, para mantener un registro histórico de cada wobject que ha sido examinado por el usuario.'
   },
   'Enable user invitations' => {
     'lastUpdated' => '1208199603',
@@ -2104,6 +2112,10 @@ our $I18N = {
   'Tell us how we can assist you.' => {
     'lastUpdated' => '1224122292',
     'message' => '&iquest;C&oacute;mo podemos ayudarle?'
+  },
+  'Template Parser' => {
+    'lastUpdated' => '1302872947',
+    'message' => 'Procesador de Plantillas'
   },
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1224122349',
@@ -2934,8 +2946,8 @@ our $I18N = {
     'message' => 'Ver más'
   },
   'read only' => {
-    'lastUpdated' => '1199917477',
-    'message' => 'S&oacute;lo lectura'
+    'lastUpdated' => '1291129107',
+    'message' => 'Sólo Lectura'
   },
   'recaptcha private key' => {
     'lastUpdated' => '1254326801',
@@ -2954,8 +2966,8 @@ our $I18N = {
     'message' => '¿Recibir notificaciones de Bandeja de Entrada como SMS?'
   },
   'redirectAfterLoginUrl label' => {
-    'lastUpdated' => '1252460717',
-    'message' => 'Dirigira a URL después de ingresar'
+    'lastUpdated' => '1291129087',
+    'message' => 'URL destino después de ingresar'
   },
   'removeLabel' => {
     'lastUpdated' => '1207725549',
@@ -3278,16 +3290,16 @@ our $I18N = {
     'message' => 'Si si, muestra una mensaje despu&eacute;s de que el usuario se loguea.'
   },
   'showMessageOnLogin label' => {
-    'lastUpdated' => '1215791007',
-    'message' => 'Mostrar Mensaje al Loguearse?'
+    'lastUpdated' => '1291129021',
+    'message' => '¿Mostrar mensaje al ingresar?'
   },
   'showMessageOnLoginBody description' => {
     'lastUpdated' => '1215791040',
     'message' => 'El cuerpo del mensaje mostrado al loguearse. Las Macros estan permitidas.'
   },
   'showMessageOnLoginBody label' => {
-    'lastUpdated' => '1215791083',
-    'message' => 'Cuerpo del Mensaje Mostrado al Loguearse'
+    'lastUpdated' => '1291129131',
+    'message' => 'Mensaje mostrado al ingresar'
   },
   'showMessageOnLoginReset description' => {
     'lastUpdated' => '1215791121',

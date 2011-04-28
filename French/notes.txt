@@ -7,19 +7,38 @@ Notes sur les traductions
 
 account = compte
 asset = module
+company = entreprise
 contributions = contributions
+file pump = aspirateur de fichiers
+grouping = groupement ?
 identifier = nom? identifiant?
-instantiate
+instantiate =
 label = étiquette? (cyrille:ok)
 layout = mise en page
 login = connexion?
 plugin = plugin? (cyrille:ok)
+tag = balise
 template = gabarit (Terme employé à l'origine) à remplacer par "modèle"
+trash = corbeille
+workflow = flux, tâche ? flux de tâches
 
 
 *****************************
 Traducteurs :
 mirod (mirod@cpan.org), cyrille (colin@univ-metz.fr)
+B. Peureux - décembre 2010 - WebGUI 7.9.18 ( benoit.peureux@wanadoo.fr )
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

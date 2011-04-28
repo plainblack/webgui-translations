@@ -411,6 +411,14 @@ our $I18N = {
     'lastUpdated' => '1212757322',
     'message' => 'Datum einbinden'
   },
+  'invalid end date' => {
+    'lastUpdated' => '1295596884',
+    'message' => 'Ungültige Datumsangabe für Endzeitpunkt, bitte geben Sie ein gültiges Datum im Format JJJJJ-MM-TT ein.'
+  },
+  'invalid start date' => {
+    'lastUpdated' => '1295596900',
+    'message' => 'Ungültige Datumsangabe für Startzeitpunkt, bitte geben Sie ein gültiges Datum im Format JJJJJ-MM-TT ein.'
+  },
   'isAllDay' => {
     'lastUpdated' => '1180081225',
     'message' => 'Bedingung, die wahr ist, falls der Termin den ganzen Tag in Anspruch nimmt.'

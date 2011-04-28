@@ -173,6 +173,14 @@ our $I18N = {
     'lastUpdated' => '1170453034',
     'message' => '<p>Öffnet ein Formular zum Hinzufügen neuer Metadaten-Felder zu diesem Asset.</p>'
   },
+  'Allowed Classes' => {
+    'lastUpdated' => '1298376204',
+    'message' => 'Erlaubte Klassen'
+  },
+  'Allowed Classes hoverHelp' => {
+    'lastUpdated' => '1298376225',
+    'message' => 'Welche Assets nutzen diese Metadaten?'
+  },
   'Any Class' => {
     'lastUpdated' => '1259144684',
     'message' => 'Jede Klasse'
@@ -252,6 +260,14 @@ our $I18N = {
   'Export Page' => {
     'lastUpdated' => '1170453772',
     'message' => 'Seite exportieren'
+  },
+  'Export Related Assets' => {
+    'lastUpdated' => '1301988571',
+    'message' => 'Zugehörige Assets exportieren'
+  },
+  'Export Related Assets description' => {
+    'lastUpdated' => '1301988553',
+    'message' => 'Zugehörige Assets in den Export mit aufnehmen?'
   },
   'Export as user' => {
     'lastUpdated' => '1170453781',

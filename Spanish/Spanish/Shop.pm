@@ -213,6 +213,10 @@ our $I18N = {
     'lastUpdated' => '1276809407',
     'message' => 'Ingrese el estado o provincia de la dirección de cobro.'
   },
+  'billingAddressChooser help' => {
+    'lastUpdated' => '1280866091',
+    'message' => 'Una lista de selección a partir de la cual seleccionar la dirección de cobranza por omisión.'
+  },
   'biweekly' => {
     'lastUpdated' => '1215812534',
     'message' => 'Dos semanas'
@@ -393,6 +397,10 @@ our $I18N = {
     'lastUpdated' => '1226520087',
     'message' => 'Correo Electr&oacute;nico'
   },
+  'emailField help' => {
+    'lastUpdated' => '1280866117',
+    'message' => 'Un campo para contener la dirección de correo electrónico asociada a esta dirección.'
+  },
   'empty cart' => {
     'lastUpdated' => '1221674416',
     'message' => 'No hay items actualmente en tu carrito.'
@@ -497,6 +505,10 @@ our $I18N = {
     'lastUpdated' => '1222105414',
     'message' => 'El assetId para este item.'
   },
+  'item extendedPricePlusTax help' => {
+    'lastUpdated' => '1280866178',
+    'message' => 'La el precio del item más el impuesto, multiplicado por la cantidad de items como este en el carrito. Esta variable solamente tendrá valor cuando el usuario actual no es el Invitado.'
+  },
   'item lastUpdated' => {
     'lastUpdated' => '1222105678',
     'message' => 'La fecha en que se actualiz&oacute; por &uacute;ltima vez la transacci&oacute;n de este item.'
@@ -512,6 +524,10 @@ our $I18N = {
   'item price' => {
     'lastUpdated' => '1222105835',
     'message' => 'El precio sin formatear de este SKU.'
+  },
+  'item pricePlusTax help' => {
+    'lastUpdated' => '1280866223',
+    'message' => 'El precio del item más el monto del impuesto. Esta variable tendrá valor solamente cuando el usuario actual no sea el usuario Invitado.'
   },
   'item quantity' => {
     'lastUpdated' => '1222105856',
@@ -561,6 +577,14 @@ our $I18N = {
     'lastUpdated' => '1222111090',
     'message' => 'El nombre asignado a la direcci&oacute;n de env&iacute;o de este item.'
   },
+  'item taxAmount help' => {
+    'lastUpdated' => '1280866251',
+    'message' => 'El monto del impuesto para este item. Esta variable solamente tendrá valor si el usuario actual no es el usuario Invitado.'
+  },
+  'item taxRate help' => {
+    'lastUpdated' => '1280866276',
+    'message' => 'La tasa de impuesto para este item. Esta variable solamente tendrá valor si el usuario actual no es el usuario Invitado.'
+  },
   'item transactionId' => {
     'lastUpdated' => '1222110126',
     'message' => 'El ID de la transacci&oacute;n que pertenece este item.'
@@ -572,6 +596,10 @@ our $I18N = {
   'item vendorId' => {
     'lastUpdated' => '1222110179',
     'message' => 'El ID del vendedor de este item.'
+  },
+  'itemAddressChooser help' => {
+    'lastUpdated' => '1280866323',
+    'message' => 'Una lista de selección de la cual escoger la dirección de envío para un item individual en el carrito, permitiendo envío separado por item.'
   },
   'itemId' => {
     'lastUpdated' => '1222110251',
@@ -605,6 +633,26 @@ our $I18N = {
     'lastUpdated' => '1222111641',
     'message' => 'Debes estar logueado para pagar. Para loguearte has click <a href="%s">aqu&iacute;</a>'
   },
+  'loginFormButton help' => {
+    'lastUpdated' => '1280866362',
+    'message' => 'El botón para enviar el formulario de autenticación. Esta variable solamente tendrá valor si el usuario actual no es el usuario Invitado.'
+  },
+  'loginFormFooter help' => {
+    'lastUpdated' => '1280866400',
+    'message' => 'Fragmento de HTML para terminar el formulario de autenticación. Esta variable solamente tendrá valor si el usuario actual no es el usuario Invitado.'
+  },
+  'loginFormHeader help' => {
+    'lastUpdated' => '1280866430',
+    'message' => 'Fragmento de HTML para comenzar el formulario de autenticación. Esta variable tendrá valor solamente si el usuario actual no es el usuario Invitado.'
+  },
+  'loginFormPassword help' => {
+    'lastUpdated' => '1280866484',
+    'message' => 'El campo de texto en el cual el usuario introduce su clave. Esta variable tendrá valor solamente si el usuario actual no es el usuario Invitado.'
+  },
+  'loginFormUsername help' => {
+    'lastUpdated' => '1280866516',
+    'message' => 'El campo de texto en el cual el usuario introduce su nombre. Esta variable tendrá valor solamente si el usuario actual no es el usuario Invitado.'
+  },
   'manage' => {
     'lastUpdated' => '1221857909',
     'message' => 'Administrar'
@@ -617,6 +665,10 @@ our $I18N = {
     'lastUpdated' => '1222111715',
     'message' => 'Esta plantila muestra informaci&oacute;n parcial sobre las transacciones al usuario.'
   },
+  'message help' => {
+    'lastUpdated' => '1280866541',
+    'message' => 'Si el carrito de compras está vacío, presentar este mensaje al usuario.'
+  },
   'minicart template' => {
     'lastUpdated' => '1222111745',
     'message' => 'Plantilla MiniCart'
@@ -624,6 +676,10 @@ our $I18N = {
   'minicart template help' => {
     'lastUpdated' => '1222111856',
     'message' => 'Las siguientes variables estan disponibles en la plantilla de la macro MiniCart.'
+  },
+  'minimumCartAmount help' => {
+    'lastUpdated' => '1280866575',
+    'message' => 'El monto mínimo en el carrito de compras según la configuración, con dos lugares decimales.'
   },
   'mixed items warning' => {
     'lastUpdated' => '1222185905',
@@ -773,6 +829,10 @@ our $I18N = {
     'lastUpdated' => '1222459749',
     'message' => 'El departamento para la direcci&oacute;n de pago.'
   },
+  'paymentOptions help' => {
+    'lastUpdated' => '1280866613',
+    'message' => 'Una lista de selección conteniendo todos los métodos de pago para esta orden.'
+  },
   'per item shipping' => {
     'lastUpdated' => '1222459820',
     'message' => 'Por item enviado'
@@ -845,9 +905,17 @@ our $I18N = {
     'lastUpdated' => '1222698227',
     'message' => 'Reembolso'
   },
+  'registerLink help' => {
+    'lastUpdated' => '1280866655',
+    'message' => 'El enlace para que el usuario registre una cuenta en este sitio, cuando no tengan una. Esta variable tendrá valor solamente si el usuario actual es el usuario Invitado.'
+  },
   'remove button' => {
     'lastUpdated' => '1222698237',
     'message' => 'Borrar'
+  },
+  'removeBox help' => {
+    'lastUpdated' => '1280867141',
+    'message' => 'Un checkbox que permite retirar este item del carrito.'
   },
   'removeButton help' => {
     'lastUpdated' => '1222698266',
@@ -864,6 +932,10 @@ our $I18N = {
   'sale notification group help' => {
     'lastUpdated' => '1259455935',
     'message' => 'Indique el Grupo de usuarios que deben recibir notificaciones cuando ocurran transacciones.'
+  },
+  'sameShippingAsBilling help' => {
+    'lastUpdated' => '1280867177',
+    'message' => 'Un checkbox para indicar al carrito de compras que el usuario emplea la misma dirección de envío como dirección de cobranza.'
   },
   'saveButton help' => {
     'lastUpdated' => '1222979583',
@@ -972,6 +1044,10 @@ our $I18N = {
   'shippingAddress3' => {
     'lastUpdated' => '1222911779',
     'message' => 'La tercera l&iacute;nea en una multil&iacute;nea de direcciones de env&iacute;o.'
+  },
+  'shippingAddressChooser help' => {
+    'lastUpdated' => '1280866786',
+    'message' => 'Una lista de selección para escoger la dirección de despacho por defecto para todos los items del carrito. También contiene acciones para editar o agregar direcciones.'
   },
   'shippingAddressCity' => {
     'lastUpdated' => '1222911793',
@@ -1156,6 +1232,10 @@ our $I18N = {
   'userId' => {
     'lastUpdated' => '1215811157',
     'message' => 'El userId del usuario que realiza esta transacci&oacute;n.'
+  },
+  'userIsVisitor help' => {
+    'lastUpdated' => '1280866744',
+    'message' => 'Un condicional que indica si el usuario actual es el Invitado.'
   },
   'username' => {
     'lastUpdated' => '1215811068',

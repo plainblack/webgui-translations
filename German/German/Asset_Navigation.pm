@@ -230,8 +230,8 @@ our $I18N = {
     'message' => 'Die assetId dieser Seite.'
   },
   'page.depthDiff' => {
-    'lastUpdated' => '1178716213',
-    'message' => 'Die Differenz der Tiefe zwischen der vorherigen Seite und dieser Seite, parent.absDepth - page.absDepth, obwohl parent.absDepth keine Template Variable ist.'
+    'lastUpdated' => '1290039148',
+    'message' => 'Die Differenz der Tiefe zwischen der vorherigen Seite und dieser Seite, previous.absDepth - page.absDepth, ist keine Template-Variable. Für die allererste Seite (die keine vorherige Seite hat), ist dieser Wert 0.'
   },
   'page.depthDiffIsN' => {
     'lastUpdated' => '1178716269',

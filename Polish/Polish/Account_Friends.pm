@@ -90,12 +90,12 @@ our $I18N = {
     'message' => "Nie masz w\x{142}\x{105}czonych znajomych. Aby zobaczy\x{107} t\x{105} stron\x{119} musisz przej\x{15b}\x{107} do edycji profilu i w\x{142}\x{105}czy\x{107} ustawienie znajomych."
   },
   'friends layout template hoverHelp' => {
-    'lastUpdated' => '1238570544',
-    'message' => ''
+    'lastUpdated' => '1277192625',
+    'message' => "Wybierz szablon z listy do wy\x{15b}wietlania wtyczek konta podczas edycji danych przez aktualnego u\x{17c}ytkownika."
   },
   'friends layout template label' => {
-    'lastUpdated' => '1238570656',
-    'message' => ''
+    'lastUpdated' => '1277192581',
+    'message' => 'Szablon edycji'
   },
   'friends remove confirm template hoverHelp' => {
     'lastUpdated' => '1238505324',

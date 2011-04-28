@@ -6,7 +6,7 @@ our $I18N = {
     'message' => 'Wybierz wszystko'
   },
   'topicName' => {
-    'lastUpdated' => '1237829513',
+    'lastUpdated' => '1270548848',
     'message' => ''
   }
 }

@@ -154,8 +154,8 @@ our $I18N = {
   },
   'do on deny help' => {
     'context' => 'hover help for the do on deny field',
-    'lastUpdated' => '1238497996',
-    'message' => ''
+    'lastUpdated' => '1266310235',
+    'message' => "Kt\x{f3}ry workflow powinien by\x{107} uruchomiony je\x{17c}eli zatwierdzenie przywieszki zostanie odrzucone?"
   },
   'edit version tag' => {
     'context' => 'Admin console label.',
@@ -172,8 +172,8 @@ our $I18N = {
     'message' => ''
   },
   'endTime label' => {
-    'lastUpdated' => '1237986968',
-    'message' => ''
+    'lastUpdated' => '1266310251',
+    'message' => "Ko\x{144}cowa data"
   },
   'error permission www_manageRevisionsInTag body' => {
     'lastUpdated' => '1237987271',

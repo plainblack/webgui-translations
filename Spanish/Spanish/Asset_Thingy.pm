@@ -1,6 +1,18 @@
 package WebGUI::i18n::Spanish::Asset_Thingy;
 use utf8;
 our $I18N = {
+  'Creating column headers' => {
+    'lastUpdated' => '1289571488',
+    'message' => 'Creando encabezados para columnas'
+  },
+  'Return to %s' => {
+    'lastUpdated' => '1289571499',
+    'message' => 'Regresando a %s.'
+  },
+  'Writing data' => {
+    'lastUpdated' => '1289571506',
+    'message' => 'Escribiendo datos.'
+  },
   'add field label' => {
     'lastUpdated' => '1253304989',
     'message' => 'Agregar Campo'
@@ -555,6 +567,10 @@ asociado.'
     'lastUpdated' => '1253308903',
     'message' => 'La etiquetda de un campo sobre el cual se puede buscar.'
   },
+  'searchFields_listType' => {
+    'lastUpdated' => '1280335612',
+    'message' => 'Un condicional que indica si el campo es de tipo Lista.'
+  },
   'searchFields_loop' => {
     'lastUpdated' => '1253308916',
     'message' => 'Un ciclo que contiene los campos sobre los cuales se puede buscar.'
@@ -594,6 +610,10 @@ asociado.'
   'searchResult_id' => {
     'lastUpdated' => '1253309066',
     'message' => 'El ID del resultado de búsqueda.'
+  },
+  'searchResult_json' => {
+    'lastUpdated' => '1289571547',
+    'message' => 'Versión del ciclo searchResult_loop, pero con los datos codificados en JSON para que sean accesibles desde JavaScript.'
   },
   'searchResult_loop' => {
     'lastUpdated' => '1253309077',
@@ -760,7 +780,7 @@ asociado.'
     'message' => 'Vista por Omisión'
   },
   'viewScreenTitle' => {
-    'lastUpdated' => '1253309965',
+    'lastUpdated' => '1302873131',
     'message' => 'El título para la pantalla de ver Cosa.'
   },
   'view_url' => {

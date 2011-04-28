@@ -5,15 +5,15 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Expire Unvalidated Email Users'
     },
     'interval hoverHelp' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' => 'How long a user must remain with their email address unvalidated before they are deleted.'
     },
     'interval label' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Expiry Time'
     }
 };

@@ -154,8 +154,8 @@ our $I18N = {
     'message' => 'Zurück'
   },
   'back.label' => {
-    'lastUpdated' => '1179745122',
-    'message' => 'Das Wort "Back".'
+    'lastUpdated' => '1286873903',
+    'message' => 'Zurück'
   },
   'back.url' => {
     'lastUpdated' => '1179745169',
@@ -275,7 +275,7 @@ our $I18N = {
     'message' => 'Kritisch (funktioniert meistens nicht)'
   },
   'critical.label' => {
-    'lastUpdated' => '1179751335',
+    'lastUpdated' => '1286873942',
     'message' => 'Das Wort "Critical (mostly not working)".'
   },
   'date' => {
@@ -429,6 +429,42 @@ our $I18N = {
   'epochDate' => {
     'lastUpdated' => '1224835197',
     'message' => 'Veröffentlichungsdatum des Elements als epochales Datum, so dass das Datum Makro für die individuelle Datumsformatierung benutzt werden kann.'
+  },
+  'every 10 minutes' => {
+    'lastUpdated' => '1298376249',
+    'message' => 'Alle 10 Minuten'
+  },
+  'every 15 minutes' => {
+    'lastUpdated' => '1298376257',
+    'message' => 'Alle 15 Minuten'
+  },
+  'every 20 minutes' => {
+    'lastUpdated' => '1298376264',
+    'message' => 'Alle 20 Minuten'
+  },
+  'every 30 minutes' => {
+    'lastUpdated' => '1298376271',
+    'message' => 'Alle 30 Minuten'
+  },
+  'every 5 minutes' => {
+    'lastUpdated' => '1298376279',
+    'message' => 'Alle 5 Minuten'
+  },
+  'every hour' => {
+    'lastUpdated' => '1298376289',
+    'message' => 'Jede Stunde'
+  },
+  'every minute' => {
+    'lastUpdated' => '1298376298',
+    'message' => 'Jede Minute'
+  },
+  'every other hour' => {
+    'lastUpdated' => '1298376310',
+    'message' => 'Jede andere Stunde'
+  },
+  'every other minute' => {
+    'lastUpdated' => '1298376319',
+    'message' => 'Jede andere Minute'
   },
   'fatal' => {
     'lastUpdated' => '1179752284',
@@ -821,6 +857,10 @@ our $I18N = {
   'notification template description' => {
     'lastUpdated' => '1179755778',
     'message' => 'Template, das für das Generieren von Nachrichten benutzt wird, die den Benutzern geschickt werden, die dieses Asset abonniert haben.'
+  },
+  'once per day' => {
+    'lastUpdated' => '1298376337',
+    'message' => 'Einmal täglich'
   },
   'open' => {
     'lastUpdated' => '1180076325',

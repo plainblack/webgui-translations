@@ -62,8 +62,8 @@ hebben.'
     'message' => 'Het sjabloon dat gebruikt wordt voor het tonen van verhalen met dit onderwerp.'
   },
   'story_loop' => {
-    'lastUpdated' => '1248183072',
-    'message' => 'Een functie die de meest recente verhalen met dit onderwerp ophaalt.'
+    'lastUpdated' => '1297774575',
+    'message' => 'Een functie die de meest recente verhalen met dit onderwerp ophaalt. Alle verhaal sjabloonvariabelen zijn hier ook beschikbaar.'
   },
   'storytopic asset template variables title' => {
     'lastUpdated' => '1248183106',
@@ -80,6 +80,10 @@ hebben.'
   'title' => {
     'lastUpdated' => '1248182939',
     'message' => 'De titel van een verhaal'
+  },
+  'topStory' => {
+    'lastUpdated' => '1297774704',
+    'message' => 'Een variabele met dezelfde soort waarden als de strory_loop, maar voor het bovenste verhaal. Toegangelijk via topStory.hasPhotos e.d.'
   },
   'topStoryCreationDate' => {
     'lastUpdated' => '1248184758',

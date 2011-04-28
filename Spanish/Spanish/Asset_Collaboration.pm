@@ -429,6 +429,42 @@ our $I18N = {
     'lastUpdated' => '1252464300',
     'message' => 'La fecha en que este item fue publicado como una época (número de segundos desde 1970-01-01), de manera que el macro Date pueda ser utilizado para darle formato especial.'
   },
+  'every 10 minutes' => {
+    'lastUpdated' => '1302868575',
+    'message' => 'Cada 10 minutos'
+  },
+  'every 15 minutes' => {
+    'lastUpdated' => '1302868581',
+    'message' => 'Cada 15 minutos'
+  },
+  'every 20 minutes' => {
+    'lastUpdated' => '1302868589',
+    'message' => 'Cada 20 minutos'
+  },
+  'every 30 minutes' => {
+    'lastUpdated' => '1302868594',
+    'message' => 'Cada 30 minutos'
+  },
+  'every 5 minutes' => {
+    'lastUpdated' => '1302868600',
+    'message' => 'Cada 5 minutos'
+  },
+  'every hour' => {
+    'lastUpdated' => '1302868605',
+    'message' => 'Cada hora'
+  },
+  'every minute' => {
+    'lastUpdated' => '1302868611',
+    'message' => 'Cada minuto'
+  },
+  'every other hour' => {
+    'lastUpdated' => '1302868621',
+    'message' => 'Cada dos horas'
+  },
+  'every other minute' => {
+    'lastUpdated' => '1302868627',
+    'message' => 'Cada dos minutos'
+  },
   'fatal' => {
     'lastUpdated' => '1252464307',
     'message' => 'Fatal (no puede continuar hasta que esto se resuelva).'
@@ -820,6 +856,10 @@ our $I18N = {
   'notification template description' => {
     'lastUpdated' => '1208274634',
     'message' => 'La plantilla utilizada para generar mensajes de correo electr&oacute;nico para los usuarios que se han suscrito a este Activo.'
+  },
+  'once per day' => {
+    'lastUpdated' => '1302868639',
+    'message' => 'Una vez al día'
   },
   'open' => {
     'lastUpdated' => '1208274669',

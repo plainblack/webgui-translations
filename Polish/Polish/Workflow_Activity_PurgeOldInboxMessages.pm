@@ -8,6 +8,10 @@ our $I18N = {
   'editForm purgeAfter description' => {
     'lastUpdated' => '1238077994',
     'message' => ''
+  },
+  'editForm purgeAfter label' => {
+    'lastUpdated' => '1266328071',
+    'message' => "Wyrzu\x{107} p\x{f3}\x{17a}niej "
   }
 }
 ;

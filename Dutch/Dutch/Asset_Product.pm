@@ -269,6 +269,10 @@ our $I18N = {
     'lastUpdated' => '1250240869',
     'message' => 'Beheerfuncties'
   },
+  'Lost' => {
+    'lastUpdated' => '1302247963',
+    'message' => 'Asset verloren'
+  },
   'accessory_controls' => {
     'lastUpdated' => '1213711742',
     'message' => 'De WebGUI beheer functies voor deze accessoire.'

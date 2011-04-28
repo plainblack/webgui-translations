@@ -1,6 +1,14 @@
 package WebGUI::i18n::Russian::PayDriver_ExpressCheckout;
 use utf8;
 our $I18N = {
+  'Pay' => {
+    'lastUpdated' => '1294113145',
+    'message' => "\x{41e}\x{43f}\x{43b}\x{430}\x{442}\x{438}\x{442}\x{44c}"
+  },
+  'currency' => {
+    'lastUpdated' => '1268093502',
+    'message' => "\x{41a}\x{43e}\x{434} \x{432}\x{430}\x{43b}\x{44e}\x{442}\x{44b}"
+  },
   'internal paypal error' => {
     'lastUpdated' => '1252682402',
     'message' => "\x{412}\x{43d}\x{443}\x{442}\x{440}\x{435}\x{43d}\x{43d}\x{44f}\x{44f} \x{43e}\x{448}\x{438}\x{431}\x{43a}\x{430} PayPal"

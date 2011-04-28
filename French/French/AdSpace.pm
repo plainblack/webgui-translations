@@ -129,6 +129,18 @@ our $I18N = {
     'lastUpdated' => '1203651028',
     'message' => 'G&eacute;rer les espaces de pub.'
   },
+  'minimum clicks' => {
+    'lastUpdated' => '1292860864',
+    'message' => 'Nombre de clics minimum pour acheter.'
+  },
+  'minimum clicks help' => {
+    'lastUpdated' => '1292860960',
+    'message' => 'Ceci définit un nombre minimum de clics que l\'utilisateur doit acheter pour passer une annonce pour cet espace publicitaire.'
+  },
+  'minimum impressions' => {
+    'lastUpdated' => '1292860982',
+    'message' => ''
+  },
   'name' => {
     'lastUpdated' => '1203651020',
     'message' => 'Nom'

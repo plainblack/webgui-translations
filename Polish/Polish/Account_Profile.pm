@@ -46,8 +46,8 @@ our $I18N = {
     'message' => "Wybierz szablon z listy wy\x{15b}wietlaj\x{105}cy profil u\x{17c}ytkownika do edycji."
   },
   'profile edit layout template label' => {
-    'lastUpdated' => '1238570904',
-    'message' => ''
+    'lastUpdated' => '1277192460',
+    'message' => "Szablon uk\x{142}adu"
   },
   'profile edit template hoverHelp' => {
     'lastUpdated' => '1238570711',
@@ -66,12 +66,12 @@ our $I18N = {
     'message' => "Szablon b\x{142}\x{119}du"
   },
   'profile layout template hoverHelp' => {
-    'lastUpdated' => '1238506691',
-    'message' => ''
+    'lastUpdated' => '1277192633',
+    'message' => "Wybierz szablon z listy do wy\x{15b}wietlania wtyczek konta podczas edycji danych przez aktualnego u\x{17c}ytkownika."
   },
   'profile layout template label' => {
-    'lastUpdated' => '1238570731',
-    'message' => ''
+    'lastUpdated' => '1277192489',
+    'message' => 'Szablon edycji'
   },
   'profile not public error' => {
     'lastUpdated' => '1238078890',

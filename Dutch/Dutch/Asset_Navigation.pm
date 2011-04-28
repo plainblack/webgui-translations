@@ -230,8 +230,8 @@ our $I18N = {
     'message' => 'De asset identificatie van deze pagina. '
   },
   'page.depthDiff' => {
-    'lastUpdated' => '1151066461',
-    'message' => 'Het verschil in diepte tussen deze en de vorige pagina; parentabsDepth minus page.absDepth. Overigens is parent.absDepth geen sjabloon variabele.'
+    'lastUpdated' => '1290091508',
+    'message' => 'Het verschil in diepte tussen deze en de vorige pagina; previous.absDepth minus page.absDepth. Overigens is parent.absDepth geen sjabloon variabele. Voor de allereerste pagina (die geen vorige pagina heeft) wordt dit op 0 gesteld.'
   },
   'page.depthDiffIsN' => {
     'lastUpdated' => '1151066533',

@@ -5,9 +5,57 @@ our $I18N = {
     'lastUpdated' => '1258548972',
     'message' => 'Dit staat al in de bijlage!'
   },
+  'Configure' => {
+    'lastUpdated' => '1297774726',
+    'message' => 'Configureren'
+  },
+  'Configure Preview' => {
+    'lastUpdated' => '1297774899',
+    'message' => 'Configuratie voorbeeld'
+  },
+  'Fetch' => {
+    'lastUpdated' => '1297774909',
+    'message' => 'Ophalen'
+  },
+  'Fetch Variables' => {
+    'lastUpdated' => '1297774920',
+    'message' => 'Variabelen ophalen'
+  },
+  'Fetch Variables hoverHelp' => {
+    'lastUpdated' => '1297774950',
+    'message' => 'Probeer variablen te gokken van een url waar dit sjabloon gebruikt wordt.'
+  },
   'No url!' => {
     'lastUpdated' => '1258535779',
     'message' => 'Geen URL!'
+  },
+  'Plain Text hoverHelp' => {
+    'lastUpdated' => '1297775352',
+    'message' => 'Wanneer Ja aangevinkt wordt, wordt er een platte tekst antwoord gegeven (dit kan nuttig zijn voor het bekijken van de ruwe uitvoer van het sjabloon). Anders wordt de uitvoer gerenderd als HTML.'
+  },
+  'Plain Text?' => {
+    'lastUpdated' => '1297776449',
+    'message' => 'Voorbeeld als platte tekst?'
+  },
+  'Preview' => {
+    'lastUpdated' => '1297776455',
+    'message' => 'Voorbeeld'
+  },
+  'URL' => {
+    'lastUpdated' => '1297776460',
+    'message' => 'URL'
+  },
+  'URL hoverHelp' => {
+    'lastUpdated' => '1297776495',
+    'message' => 'URL dat gebruikt wordt door de "Ophalen" knop.'
+  },
+  'Variables' => {
+    'lastUpdated' => '1297776470',
+    'message' => 'Variabelen'
+  },
+  'Variables hoverHelp' => {
+    'lastUpdated' => '1297776520',
+    'message' => 'Variabelen die gebruikt worden door de render knop.'
   },
   'assetName' => {
     'lastUpdated' => '1151504830',

@@ -10,8 +10,8 @@ our $I18N = {
     'message' => 'AssetProxy: Zasób/Asset w koszu'
   },
   'invalid url' => {
-    'lastUpdated' => '1237829656',
-    'message' => 'AssetProxy: Niepoprawny adres URL zasobu/asset'
+    'lastUpdated' => '1265117330',
+    'message' => 'AssetProxy: Niepoprawny adres URL lub ID zasobu/asset'
   }
 }
 ;

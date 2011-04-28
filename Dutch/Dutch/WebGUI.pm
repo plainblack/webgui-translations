@@ -174,8 +174,8 @@ Deze groep zou dan "Werknemers in HMO 1" genoemd kunnen worden en zou je de moge
     'message' => 'Env HTTP host'
   },
   1072 => {
-    'lastUpdated' => '1153750861',
-    'message' => 'Dit email adres is al in gebruik. Voer alstublieft een ander email adres in.'
+    'lastUpdated' => '1294825153',
+    'message' => 'Dit e-mailadres is al in gebruik. Voer alstublieft een ander e-mailadres in.'
   },
   1073 => {
     'lastUpdated' => '1153750871',
@@ -198,8 +198,8 @@ Deze groep zou dan "Werknemers in HMO 1" genoemd kunnen worden en zou je de moge
     'message' => 'De aangeroepen functie is niet beschikbaar voor deze authenticatie methode.'
   },
   1078 => {
-    'lastUpdated' => '1204018854',
-    'message' => 'Er is al een gebruiker in dit systeem met het ingevoerde email adres. '
+    'lastUpdated' => '1294826124',
+    'message' => 'Er is al een gebruiker in dit systeem met het ingevoerde e-mailadres. '
   },
   1079 => {
     'lastUpdated' => '1166435901',
@@ -242,12 +242,12 @@ Deze groep zou dan "Werknemers in HMO 1" genoemd kunnen worden en zou je de moge
     'message' => 'De naam van het bedrijf. Het verschijnt op alle emails en overal waar het bedrijfsnaam macro wordt gebruikt.'
   },
   126 => {
-    'lastUpdated' => '1153751341',
-    'message' => 'Email adres bedrijf'
+    'lastUpdated' => '1294825165',
+    'message' => 'E-mailadres bedrijf'
   },
   '126 description' => {
-    'lastUpdated' => '1207820390',
-    'message' => 'Een algemeen email adres van het bedrijf. Dit is het adres waar alle automatisch verzonden emails vandaan komen. Het kan ook gebruikt worden via het stijl macro voor email adres bedrijf.'
+    'lastUpdated' => '1294825182',
+    'message' => 'Een algemeen e-mailadres van het bedrijf. Dit is het adres waar alle automatisch verzonden emails vandaan komen. Het kan ook gebruikt worden via het stijl macro voor e-mailadres bedrijf.'
   },
   127 => {
     'lastUpdated' => '1153751449',
@@ -956,8 +956,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'URL'
   },
   480 => {
-    'lastUpdated' => '1154076936',
-    'message' => 'Email adres'
+    'lastUpdated' => '1294825077',
+    'message' => 'E-mailadres'
   },
   481 => {
     'lastUpdated' => '1154076949',
@@ -1164,12 +1164,12 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Als hier een workflow is gekozen, wordt deze uitgevoerd, iedere keer dat een gebruiker zich anoniem registreert.'
   },
   56 => {
-    'lastUpdated' => '1154090883',
-    'message' => 'Email adres'
+    'lastUpdated' => '1294825192',
+    'message' => 'E-mailadres'
   },
   '56 description' => {
-    'lastUpdated' => '1154091015',
-    'message' => 'Het email adres van de beheerder. Dit kan gebruikt worden voor het zenden van mededelingen aan de beheerder.'
+    'lastUpdated' => '1294825203',
+    'message' => 'Het e-mailadres van de beheerder. Dit kan gebruikt worden voor het zenden van mededelingen aan de beheerder.'
   },
   560 => {
     'lastUpdated' => '1154091028',
@@ -1404,8 +1404,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Account informatie'
   },
   743 => {
-    'lastUpdated' => '1154094622',
-    'message' => 'Er moet een geldig email adres worden ingevuld, wanneer geprobeerd wordt het wachtwoord te herstellen.'
+    'lastUpdated' => '1294825215',
+    'message' => 'Er moet een geldig e-mailadres worden ingevuld, wanneer geprobeerd wordt het wachtwoord te herstellen.'
   },
   744 => {
     'lastUpdated' => '1154094718',
@@ -1424,8 +1424,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Aantal gebruikers'
   },
   75 => {
-    'lastUpdated' => '1154094791',
-    'message' => 'Uw account informatie is verzonden naar uw email adres.'
+    'lastUpdated' => '1294826177',
+    'message' => 'Uw account informatie is verzonden naar uw e-mailadres.'
   },
   750 => {
     'lastUpdated' => '1154094806',
@@ -1448,8 +1448,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Terug naar de groepen lijst.'
   },
   76 => {
-    'lastUpdated' => '1154094917',
-    'message' => 'Dit email adres staat niet in onze databases.'
+    'lastUpdated' => '1294825228',
+    'message' => 'Dit e-mailadres staat niet in onze databases.'
   },
   768 => {
     'lastUpdated' => '1154094928',
@@ -1548,8 +1548,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Ga naar de nieuwe pagina.'
   },
   824 => {
-    'lastUpdated' => '1156172240',
-    'message' => 'Email onderschrift'
+    'lastUpdated' => '1294825776',
+    'message' => 'E-mailonderschrift'
   },
   '824 description' => {
     'lastUpdated' => '1156490221',
@@ -1616,8 +1616,8 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'message' => 'Weet u zeker dat u deze groep wilt verwijderen? Let erop dat het verwijderen van een groep definitief is en dat alle privileges die bij deze groep horen zullen verwijderd worden. '
   },
   860 => {
-    'lastUpdated' => '1154096068',
-    'message' => 'Email adres publiek maken?'
+    'lastUpdated' => '1294825237',
+    'message' => 'E-mailadres publiek maken?'
   },
   861 => {
     'lastUpdated' => '1154096083',
@@ -1987,6 +1987,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'lastUpdated' => '1242135166',
     'message' => 'Advertentie ruimte'
   },
+  'Addons title' => {
+    'lastUpdated' => '1285166519',
+    'message' => 'Plugins'
+  },
   'All Rights Reserved' => {
     'lastUpdated' => '1222936688',
     'message' => 'Alle rechten gereserveerd'
@@ -1998,6 +2002,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
   'Attachments formName' => {
     'lastUpdated' => '1208183457',
     'message' => 'Bijlagen'
+  },
+  'Cancel' => {
+    'lastUpdated' => '1302256616',
+    'message' => 'Annuleren'
   },
   'Cannot find what you are looking for? Try our search.' => {
     'lastUpdated' => '1222936734',
@@ -2122,6 +2130,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
   'Tell us how we can assist you.' => {
     'lastUpdated' => '1222938053',
     'message' => 'Hoe kunnen we u helpen?'
+  },
+  'Template Parser' => {
+    'lastUpdated' => '1302256594',
+    'message' => 'Sjabloon verwerker'
   },
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1222938085',
@@ -2635,8 +2647,8 @@ LongTruncOk=1'
     'message' => 'Terugzend pad'
   },
   'mail return path help' => {
-    'lastUpdated' => '1156169164',
-    'message' => 'Naar welk email adres moeten berichten die niet bezorgd konden worden gezonden?'
+    'lastUpdated' => '1294825249',
+    'message' => 'Naar welk e-mailadres moeten berichten die niet bezorgd konden worden gezonden?'
   },
   'manage cache' => {
     'lastUpdated' => '1156169116',
@@ -3463,12 +3475,12 @@ LongTruncOk=1'
     'message' => 'Dit bepaalt welke stijl gebruikt wordt voor WebGUI processen (profiel bewerking, berichten logboek enz.) op het moment dat ze beschikbaar zijn voor een gebruiker. Alleen sjablonen die ingezonden zijn, zijn toegestaan.'
   },
   'user invitations email exists' => {
-    'lastUpdated' => '1189454456',
-    'message' => 'bericht "emailadres bestaat"'
+    'lastUpdated' => '1294825798',
+    'message' => 'bericht "e-mailadres bestaat"'
   },
   'user invitations email exists description' => {
-    'lastUpdated' => '1189454489',
-    'message' => 'Dit is het bericht dat wordt weergegeven aan gebruikers die trachten iemand uit te nodigen wiens emailadres al bekend is op op het systeem.'
+    'lastUpdated' => '1294825997',
+    'message' => 'Dit is het bericht dat wordt weergegeven aan gebruikers die trachten iemand uit te nodigen wiens e-mailadres al bekend is op op het systeem.'
   },
   'user profile edit template' => {
     'lastUpdated' => '1214556957',

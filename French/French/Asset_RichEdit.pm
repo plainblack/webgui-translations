@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1242422963',
     'message' => 'Correcteur coté serveur'
   },
+  'Toggle editor' => {
+    'lastUpdated' => '1292861032',
+    'message' => 'Activer/Désactiver l\'éditeur'
+  },
   'advhr' => {
     'lastUpdated' => '1242423045',
     'message' => 'Barre avancée de défilement horizontal'
@@ -92,6 +96,30 @@ our $I18N = {
   'editForm allowMedia label' => {
     'lastUpdated' => '1242424111',
     'message' => 'Autoriser Multimédia'
+  },
+  'fontselect' => {
+    'lastUpdated' => '1292861049',
+    'message' => 'Police de caractères'
+  },
+  'hr' => {
+    'lastUpdated' => '1292861070',
+    'message' => 'Insère une ligne horizontale'
+  },
+  'link' => {
+    'lastUpdated' => '1292861090',
+    'message' => 'Créer un lien'
+  },
+  'redo' => {
+    'lastUpdated' => '1292861098',
+    'message' => 'Refaire'
+  },
+  'sub' => {
+    'lastUpdated' => '1292861113',
+    'message' => 'Minuscule'
+  },
+  'sup' => {
+    'lastUpdated' => '1292861157',
+    'message' => 'Exposant'
   }
 }
 ;

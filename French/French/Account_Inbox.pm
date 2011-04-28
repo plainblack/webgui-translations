@@ -14,8 +14,8 @@ our $I18N = {
     'message' => 'L\'email que vous avez indiqu&eacute; existe d&eacute;j&agrave; dans notre base de donn&eacute;e.'
   },
   'back label' => {
-    'lastUpdated' => '1231231886',
-    'message' => 'Retour &agrave; la bo&icirc;te de r&eacute;ception.'
+    'lastUpdated' => '1292920288',
+    'message' => 'Retour à la boîte de réception.'
   },
   'blocked error' => {
     'lastUpdated' => '1231231905',
@@ -29,9 +29,17 @@ our $I18N = {
     'lastUpdated' => '1231231914',
     'message' => 'Annuler.'
   },
+  'common account variables' => {
+    'lastUpdated' => '1292860061',
+    'message' => 'Compte commun, plugin inbox, variables de modèle'
+  },
   'compose message label' => {
     'lastUpdated' => '1231231932',
     'message' => 'Composez votre nouveau message.'
+  },
+  'currently invited' => {
+    'lastUpdated' => '1292860113',
+    'message' => 'L\'adresse email que vous avez saisis,% s, a une invitation exceptionnelle sur ce site.'
   },
   'date label' => {
     'lastUpdated' => '1231231949',
@@ -89,6 +97,14 @@ our $I18N = {
     'lastUpdated' => '1241170403',
     'message' => 'Un booléen vrai si l\'utilisateur a des messages.'
   },
+  'inbox copy sender hoverHelp' => {
+    'lastUpdated' => '1292920393',
+    'message' => 'Si ce paramètre vaut \'oui\', les utilisateurs recevront une copie des messages qu\'ils envoient en utilisant la boîte de réception.'
+  },
+  'inbox copy sender label' => {
+    'lastUpdated' => '1292920419',
+    'message' => 'Copier l\'expéditeur dans les messages ?'
+  },
   'inbox error message template hoverHelp' => {
     'lastUpdated' => '1241170432',
     'message' => 'Choisissez le modèle pour voir les erreurs de la boîte de récéption'
@@ -96,6 +112,14 @@ our $I18N = {
   'inbox error message template label' => {
     'lastUpdated' => '1241170473',
     'message' => 'Modèle de message d\'erreur de la boîte de récéption'
+  },
+  'inbox layout template hoverHelp' => {
+    'lastUpdated' => '1292920529',
+    'message' => 'Choisissez un modèle dans la liste pour afficher l\'état des divers pluggins qui sont modifiables par l\'utilisateur courant ainsi que le contenu de celui qui est actuellement sélectionné'
+  },
+  'inbox layout template label' => {
+    'lastUpdated' => '1292920563',
+    'message' => 'Modifier le modèle de mise en page'
   },
   'inbox manage invitations template hoverHelp' => {
     'lastUpdated' => '1241172101',
@@ -109,9 +133,17 @@ our $I18N = {
     'lastUpdated' => '1241172175',
     'message' => 'Choisir le modèle pour afficher la confirmation qu\'un message a été envoyé'
   },
+  'inbox notification' => {
+    'lastUpdated' => '1292936183',
+    'message' => 'Vous avez un nouveau message dans votre boite de réception'
+  },
   'inbox rich editor description' => {
     'lastUpdated' => '1241172201',
     'message' => 'L\'éditeur avancé pour composer les messages'
+  },
+  'inbox rich editor label' => {
+    'lastUpdated' => '1292936233',
+    'message' => ''
   },
   'inbox send message template hoverHelp' => {
     'lastUpdated' => '1241172225',
@@ -257,6 +289,10 @@ our $I18N = {
     'lastUpdated' => '1241169686',
     'message' => 'Vous n\'avez plus d\'invitations disponibles'
   },
+  'no messagable friends error' => {
+    'lastUpdated' => '1292925413',
+    'message' => 'Aucun de vos amis n\'autorise les messages privés.'
+  },
   'no message error' => {
     'lastUpdated' => '1241169631',
     'message' => 'Vous n\'avez pas saisi de message'
@@ -305,9 +341,25 @@ our $I18N = {
     'lastUpdated' => '1241169471',
     'message' => 'URL actuelle avec tri, direction de tri et paramètres de filtrage utilisateur ajoutés.'
   },
+  'send inbox notifications only' => {
+    'lastUpdated' => '1292925327',
+    'message' => 'Seulement prévenir qu\'il y a un nouveau message dans la boite de réception.'
+  },
+  'send inbox notifications only help' => {
+    'lastUpdated' => '1292925220',
+    'message' => 'WebGUI doit il juste envoyer des notifications pour chaque message reçu, plutôt qu\'une copie du message lui-même ?'
+  },
   'send label' => {
     'lastUpdated' => '1241168916',
     'message' => 'Envoyer'
+  },
+  'send reject notice' => {
+    'lastUpdated' => '1292925127',
+    'message' => 'Envoyer une notification après le rejet d\'un ami'
+  },
+  'send reject notice help' => {
+    'lastUpdated' => '1292925040',
+    'message' => 'Choisissez si oui ou non, après avoir rejeté une demande d\'ami, une notification doit lui être envoyée.'
   },
   'status' => {
     'lastUpdated' => '1241168866',
@@ -356,6 +408,10 @@ our $I18N = {
   'update label' => {
     'lastUpdated' => '1241169293',
     'message' => 'Actualiser'
+  },
+  'userFilter' => {
+    'lastUpdated' => '1292920655',
+    'message' => 'Une boîte de sélection pour filtrer la liste des messages en fonction de ceux qui les ont envoyés.'
   },
   'user_invitations_enabled' => {
     'lastUpdated' => '1241169382',

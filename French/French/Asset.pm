@@ -70,8 +70,8 @@ our $I18N = {
     'message' => 'Une courte description de ce module.'
   },
   43 => {
-    'lastUpdated' => '1203646114',
-    'message' => '&Ecirc;tes-vous certain de vouloir supprimer ce contenu? Notez que ce changement ne cr&eacute;e aucune r&eacute;vison et qu\'il sera ex&eacute;cut&eacute; imm&eacute;diatement.'
+    'lastUpdated' => '1292931163',
+    'message' => 'Êtes-vous certain de vouloir supprimer ce contenu ? Notez que ce changement ne créé aucune révision et qu\'il sera exécuté immédiatement.'
   },
   486 => {
     'lastUpdated' => '1203646122',

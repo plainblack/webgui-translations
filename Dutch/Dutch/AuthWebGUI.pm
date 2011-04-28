@@ -109,6 +109,10 @@ our $I18N = {
     'lastUpdated' => '1227626506',
     'message' => 'Dit laat een wachtwoord direct na het aanmaken van een account verlopen.'
   },
+  'Password Recovery Email Template' => {
+    'lastUpdated' => '1287582984',
+    'message' => 'Wachtwoordherstel e-mailsjabloon'
+  },
   'account activation template' => {
     'lastUpdated' => '1242738901',
     'message' => 'Account activatie e-mail sjabloon'
@@ -441,6 +445,10 @@ our $I18N = {
     'lastUpdated' => '1190024884',
     'message' => 'Emailadres'
   },
+  'password recovery email template help' => {
+    'lastUpdated' => '1287583023',
+    'message' => 'Kies een sjabloon voor de stijl van de e-mail die gestuurd wordt bij het herstel van wachtwoorden.'
+  },
   'password recovery login hoverHelp' => {
     'lastUpdated' => '1190024874',
     'message' => 'Geef uw gebruikersnaam in '
@@ -544,6 +552,14 @@ our $I18N = {
   'recoverPassword.url' => {
     'lastUpdated' => '1156036058',
     'message' => 'URL voor de wachtwoord terughalen-link. '
+  },
+  'recoverPasswordUrl' => {
+    'lastUpdated' => '1287583050',
+    'message' => 'De URL waar de gebruiker het wachtwoord opnieuw kan instellen.'
+  },
+  'recovery email template title' => {
+    'lastUpdated' => '1287583106',
+    'message' => 'WebGUI authenticatie wachtwoordherstel e-mailsjabloon'
   },
   'recovery template title' => {
     'lastUpdated' => '1154000828',

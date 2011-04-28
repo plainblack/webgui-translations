@@ -1,297 +1,239 @@
 package WebGUI::i18n::French::VersionTag;
 use utf8;
-
 our $I18N = {
-	'approval message help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'manage pending versions' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'approve/deny' => {
-		message => q|Approuver/Refuser|,
-		lastUpdated => 1203653842
-	},
-
-	'comments' => {
-		message => q|Commentaires|,
-		lastUpdated => 1203469087
-	},
-
-	'who to notify help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'notify message help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'set tag' => {
-		message => q|D&eacute;finir comme tag en cours|,
-		lastUpdated => 1203469416
-	},
-
-	'committed on' => {
-		message => q|Commis le|,
-		lastUpdated => 1203469142
-	},
-
-	'created on' => {
-		message => q|Cr&eacute;&eacute; le|,
-		lastUpdated => 1203468963
-	},
-
-	'revisions in tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'committed by' => {
-		message => q|Commis par|,
-		lastUpdated => 1203469132
-	},
-
-	'do on deny' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'commit version tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'version tag name description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'deny' => {
-		message => q|Nier|,
-		lastUpdated => 1203468760
-	},
-
-	'committed versions' => {
-		message => q|Versions commises|,
-		lastUpdated => 1203469155
-	},
-
-	'rollback version tag confirm' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tag creator' => {
-		message => q|Le cr&eacute;ateur du Tag|,
-		lastUpdated => 1203468707
-	},
-
-	'created by' => {
-		message => q|Cr&eacute;&eacute; par|,
-		lastUpdated => 1203468954
-	},
-
-	'bad commit' => {
-		message => q|Une erreur s'est produite en commettant votre contenu. Contactez votre administrateur syst&egrave;me.|,
-		lastUpdated => 1203468943
-	},
-
-	'workflow' => {
-		message => q|Flux de t&acirc;ches|,
-		lastUpdated => 1203468981
-	},
-
-	'commit' => {
-		message => q|Commettre|,
-		lastUpdated => 1203468643
-	},
-
-	'comments help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'who to notify' => {
-		message => q|Qui notifier?|,
-		lastUpdated => 1203469000
-	},
-
-	'add a version tag' => {
-		message => q|Ajouter une version tag.|,
-		lastUpdated => 1203469447
-	},
-
-	'approve/deny help' => {
-		message => q|Voulez-vous approuver ou refuser ce tag?|,
-		lastUpdated => 1203653871
-	},
-
-	'version tag name' => {
-		message => q|Nom de la version tag|,
-		lastUpdated => 1203469035
-	},
-
-	'edit version tag' => {
-		message => q|Modifier la version tag|,
-		lastUpdated => 1203469235
-	},
-
-	'tag committer' => {
-		message => q||,
-		lastUpdated => 1203469422
-	},
-
-	'version tag name description commit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'approval message' => {
-		message => q|Message d'approbation|,
-		lastUpdated => 1203469260
-	},
-
-	'version tags' => {
-		message => q|Version Tags|,
-		lastUpdated => 1203469019
-	},
-
-	'topicName' => {
-		message => q||,
-		lastUpdated => 1203468716
-	},
-
-	'approve' => {
-		message => q|Approuver|,
-		lastUpdated => 1203468731
-	},
-
-	'notify about version tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'rollback' => {
-		message => q|Revenir en arri&egrave;re|,
-		lastUpdated => 1203468693
-	},
-
-	'request approval for version tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'rollback version tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'commit accepted' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to approve' => {
-		message => q|Groupe pouvant approuver|,
-		lastUpdated => 1203469062
-	},
-
-	'pending versions' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'back to home' => {
-		message => q|Retour &agrave; la page d'accueil.|,
-		lastUpdated => 1203468878
-	},
-
-	'trash version tag' => {
-		message => q|Mettre &agrave; poubelle la version tag|,
-		lastUpdated => 1203469216
-	},
-
-	'content versioning' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'export version tag to html' => {
-		message => q|Exportation de la version tag en HTML|,
-		lastUpdated => 1203469289
-	},
-
-	'unlock version tag' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'manage committed versions' => {
-		message => q|G&eacute;rer les versions commises.|,
-		lastUpdated => 1203469557
-	},
-
-	'do on deny help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to use' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'commit version tag confirm' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'current tag is called' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'purge revision prompt' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to use help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'notify message' => {
-		message => q|Message de notification|,
-		lastUpdated => 1203468772
-	},
-
-	'manage versions' => {
-		message => q|G&eacute;rer les versions.|,
-		lastUpdated => 1203469179
-	},
-
-	'workflow help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to approve help' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'comments description commit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-};
+  'add a version tag' => {
+    'lastUpdated' => '1294127773',
+    'message' => 'Ajouter une balise de version.'
+  },
+  'approval message' => {
+    'lastUpdated' => '1203469260',
+    'message' => 'Message d\'approbation'
+  },
+  'approval message help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'approve' => {
+    'lastUpdated' => '1203468731',
+    'message' => 'Approuver'
+  },
+  'approve/deny' => {
+    'lastUpdated' => '1203653842',
+    'message' => 'Approuver/Refuser'
+  },
+  'approve/deny help' => {
+    'lastUpdated' => '1294127793',
+    'message' => 'Voulez-vous approuver ou refuser cette balise ?'
+  },
+  'back to home' => {
+    'lastUpdated' => '1203468878',
+    'message' => 'Retour &agrave; la page d\'accueil.'
+  },
+  'bad commit' => {
+    'lastUpdated' => '1294127833',
+    'message' => 'Une erreur s\'est produite lors de l\'exécution de votre contenu. Contactez votre administrateur système.'
+  },
+  'comments' => {
+    'lastUpdated' => '1203469087',
+    'message' => 'Commentaires'
+  },
+  'comments description commit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'comments help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'commit' => {
+    'lastUpdated' => '1203468643',
+    'message' => 'Commettre'
+  },
+  'commit accepted' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'commit version tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'commit version tag confirm' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'committed by' => {
+    'lastUpdated' => '1203469132',
+    'message' => 'Commis par'
+  },
+  'committed on' => {
+    'lastUpdated' => '1203469142',
+    'message' => 'Commis le'
+  },
+  'committed versions' => {
+    'lastUpdated' => '1203469155',
+    'message' => 'Versions commises'
+  },
+  'content versioning' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'created by' => {
+    'lastUpdated' => '1203468954',
+    'message' => 'Cr&eacute;&eacute; par'
+  },
+  'created on' => {
+    'lastUpdated' => '1203468963',
+    'message' => 'Cr&eacute;&eacute; le'
+  },
+  'current tag is called' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'deny' => {
+    'lastUpdated' => '1203468760',
+    'message' => 'Nier'
+  },
+  'do on deny' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'do on deny help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'edit version tag' => {
+    'lastUpdated' => '1203469235',
+    'message' => 'Modifier la version tag'
+  },
+  'export version tag to html' => {
+    'lastUpdated' => '1203469289',
+    'message' => 'Exportation de la version tag en HTML'
+  },
+  'group to approve' => {
+    'lastUpdated' => '1203469062',
+    'message' => 'Groupe pouvant approuver'
+  },
+  'group to approve help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'group to use' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'group to use help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'manage committed versions' => {
+    'lastUpdated' => '1203469557',
+    'message' => 'G&eacute;rer les versions commises.'
+  },
+  'manage pending versions' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'manage versions' => {
+    'lastUpdated' => '1203469179',
+    'message' => 'G&eacute;rer les versions.'
+  },
+  'notify about version tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'notify message' => {
+    'lastUpdated' => '1203468772',
+    'message' => 'Message de notification'
+  },
+  'notify message help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'pending versions' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'purge revision prompt' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'request approval for version tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'revisions in tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'rollback' => {
+    'lastUpdated' => '1203468693',
+    'message' => 'Revenir en arri&egrave;re'
+  },
+  'rollback version tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'rollback version tag confirm' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'set tag' => {
+    'lastUpdated' => '1203469416',
+    'message' => 'D&eacute;finir comme tag en cours'
+  },
+  'tag committer' => {
+    'lastUpdated' => '1203469422',
+    'message' => ''
+  },
+  'tag creator' => {
+    'lastUpdated' => '1203468707',
+    'message' => 'Le cr&eacute;ateur du Tag'
+  },
+  'topicName' => {
+    'lastUpdated' => '1203468716',
+    'message' => ''
+  },
+  'trash version tag' => {
+    'lastUpdated' => '1203469216',
+    'message' => 'Mettre &agrave; poubelle la version tag'
+  },
+  'unlock version tag' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'version tag name' => {
+    'lastUpdated' => '1203469035',
+    'message' => 'Nom de la version tag'
+  },
+  'version tag name description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'version tag name description commit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'version tags' => {
+    'lastUpdated' => '1203469019',
+    'message' => 'Version Tags'
+  },
+  'who to notify' => {
+    'lastUpdated' => '1203469000',
+    'message' => 'Qui notifier?'
+  },
+  'who to notify help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'workflow' => {
+    'lastUpdated' => '1203468981',
+    'message' => 'Flux de t&acirc;ches'
+  },
+  'workflow help' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  }
+}
+;
 
 1;

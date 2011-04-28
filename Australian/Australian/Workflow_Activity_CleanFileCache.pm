@@ -5,22 +5,22 @@ use strict;
 our $I18N = {
     'activityName' => {
         'context'     => 'The name of this workflow activity.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Clean File Cache'
     },
     'bytes' => {
         'context'     => 'The unit of measurement for the size limit field.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Bytes'
     },
     'size limit' => {
         'context'     => 'a label indicating how big we\'re willing to allow the file cache to get on this site',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Size Limit'
     },
     'size limit help' => {
         'context'     => 'the hover help for the file cache field',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'How big should WebGUI allow the file cache to get before pruning down old cache entries?'
     }
 };

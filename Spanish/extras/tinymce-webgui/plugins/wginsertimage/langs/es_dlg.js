@@ -1,14 +1,14 @@
-tinyMCE.addI18n('en.wginsertimage',{
-    desc        : 'WebGUI Collateral - Insert Image',
-    manager     : 'WebGUI Collateral Image Manager',
-    newwindow   : 'Open link in new window.',
-    selectedproperties : 'Selected Image',
-    imageurl    : 'Image&nbsp;URL:',
-    imagealt    : 'Alt&nbsp;Text:',
-    imagelayout : 'Layout',
-    imagealign  : 'Alignment:',
-    imageborder : 'Border:',
-    imagespacing : 'Spacing',
-    imagehspace : 'Horizontal:',
-    imagevspace : 'Vertical:'
+tinyMCE.addI18n('es.wginsertimage',{
+    desc         : 'Insertar Imagen -- Material Colateral WebGUI',
+    manager      : 'Administrador de Im&aacute;genes Colaterales WebGUI',
+    newwindow    : 'Abrir enlace en una ventana nueva.',
+    selectedproperties : 'Imagen seleccionada',
+    imageurl     : 'URL&nbsp;de&nbsp;la&nbsp;imagen:',
+    imagealt     : 'Texto&nbsp;Alternativo:',
+    imagelayout  : 'Presentaci&oacute;n',
+    imagealign   : 'Alinear:',
+    imageborder  : 'Borde:',
+    imagespacing : 'Espaciado',
+    imagehspace  : 'Horizontal:',
+    imagevspace  : 'Vertical:'
 });

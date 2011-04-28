@@ -1969,6 +1969,10 @@ our $I18N = {
     'lastUpdated' => '1238257007',
     'message' => 'Werberaum'
   },
+  'Addons title' => {
+    'lastUpdated' => '1285235314',
+    'message' => 'Addons'
+  },
   'All Rights Reserved' => {
     'lastUpdated' => '1224798917',
     'message' => 'Alle Rechte vorbehalten'
@@ -1980,6 +1984,10 @@ our $I18N = {
   'Attachments formName' => {
     'lastUpdated' => '1216638507',
     'message' => 'Anhänge'
+  },
+  'Cancel' => {
+    'lastUpdated' => '1301989096',
+    'message' => 'Abbrechen'
   },
   'Cannot find what you are looking for? Try our search.' => {
     'lastUpdated' => '1225319555',
@@ -2104,6 +2112,10 @@ our $I18N = {
   'Tell us how we can assist you.' => {
     'lastUpdated' => '1224798230',
     'message' => 'Sagen Sie uns, wie wir Sie unterstützen können'
+  },
+  'Template Parser' => {
+    'lastUpdated' => '1301989106',
+    'message' => 'Template Parser '
   },
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1224799495',
@@ -2685,6 +2697,18 @@ Kopieren Sie ggf. Dateien und fügen Sie diese in den Editor ein.'
   'options.display' => {
     'lastUpdated' => '1217235574',
     'message' => 'Ein vollständiger HTML Link mit internationalisiertem Label, für individuelle Account Optionen, wie zum Beispiel Editieren eines Profils, Betrachten eines Profils, Zugriff auf die Benutzer Inbox, und so weiter.'
+  },
+  'or' => {
+    'lastUpdated' => '1303289680',
+    'message' => 'oder'
+  },
+  'override user email preference' => {
+    'lastUpdated' => '1303289707',
+    'message' => 'Benutzer-E-Mail-Einstellungen überschreiben?'
+  },
+  'override user email preference description' => {
+    'lastUpdated' => '1303289775',
+    'message' => 'E-Mail versenden ohne Rücksicht auf die Benutzer-Einstellungen zum Erhalt von Inbox-Benachrichtigungen'
   },
   'packages' => {
     'lastUpdated' => '1178624705',

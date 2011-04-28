@@ -409,6 +409,14 @@ our $I18N = {
     'lastUpdated' => '1205853234',
     'message' => 'Voeg data toe'
   },
+  'invalid end date' => {
+    'lastUpdated' => '1297774511',
+    'message' => 'Ongeldige einddatum. Voer alstublieft een geldige datum in in de vorm "JJJJ-MM-DD".'
+  },
+  'invalid start date' => {
+    'lastUpdated' => '1297774526',
+    'message' => 'Ongeldige begindatum. Voer alstublieft een geldige datum in in de vorm "JJJJ-MM-DD".'
+  },
   'isAllDay' => {
     'lastUpdated' => '1189337850',
     'message' => 'Een voorwaardelijke variabele die waar is wanneer de gebeurtenis de gehele dag duurt. '

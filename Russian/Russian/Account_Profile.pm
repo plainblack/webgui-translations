@@ -13,13 +13,29 @@ our $I18N = {
     'lastUpdated' => '1236465270',
     'message' => "\x{420}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{442}\x{44c} \x{43c}\x{43e}\x{438} \x{434}\x{430}\x{43d}\x{43d}\x{44b}\x{435}."
   },
+  'error label' => {
+    'lastUpdated' => '1301496574',
+    'message' => "\x{41e}\x{448}\x{438}\x{431}\x{43a}\x{430}"
+  },
+  'friends only' => {
+    'lastUpdated' => '1301496613',
+    'message' => "\x{412}\x{430}\x{448} \x{43f}\x{440}\x{43e}\x{444}\x{438}\x{43b}\x{44c} \x{434}\x{43e}\x{441}\x{442}\x{443}\x{43f}\x{43d}\x{44b}\x{439} \x{434}\x{43b}\x{44f} \x{43f}\x{440}\x{43e}\x{441}\x{43c}\x{43e}\x{442}\x{440}\x{430} \x{442}\x{43e}\x{43b}\x{44c}\x{43a}\x{43e} \x{434}\x{440}\x{443}\x{437}\x{44c}\x{44f}\x{43c}."
+  },
   'friends only label' => {
     'lastUpdated' => '1236465207',
     'message' => "\x{422}\x{43e}\x{43b}\x{44c}\x{43a}\x{43e} \x{434}\x{43b}\x{44f} \x{434}\x{440}\x{443}\x{437}\x{435}\x{439}"
   },
+  'member since' => {
+    'lastUpdated' => '1301496625',
+    'message' => "\x{427}\x{43b}\x{435}\x{43d} \x{441}"
+  },
   'private label' => {
     'lastUpdated' => '1236465161',
     'message' => "\x{41f}\x{440}\x{438}\x{432}\x{430}\x{442}\x{43d}\x{44b}\x{435}"
+  },
+  'private profile' => {
+    'lastUpdated' => '1301496559',
+    'message' => "\x{412}\x{430}\x{448} \x{43f}\x{440}\x{43e}\x{444}\x{438}\x{43b}\x{44c} \x{43d}\x{435} \x{43f}\x{443}\x{431}\x{43b}\x{438}\x{447}\x{43d}\x{44b}\x{439}"
   },
   'profile as others label' => {
     'lastUpdated' => '1236467344',
@@ -28,6 +44,10 @@ our $I18N = {
   'public label' => {
     'lastUpdated' => '1236465077',
     'message' => "\x{41f}\x{443}\x{431}\x{43b}\x{438}\x{447}\x{43d}\x{44b}\x{435}"
+  },
+  'public profile' => {
+    'lastUpdated' => '1301496530',
+    'message' => "\x{412}\x{430}\x{448} \x{43f}\x{440}\x{43e}\x{444}\x{438}\x{43b}\x{44c} \x{43f}\x{443}\x{431}\x{43b}\x{438}\x{447}\x{43d}\x{44b}\x{439}"
   },
   'required field' => {
     'lastUpdated' => '1236465330',

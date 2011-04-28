@@ -6,8 +6,8 @@ our $I18N = {
     'message' => 'Dodaj do koszyka'
   },
   'addToCartButton' => {
-    'lastUpdated' => '1238507056',
-    'message' => ''
+    'lastUpdated' => '1276694771',
+    'message' => "Przycisk wysy\x{142}aj\x{105}cy"
   },
   'assetName' => {
     'lastUpdated' => '1238507064',

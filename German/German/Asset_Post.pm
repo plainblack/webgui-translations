@@ -282,8 +282,8 @@ our $I18N = {
     'message' => 'Post Asset Template Variablen'
   },
   'post received' => {
-    'lastUpdated' => '1179835168',
-    'message' => 'Ihr Post wurde entgegengenommen und wird zurzeit verarbeitet, damit er zur Site hinzugefügt werden kann. Bitte haben Sie ein wenig Geduld.'
+    'lastUpdated' => '1286874142',
+    'message' => 'Ihre Nachricht wurde entgegengenommen und wird zurzeit verarbeitet, damit diese zur Site hinzugefügt werden kann. Bitte haben Sie ein wenig Geduld.'
   },
   'post template variables title' => {
     'lastUpdated' => '1277325573',

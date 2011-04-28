@@ -1,6 +1,10 @@
 package WebGUI::i18n::Spanish::Icon;
 use utf8;
 our $I18N = {
+  'Add' => {
+    'lastUpdated' => '1302873036',
+    'message' => 'Agregar'
+  },
   'Copy' => {
     'lastUpdated' => '1169610211',
     'message' => 'Copiar'

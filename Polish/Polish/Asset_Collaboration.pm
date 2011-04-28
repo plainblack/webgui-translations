@@ -170,8 +170,12 @@ our $I18N = {
     'message' => "S\x{142}owo &quot;Przez&qout;"
   },
   'captcha label' => {
-    'lastUpdated' => '1204793031',
-    'message' => "Wprowad\x{17a} tekst z obrazka"
+    'lastUpdated' => '1266311617',
+    'message' => "Potwierd\x{17a} swoje cz\x{142}owiecze\x{144}stwo"
+  },
+  'captcha_label' => {
+    'lastUpdated' => '1266311628',
+    'message' => "S\x{142}owo z obrazka"
   },
   'close' => {
     'lastUpdated' => '1204793042',
@@ -398,8 +402,8 @@ our $I18N = {
     'message' => "<p>Wybierz &quot;Tak&quot; aby wy\x{15b}wietli\x{107} obrazki (fotki) u\x{17c}ytkownik&oacute;w w Systemi Wsp&oacute;\x{142}pracy. Pole obrazka musi by\x{107} dost\x{119}pne w profilu u\x{17c}ytkownik&oacute;w oraz musz\x{105} by\x{107} wprowadzone fotki.</p><p>Prezentacja obrazk&oacute;w u\x{17c}ytkownik&oacute;w wymaga d\x{142}u\x{17c}szego czasu \x{142}adowania si\x{119} poszcze\x{14b}&oacute;lnych stron.&nbsp;</p>"
   },
   'enable metadata' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312695',
+    'message' => "W\x{142}\x{105}czy\x{107} MetaData w postach?"
   },
   'enable metadata description' => {
     'lastUpdated' => undef,
@@ -422,16 +426,20 @@ our $I18N = {
     'message' => ''
   },
   'filter code' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312716',
+    'message' => 'Kod filtru'
   },
   'filter code description' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312761',
+    'message' => 'Wybierz poziom filtru HTML w postach,'
   },
   'flatLayout' => {
-    'lastUpdated' => '1238076862',
-    'message' => ''
+    'lastUpdated' => '1266312769',
+    'message' => "Sp\x{142}aszcz"
+  },
+  'form.footer' => {
+    'lastUpdated' => '1266312797',
+    'message' => "Kod HTML wymagany do zako\x{144}czenia formularza wyszukiwania."
   },
   'form.header' => {
     'lastUpdated' => undef,
@@ -588,6 +596,14 @@ our $I18N = {
   'karmaIsEnabled' => {
     'lastUpdated' => undef,
     'message' => ''
+  },
+  'keywords label' => {
+    'lastUpdated' => '1266312589',
+    'message' => "S\x{142}owa kluczowe"
+  },
+  'keywords.label' => {
+    'lastUpdated' => '1266312580',
+    'message' => "S\x{142}owo \"S\x{142}owa kluczowe\"."
   },
   'lastBuildDate' => {
     'lastUpdated' => undef,
@@ -797,6 +813,10 @@ our $I18N = {
     'lastUpdated' => '1204886377',
     'message' => "Lista zawieraj\x{105}ca wiadomo\x{15b}ci Zasobu Wsp&oacute;\x{142}pracy."
   },
+  'post_loop_user.isVisitor' => {
+    'lastUpdated' => '1266312353',
+    'message' => "Warunek b\x{119}d\x{105}cy prawd\x{105} je\x{17c}eli autor postu jest go\x{15b}ciem."
+  },
   'posts/page' => {
     'lastUpdated' => '1204886401',
     'message' => "Liczba wiadomo\x{15b}ci na stron\x{119}"
@@ -906,12 +926,12 @@ our $I18N = {
     'message' => "Je\x{15b}li ustawiono opcj\x{119} na &quot;Tak&quot; u\x{17c}ytkownik chc\x{105}c wys\x{142}a\x{107} wiadomo\x{15b}\x{107} musi nie tylko nale\x{17c}e\x{107} do grupy przydzielonej do w\x{105}tku, ale r&oacute;wnie\x{17c} powinien by\x{107} subskrybentem systemu wsp&oacute;\x{142}pracy lub w\x{105}tku."
   },
   'responses' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312291',
+    'message' => 'Odpowiedzi'
   },
   'responses.label' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312305',
+    'message' => "S\x{142}owo \"Odpowiedzi\""
   },
   'rich editor' => {
     'lastUpdated' => undef,
@@ -982,36 +1002,36 @@ our $I18N = {
     'message' => "Sortowanie w kolejno\x{15b}ci rosn\x{105}cej lub malej\x{105}cej."
   },
   'sortby.date.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312151',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug daty wys\x{142}ania."
   },
   'sortby.karmaRank.url' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   'sortby.lastreply.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312185',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug daty ostatniego postu."
   },
   'sortby.rating.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312200',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug rankingu."
   },
   'sortby.replies.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312215',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug ilo\x{15b}ci post\x{f3}w."
   },
   'sortby.title.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312224',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug tytu\x{142}u."
   },
   'sortby.username.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312237',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug nazwy u\x{17c}ytkownika."
   },
   'sortby.views.url' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312246',
+    'message' => "Adres URL sortuj\x{105}cy i wy\x{15b}wietlaj\x{105}cy list\x{119} post\x{f3}w wed\x{142}ug ilo\x{15b}ci wy\x{15b}wietle\x{144}."
   },
   'status' => {
     'lastUpdated' => '1207304466',
@@ -1070,8 +1090,8 @@ our $I18N = {
     'message' => ''
   },
   'system template' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1260787284',
+    'message' => "Szablon systemu wsp\x{f3}\x{142}pracy"
   },
   'system template description' => {
     'lastUpdated' => undef,
@@ -1086,16 +1106,16 @@ our $I18N = {
     'message' => ''
   },
   'thread template' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1260787248',
+    'message' => "System wsp\x{f3}\x{142}pracy - szablon w\x{105}tku"
   },
   'thread template description' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312092',
+    'message' => "Szablon prezentuj\x{105}cy w\x{105}tek."
   },
   'threads/page' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266312078',
+    'message' => "W\x{105}tk\x{f3}w na stron\x{119}"
   },
   'threads/page description' => {
     'lastUpdated' => undef,
@@ -1134,8 +1154,8 @@ our $I18N = {
     'message' => "S\x{142}owo &quot;Tytu\x{142}&quot;"
   },
   'tmplVar status' => {
-    'lastUpdated' => '1238576653',
-    'message' => ''
+    'lastUpdated' => '1266312068',
+    'message' => 'Status postu'
   },
   'tmplVar thumbnail' => {
     'lastUpdated' => '1238577378',
@@ -1150,7 +1170,15 @@ our $I18N = {
     'message' => ''
   },
   'unarchive' => {
-    'lastUpdated' => '1238578575',
+    'lastUpdated' => '1266311955',
+    'message' => "Przywr\x{f3}\x{107} z archiwum"
+  },
+  'unarchive all' => {
+    'lastUpdated' => '1266311967',
+    'message' => "Przywr\x{f3}\x{107} z archiwum wszystkie w\x{105}tki"
+  },
+  'unarchive confirm' => {
+    'lastUpdated' => '1266312047',
     'message' => ''
   },
   'unlock' => {
@@ -1190,12 +1218,12 @@ our $I18N = {
     'message' => "S\x{142}owo &quot;Adres URL&quot;"
   },
   'use captcha hover help' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266311898',
+    'message' => "Czy u\x{17c}ytkownicy maj\x{105} potwierdza\x{107} swoje cz\x{142}owiecze\x{144}stwo przed wprowadzeniem postu w systemie wsp\x{f3}\x{142}pracy. Popularne \"Przepisz tekst z obrazka\"."
   },
   'use captcha label' => {
-    'lastUpdated' => '1238577041',
-    'message' => ''
+    'lastUpdated' => '1266311746',
+    'message' => "U\x{17c}ywa\x{107} Captacha dla post\x{f3}w?"
   },
   'use preview' => {
     'lastUpdated' => '1238576761',
@@ -1210,28 +1238,32 @@ our $I18N = {
     'message' => "U\x{17c}ytkownik"
   },
   'user defined 1' => {
-    'lastUpdated' => '1238576677',
-    'message' => ''
+    'lastUpdated' => '1266311774',
+    'message' => "Zdefiniowany u\x{17c}ytkownik 1"
   },
   'user defined 2' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266311780',
+    'message' => "Zdefiniowany u\x{17c}ytkownik 2"
   },
   'user defined 3' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266311785',
+    'message' => "Zdefiniowany u\x{17c}ytkownik 3"
   },
   'user defined 4' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266311789',
+    'message' => "Zdefiniowany u\x{17c}ytkownik 4"
   },
   'user defined 5' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1266311795',
+    'message' => "Zdefiniowany u\x{17c}ytkownik 5"
   },
   'user.canPost' => {
     'lastUpdated' => '1238576978',
     'message' => "Warto\x{15b}\x{107}, kt\x{f3}ra jest prawdziwa je\x{17c}eli aktualny u\x{17c}ytkownik mo\x{17c}e dodawa\x{107} wiadomo\x{15b}ci w systemie wsp\x{f3}\x{142}pracy."
+  },
+  'user.canStartThread' => {
+    'lastUpdated' => '1266311846',
+    'message' => "Warunek prawdziwy je\x{17c}eli aktualny u\x{17c}ytkownik mo\x{17c}e dodawa\x{107} w\x{105}tki w systemie wsp\x{f3}\x{142}pracy."
   },
   'user.hasRead' => {
     'lastUpdated' => '1238576947',

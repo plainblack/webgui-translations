@@ -78,8 +78,16 @@ our $I18N = {
     'message' => "Te zmienne s\x{105} dost\x{119}pne w szablonie strony:"
   },
   'layout template title' => {
-    'lastUpdated' => '1237548779',
-    'message' => 'Szablon strony'
+    'lastUpdated' => '1271144523',
+    'message' => "Podzia\x{142} kontenera"
+  },
+  'mobileTemplateId description' => {
+    'lastUpdated' => '1252413705',
+    'message' => "Wybierz szablon u\x{17c}yty do wy\x{15b}wietlenia tego serwisu na urz\x{105}dzeniach mobilnych"
+  },
+  'mobileTemplateId label' => {
+    'lastUpdated' => '1252413714',
+    'message' => "Szablon dla urz\x{105}dze\x{144} mobilnych"
   },
   'position1_loop' => {
     'lastUpdated' => '1238072382',
@@ -90,8 +98,8 @@ our $I18N = {
     'message' => "Warunek spe\x{142}niony je\x{17c}eli aktualny u\x{17c}ytkownik ma w\x{142}\x{105}czony panel administracyjny i mo\x{17c}e edytowa\x{107} ten zas\x{f3}b/asset"
   },
   'template description' => {
-    'lastUpdated' => '1238072184',
-    'message' => "Wybierz szablon z listy do wy\x{15b}wietlenia zawarto\x{15b}ci strony."
+    'lastUpdated' => '1271144598',
+    'message' => "Wybierz szablon dziel\x{105}cy kontener."
   },
   'templateId' => {
     'lastUpdated' => '1237817570',

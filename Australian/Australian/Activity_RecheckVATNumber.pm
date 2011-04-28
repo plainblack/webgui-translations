@@ -5,7 +5,7 @@ use strict;
 our $I18N = {
     'topicName' => {
         'context'     => 'Title of the VAT number recheck workflow activity',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Recheck VAT number'
     }
 };

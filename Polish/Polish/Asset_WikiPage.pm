@@ -62,8 +62,8 @@ our $I18N = {
     'message' => ''
   },
   'deleteUrl' => {
-    'lastUpdated' => '1199751879',
-    'message' => "Usu\x{144} URL"
+    'lastUpdated' => '1270555687',
+    'message' => "Adres URL do usuni\x{119}cia tej strony."
   },
   'editContent' => {
     'lastUpdated' => undef,

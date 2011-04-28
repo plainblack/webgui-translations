@@ -1,6 +1,30 @@
 package WebGUI::i18n::French::Account_Shop;
 use utf8;
 our $I18N = {
+  'Not yet scheduled' => {
+    'lastUpdated' => '1294223211',
+    'message' => 'Pas encore prévue'
+  },
+  'Paid' => {
+    'lastUpdated' => '1303366540',
+    'message' => 'Pay&eacute;'
+  },
+  'Payout' => {
+    'lastUpdated' => '1303366596',
+    'message' => 'Paiement'
+  },
+  'Payout Totals' => {
+    'lastUpdated' => '1303366622',
+    'message' => 'Total &agrave; payer'
+  },
+  'Product' => {
+    'lastUpdated' => '1303366632',
+    'message' => 'Produit'
+  },
+  'Products' => {
+    'lastUpdated' => '1303366640',
+    'message' => 'Produits'
+  },
   'manage purchases label' => {
     'lastUpdated' => '1241175126',
     'message' => 'Gérer les achats'
@@ -12,6 +36,10 @@ our $I18N = {
   'my sales label' => {
     'lastUpdated' => '1241175206',
     'message' => 'Ventes'
+  },
+  'my sales template' => {
+    'lastUpdated' => '1292936297',
+    'message' => 'Modèle pour les Ventes'
   },
   'shop layout template label' => {
     'lastUpdated' => '1241175228',

@@ -313,6 +313,10 @@ our $I18N = {
     'lastUpdated' => '1166193297',
     'message' => 'Dit is het ID van het sjabloon voor het bevestigingsbericht.'
   },
+  'add entry' => {
+    'lastUpdated' => '1297774445',
+    'message' => 'Voer waarde in'
+  },
   'addField.label' => {
     'lastUpdated' => '1149845600',
     'message' => 'De standaard tekst voor de addField.url variabele. '

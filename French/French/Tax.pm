@@ -1,8 +1,29 @@
 package WebGUI::i18n::French::Tax;
 use utf8;
 our $I18N = {
+  'Active tax plugin' => {
+    'lastUpdated' => '1294214410',
+    'message' => 'Extension active pour les taxes'
+  },
+  'Proceed' => {
+    'lastUpdated' => '1294214436',
+    'message' => 'Poursuivre'
+  },
+  'Stern tax warning' => {
+    'lastUpdated' => '1294214553',
+    'message' => 'Modifier l\'extension active pour les taxes va changer la façon dont les taxes sont calculées sur tous les produits que vous vendez. Êtes-vous vraiment sûr que vous voulez changer d\'extension ?'
+  },
+  'Switch' => {
+    'lastUpdated' => '1294214568',
+    'message' => 'Changer'
+  },
+  'Switch tax plugin' => {
+    'lastUpdated' => '1294214607',
+    'message' => 'Changer d\'extension pour les taxes
+'
+  },
   'add a tax' => {
-    'lastUpdated' => '1231790263',
+    'lastUpdated' => '1292860509',
     'message' => 'ajouter une taxe'
   },
   'city' => {

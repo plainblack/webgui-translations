@@ -2,8 +2,8 @@ package WebGUI::i18n::Polish::Asset_DataForm;
 use utf8;
 our $I18N = {
   10 => {
-    'lastUpdated' => '1238676812',
-    'message' => ''
+    'lastUpdated' => '1276692598',
+    'message' => 'Z'
   },
   100 => {
     'lastUpdated' => '1238674210',

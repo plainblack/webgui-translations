@@ -1,6 +1,10 @@
 package WebGUI::i18n::Polish::Account_Inbox;
 use utf8;
 our $I18N = {
+  'All users' => {
+    'lastUpdated' => '1263297152',
+    'message' => "Wszyscy u\x{17c}ytkownicy"
+  },
   'accept button label' => {
     'lastUpdated' => '1238570939',
     'message' => 'Akceptacja'
@@ -26,12 +30,16 @@ our $I18N = {
     'message' => 'Anuluj'
   },
   'common account variables' => {
-    'lastUpdated' => '1238669368',
-    'message' => ''
+    'lastUpdated' => '1277192663',
+    'message' => 'Konto, Skrzynka odbiorcza, Zmienne szablonu'
   },
   'compose message label' => {
     'lastUpdated' => '1238575795',
     'message' => "Stw\x{f3}rz now\x{105} wiadomo\x{15b}\x{107}"
+  },
+  'currently invited' => {
+    'lastUpdated' => '1277192708',
+    'message' => "Wprowadzony adres e-mail %s zosta\x{142} ju\x{17c} zaproszony w tym serwisie."
   },
   'date label' => {
     'lastUpdated' => '1238571303',

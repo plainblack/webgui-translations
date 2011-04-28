@@ -54,7 +54,7 @@ our $I18N = {
     'message' => 'Wymagane?'
   },
   '474 description' => {
-    'lastUpdated' => '1237242402',
+    'lastUpdated' => '1266309872',
     'message' => "<p>Czy wype\x{142}nienie pola przez u\x{17c}ytkownika powinno by\x{107} wymagane?</p>"
   },
   475 => {
@@ -62,8 +62,8 @@ our $I18N = {
     'message' => 'Nazwa pola'
   },
   '475 description' => {
-    'lastUpdated' => '1237215653',
-    'message' => "<p>Nazwa pola, u\x{17c}ywana wewn\x{119}trznie w bazie danych.</p>"
+    'lastUpdated' => '1266309985',
+    'message' => "<p>Nazwa pola, u\x{17c}ywana wewn\x{119}trznie w bazie danych. Nazwy p\x{f3}l nie mog\x{105} zawiera\x{107} spacji. Pewne nazwy p\x{f3}l s\x{105} zarezerwowane, np. \"op\", \"func\", \"username\", \"shop\", \"karma\", \"status\", \"lastUpdated\", \"dateCreated\".</p>"
   },
   486 => {
     'lastUpdated' => '1237214832',
@@ -152,6 +152,14 @@ our $I18N = {
   'category short name description' => {
     'lastUpdated' => '1237242492',
     'message' => '<p>Krótka nazwa dla tej kategorii.</p>'
+  },
+  'default privacy setting description' => {
+    'lastUpdated' => '1266310104',
+    'message' => "Wybierz domy\x{15b}lne prywatne ustawienie dla tego pola. Opcja powinna by\x{107} u\x{17c}yta kiedy tworzony jest nowy u\x{17c}ytkownik."
+  },
+  'default privacy setting label' => {
+    'lastUpdated' => '1266310092',
+    'message' => "Domy\x{15b}lne prywatne ustawienia"
   },
   'displayTitle' => {
     'lastUpdated' => '1237988807',

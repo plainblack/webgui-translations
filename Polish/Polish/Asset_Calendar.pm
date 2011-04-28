@@ -6,16 +6,16 @@ our $I18N = {
     'message' => 'Dodaj'
   },
   'Add a feed' => {
-    'lastUpdated' => '1238674048',
-    'message' => ''
+    'lastUpdated' => '1266308859',
+    'message' => "Dodaj \x{142}\x{105}cznik"
   },
   'DN' => {
     'lastUpdated' => '1238584412',
     'message' => 'DN'
   },
   'Feed URL' => {
-    'lastUpdated' => '1238674057',
-    'message' => ''
+    'lastUpdated' => '1266308866',
+    'message' => "URL \x{142}\x{105}cznika"
   },
   'New Day' => {
     'lastUpdated' => '1238584248',
@@ -61,9 +61,17 @@ our $I18N = {
     'lastUpdated' => '1238584582',
     'message' => 'Skrót dla nazwy aktualnego dnia.'
   },
+  'dayCurrent' => {
+    'lastUpdated' => '1270552498',
+    'message' => "Zmienna b\x{119}d\x{105}ca prawd\x{105} je\x{17c}eli dzie\x{144} jest dniem dzisiejszym."
+  },
   'dayName' => {
     'lastUpdated' => '1238584592',
     'message' => 'Nazwa aktualnego dnia.'
+  },
+  'dayNames' => {
+    'lastUpdated' => '1270552515',
+    'message' => "P\x{119}tla zawieraj\x{105}ca nazwy dni tygodnia."
   },
   'dayOfMonth' => {
     'lastUpdated' => '1238584626',
@@ -72,6 +80,10 @@ our $I18N = {
   'dayOfWeek' => {
     'lastUpdated' => '1238584647',
     'message' => "Kt\x{f3}ry dzie\x{144} tygodnia jest tym dniem, liczba ca\x{142}kowita z przedzia\x{142}u 1..7."
+  },
+  'dayUrl' => {
+    'lastUpdated' => '1270552548',
+    'message' => "Adres URL widoku dziennika zdarze\x{144} danego dnia."
   },
   'days' => {
     'lastUpdated' => '1238584219',
@@ -166,8 +178,8 @@ our $I18N = {
     'message' => "Warto\x{15b}\x{107}, kt\x{f3}ra b\x{119}dzie prawdziwa je\x{17c}eli u\x{17c}ytkownik jest w grupie dopuszczonej do edycji wydarze\x{144} w tym kalendarzu."
   },
   'end date' => {
-    'lastUpdated' => '1238672052',
-    'message' => ''
+    'lastUpdated' => '1266308887',
+    'message' => "Ko\x{144}cowa data"
   },
   'endDayAbbr' => {
     'lastUpdated' => '1238672399',
@@ -212,6 +224,10 @@ our $I18N = {
   'extrasUrl' => {
     'lastUpdated' => '1238586692',
     'message' => 'Adres URL do katalogu &quot;extras&quot; WebGUI.'
+  },
+  'feeds' => {
+    'lastUpdated' => '1266308894',
+    'message' => "\x{141}\x{105}czniki"
   },
   'groupIdEventEdit description' => {
     'lastUpdated' => '1238587631',
@@ -422,12 +438,12 @@ our $I18N = {
     'message' => 'Adres URL poprzedniego tygodnia w kalendarzu.'
   },
   'paramStart' => {
-    'lastUpdated' => '1238672570',
-    'message' => ''
+    'lastUpdated' => '1266308920',
+    'message' => "Pocz\x{105}tkowa data w kalendarzu"
   },
   'paramType' => {
-    'lastUpdated' => '1238585362',
-    'message' => ''
+    'lastUpdated' => '1266309073',
+    'message' => "Aktualny widok w kalendarzu: dzie\x{144}, tydzie\x{144}, miesi\x{105}c."
   },
   'previous day' => {
     'lastUpdated' => '1238585373',
@@ -454,20 +470,20 @@ our $I18N = {
     'message' => 'Szukaj'
   },
   'sortEventsBy description' => {
-    'lastUpdated' => '1238672038',
-    'message' => ''
+    'lastUpdated' => '1266308976',
+    'message' => "Porz\x{105}dek w jakim b\x{119}d\x{105} wy\x{15b}wietlane zdarzenia."
   },
   'sortEventsBy label' => {
     'lastUpdated' => '1238672757',
     'message' => "Sortowanie dziennika wydarze\x{144}"
   },
   'sortEventsBy value sequencenumber' => {
-    'lastUpdated' => '1238672783',
-    'message' => ''
+    'lastUpdated' => '1266309107',
+    'message' => "Sortowanie wed\x{142}ug kolejno\x{15b}ci."
   },
   'sortEventsBy value time' => {
-    'lastUpdated' => '1238672793',
-    'message' => ''
+    'lastUpdated' => '1266309132',
+    'message' => "Sortowanie wed\x{142}ug daty"
   },
   'start date' => {
     'lastUpdated' => '1238672805',
@@ -502,8 +518,8 @@ our $I18N = {
     'message' => "Rok w kt\x{f3}rym rozpoczyna si\x{119} tydzie\x{144}."
   },
   'subscribe' => {
-    'lastUpdated' => '1238672575',
-    'message' => ''
+    'lastUpdated' => '1266308986',
+    'message' => 'Subskrypcja'
   },
   'subscriberNotifyOffset label' => {
     'lastUpdated' => '1238672710',

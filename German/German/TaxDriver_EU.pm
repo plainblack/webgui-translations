@@ -1,6 +1,18 @@
 package WebGUI::i18n::German::TaxDriver_EU;
 use utf8;
 our $I18N = {
+  'Add another VAT number' => {
+    'lastUpdated' => '1296988429',
+    'message' => 'Eine weitere Umsatzsteuernummer hinzufügen'
+  },
+  'Approved for use' => {
+    'lastUpdated' => '1296988453',
+    'message' => 'Zur Nutzung freigegeben'
+  },
+  'Enter VAT numbers' => {
+    'lastUpdated' => '1296988467',
+    'message' => 'Umsatzsteuernummern eingeben'
+  },
   'accept when vies unavailable' => {
     'lastUpdated' => '1250973723',
     'message' => 'Falls VIES nicht verfügbar, nicht validierte MwSt-Nummern akzeptieren?'

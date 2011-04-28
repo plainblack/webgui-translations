@@ -4,7 +4,7 @@ package WebGUI::i18n::Australian::Form;
 use strict;
 our $I18N = {
     'field required' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'This field is required.'
     }
 };

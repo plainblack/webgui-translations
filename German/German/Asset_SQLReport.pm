@@ -254,8 +254,8 @@ Mehrere Vorabfrage-Anweisungen werden mit Semikolon getrennt und können keine P
     'message' => 'Der Feldname, wie er von der Abfrage zurückgeliefert wird.'
   },
   'field.number' => {
-    'lastUpdated' => '1252318051',
-    'message' => 'Ein Intergerwert, der die Feldzahl in dieser Zeile von 1 an zählt. Wie column.number in column_loop.'
+    'lastUpdated' => '1290159423',
+    'message' => 'Ein Integerwert, der die Feldzahl in dieser Zeile von 1 an zählt. Wie column.number in column_loop.'
   },
   'field.value' => {
     'lastUpdated' => '1252318064',

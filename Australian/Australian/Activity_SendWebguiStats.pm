@@ -5,30 +5,30 @@ use strict;
 our $I18N = {
     'disable' => {
         'context'     => 'A link label to end the sending of stats.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Disable'
     },
     'enable' => {
         'context'     => 'A link label to start the sending of stats.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Enable'
     },
     'topicName' => {
         'context'     => 'The title of the workflow activity.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Send WebGUI Statistics'
     },
     'why to send' => {
         'context'     => 'A description of the stats program, what we\'re sending, and why it\'s important.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
             'You can choose to send information about your WebGUI site to the central webgui.org stats repository. This helps the developers make WebGUI better by understanding the size of the sites out there, how quickly they grow, and what assets they use most. And you have nothing to worry about because no personally identifiable information is sent.'
     },
     'would you participate' => {
         'context'     => 'A call to action for the statistics program.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message' =>
-            'Would you like to enable or disable participation in the WebGUI community statistics programme?'
+            'Would you like to enable or disable participation in the WebGUI community statistics Programmeme?'
     }
 };
 1;

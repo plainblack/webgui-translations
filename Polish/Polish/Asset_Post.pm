@@ -17,6 +17,10 @@ our $I18N = {
     'lastUpdated' => '1208164559',
     'message' => 'Edytowany w'
   },
+  'Skip notification' => {
+    'lastUpdated' => '1270539162',
+    'message' => "Pomi\x{144} powiadamianie"
+  },
   'add/edit post template title' => {
     'lastUpdated' => '1208164585',
     'message' => "Szablon Dodania/Edytowania Wiadomo\x{15b}ci"

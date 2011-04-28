@@ -1,6 +1,14 @@
 package WebGUI::i18n::Russian::Form_DataTable;
 use utf8;
 our $I18N = {
+  'New Column' => {
+    'lastUpdated' => '1294114281',
+    'message' => "\x{41d}\x{43e}\x{432}\x{430}\x{44f} \x{43a}\x{43e}\x{43b}\x{43e}\x{43d}\x{43a}\x{430}"
+  },
+  'Value' => {
+    'lastUpdated' => '1294114265',
+    'message' => "\x{417}\x{43d}\x{430}\x{447}\x{435}\x{43d}\x{438}\x{435}"
+  },
   'add column' => {
     'lastUpdated' => '1236383740',
     'message' => "\x{414}\x{43e}\x{431}\x{430}\x{432}\x{438}\x{442}\x{44c} \x{43a}\x{43e}\x{43b}\x{43e}\x{43d}\x{43a}\x{443}"

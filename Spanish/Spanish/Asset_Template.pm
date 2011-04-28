@@ -5,9 +5,57 @@ our $I18N = {
     'lastUpdated' => '1259453840',
     'message' => '¡Ya está adjunto!'
   },
+  'Configure' => {
+    'lastUpdated' => '1302873139',
+    'message' => 'Configurar'
+  },
+  'Configure Preview' => {
+    'lastUpdated' => '1302873157',
+    'message' => 'Vista Previa de Configuración'
+  },
+  'Fetch' => {
+    'lastUpdated' => '1302873166',
+    'message' => 'Obtener'
+  },
+  'Fetch Variables' => {
+    'lastUpdated' => '1302873172',
+    'message' => 'Obtener Variables'
+  },
+  'Fetch Variables hoverHelp' => {
+    'lastUpdated' => '1302873197',
+    'message' => 'Intenta obtener las variables del URL que usa esta Plantilla.'
+  },
   'No url!' => {
     'lastUpdated' => '1259453847',
     'message' => '¡Falta el URL!'
+  },
+  'Plain Text hoverHelp' => {
+    'lastUpdated' => '1302873258',
+    'message' => 'Indica si se obtendrá una respuesta en texto simple, útil para determinar el resultado crudo de la Plantilla, o bien si la respuesta será formada en HTML.'
+  },
+  'Plain Text?' => {
+    'lastUpdated' => '1302873264',
+    'message' => '¿Texto simple?'
+  },
+  'Preview' => {
+    'lastUpdated' => '1302873270',
+    'message' => 'Vista Previa'
+  },
+  'URL' => {
+    'lastUpdated' => '1302873273',
+    'message' => 'URL'
+  },
+  'URL hoverHelp' => {
+    'lastUpdated' => '1302873287',
+    'message' => 'El URL asociado al botón de buscar.'
+  },
+  'Variables' => {
+    'lastUpdated' => '1302873291',
+    'message' => 'Variables'
+  },
+  'Variables hoverHelp' => {
+    'lastUpdated' => '1302873307',
+    'message' => 'Variables empleadas por el botón de presentación, en formato JSON.'
   },
   'assetName' => {
     'lastUpdated' => '1252457577',

@@ -1,6 +1,30 @@
 package WebGUI::i18n::Polish::Asset_GalleryAlbum;
 use utf8;
 our $I18N = {
+  'Adding %s to album' => {
+    'lastUpdated' => '1265116852',
+    'message' => 'Dodawanie %s do albumu'
+  },
+  'Extracting archive' => {
+    'lastUpdated' => '1265116863',
+    'message' => 'Rozpakowywanie archiwum'
+  },
+  'Found file: %s' => {
+    'lastUpdated' => '1265116953',
+    'message' => 'Znaleziono plik %s'
+  },
+  'Requesting commit for version tag' => {
+    'lastUpdated' => '1270552664',
+    'message' => "\x{17b}\x{105}danie dopuszczenia przywieszki wersji"
+  },
+  'Uploading archive' => {
+    'lastUpdated' => '1265116995',
+    'message' => "Wysy\x{142}anie archiwum"
+  },
+  'add photo' => {
+    'lastUpdated' => '1252413653',
+    'message' => "Dodaj zdj\x{119}cie"
+  },
   'addArchive error generic' => {
     'lastUpdated' => '1237974217',
     'message' => "Wyst\x{105}pi\x{142} b\x{142}\x{105}d podczas \x{142}adowania twojego archiwum: %s"
@@ -21,9 +45,29 @@ our $I18N = {
     'lastUpdated' => '1237827820',
     'message' => 'Tagi'
   },
+  'addArchive location' => {
+    'lastUpdated' => '1276671067',
+    'message' => 'Lokalizacja'
+  },
   'addArchive message' => {
     'lastUpdated' => '1237974277',
     'message' => "Twoje pliki zosta\x{142}y wys\x{142}ane do akceptacji. <a href=\"%s\">Powr\x{f3}t do albumu</a>"
+  },
+  'addArchive sortBy' => {
+    'lastUpdated' => '1276671088',
+    'message' => "Sortuj wed\x{142}ug"
+  },
+  'addArchive sortBy date' => {
+    'lastUpdated' => '1276671094',
+    'message' => 'Data'
+  },
+  'addArchive sortBy fileOrder' => {
+    'lastUpdated' => '1276671112',
+    'message' => "Kolejno\x{15b}\x{107} pliku"
+  },
+  'addArchive sortBy name' => {
+    'lastUpdated' => '1276671117',
+    'message' => 'Nazwa'
   },
   'assetName' => {
     'lastUpdated' => '1237826981',
@@ -189,9 +233,25 @@ our $I18N = {
     'lastUpdated' => '1237982047',
     'message' => "Zmienna zwracaj\x{105}ca pole na s\x{142}owa kluczowe dla za\x{142}adowanych plik\x{f3}w."
   },
+  'helpvar form_location' => {
+    'lastUpdated' => '1276670886',
+    'message' => 'Lokalizacja dla wgrywanych plików.'
+  },
   'helpvar form_promote' => {
     'lastUpdated' => '1237981297',
     'message' => "Zmienna zwracaj\x{105}ca przycisk awansuj\x{105}cy obraz w rankingu. U\x{17c}yj jej do zmiany kolejno\x{15b}ci obraz\x{f3}w."
+  },
+  'helpvar form_rotateLeft' => {
+    'lastUpdated' => '1276670918',
+    'message' => "Przycisk pozwalaj\x{105}cy obr\x{f3}ci\x{107} obrazek o 90&deg; w lewo."
+  },
+  'helpvar form_rotateRight' => {
+    'lastUpdated' => '1276670946',
+    'message' => "Przycisk pozwalaj\x{105}cy obr\x{f3}ci\x{107} obrazek o 90&deg; w prawo."
+  },
+  'helpvar form_sortBy' => {
+    'lastUpdated' => '1276671050',
+    'message' => "W\x{142}asno\x{15b}\x{107} zgodnie z kt\x{f3}r\x{105} b\x{119}d\x{105} sortowane zdj\x{119}cia."
   },
   'helpvar form_start' => {
     'lastUpdated' => '1237981495',
@@ -328,6 +388,18 @@ our $I18N = {
   'helpvar url_yes' => {
     'lastUpdated' => '1237974471',
     'message' => "Potwierdzenie usuni\x{119}cia albumu."
+  },
+  'return to album' => {
+    'lastUpdated' => '1252413663',
+    'message' => 'Powrót do albumu'
+  },
+  'rotate left' => {
+    'lastUpdated' => '1276670820',
+    'message' => '90&deg; w lewo'
+  },
+  'rotate right' => {
+    'lastUpdated' => '1276670805',
+    'message' => '90&deg; w prawo'
   },
   'save' => {
     'lastUpdated' => '1237827000',

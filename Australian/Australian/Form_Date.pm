@@ -5,12 +5,12 @@ use strict;
 our $I18N = {
     'Choose a date' => {
         'context'     => 'Label for the datepicker javascript',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Choose a date'
     },
     'Invalid year' => {
         'context'     => 'Label for the datepicker javascript',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Please enter a valid year.'
     }
 };

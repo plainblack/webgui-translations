@@ -1,6 +1,38 @@
 package WebGUI::i18n::German::Asset_Dashboard;
 use utf8;
 our $I18N = {
+  'Add New Content' => {
+    'lastUpdated' => '1301989131',
+    'message' => 'Neue Inhalte hinzufügen'
+  },
+  'Dashboard Template Variables' => {
+    'lastUpdated' => '1301989146',
+    'message' => 'Dashboard Template-Variablen'
+  },
+  'Edit Dashlet' => {
+    'lastUpdated' => '1301989157',
+    'message' => 'Dashlet bearbeiten'
+  },
+  'Is required' => {
+    'lastUpdated' => '1303289901',
+    'message' => 'Pflicht-Dashlet'
+  },
+  'Is required help' => {
+    'lastUpdated' => '1303289892',
+    'message' => 'Darf dieses Dashlet vom Nutzer des Dashboards gelöscht werden?'
+  },
+  'Is static' => {
+    'lastUpdated' => '1303289947',
+    'message' => 'Statisches Dashlet'
+  },
+  'Is static help' => {
+    'lastUpdated' => '1303289934',
+    'message' => 'Darf dieses Dashlet vom Nutzer des Dashboards verschoben werden?'
+  },
+  'adminsGroupId' => {
+    'lastUpdated' => '1303290002',
+    'message' => 'Die GUID der Gruppe, die die Standardansicht des Dashboards für Besucher festlegen darf.'
+  },
   'assetName' => {
     'lastUpdated' => '1164282567',
     'message' => 'Dashboard'
@@ -12,6 +44,10 @@ our $I18N = {
   'assets to hide description' => {
     'lastUpdated' => '1180078717',
     'message' => 'Diese Liste entält ein Auswahlfeld für jedes Asset auf der Seite. W&auml;hlen Sie hier die Assets aus, die nicht auf der Seite dargestellt werden sollen.'
+  },
+  'content' => {
+    'lastUpdated' => '1301989188',
+    'message' => 'Dashlet-Inhalt'
   },
   'dashboard adminsGroupId description' => {
     'lastUpdated' => '1180079188',
@@ -40,6 +76,10 @@ our $I18N = {
   'hide new content list' => {
     'lastUpdated' => '1234738453',
     'message' => '"Neuer Inhalt" verbergen'
+  },
+  'id' => {
+    'lastUpdated' => '1303290025',
+    'message' => 'Asset-ID des aktuellen Dashlets'
   }
 }
 ;

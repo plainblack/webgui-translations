@@ -5,11 +5,11 @@ use strict;
 our $I18N = {
     'group not found' => {
         'context'     => 'Error message when a group is not found during a by-name lookup of groups.',
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Group %s was not found'
     },
     'macroName' => {
-        'lastUpdated' => 1270751501,
+        'lastUpdated' => 1270834474,
         'message'     => 'Group Text'
     }
 };

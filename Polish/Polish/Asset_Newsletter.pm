@@ -6,8 +6,8 @@ our $I18N = {
     'message' => 'Newsletter'
   },
   'categoriesLoop' => {
-    'lastUpdated' => '1238074122',
-    'message' => ''
+    'lastUpdated' => '1276692928',
+    'message' => "P\x{119}tla zawieraj\x{105}ca wszystkie kategorie danych kt\x{f3}re mog\x{105} by\x{107} wybrane przez u\x{17c}ytkownik\x{f3}w."
   },
   'categoryName' => {
     'lastUpdated' => '1238074185',

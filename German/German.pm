@@ -29,15 +29,6 @@ $value =~ s/[^A-Za-z0-9\-\.\_\/]//g; #removes all funky characters
 $value =~ s/\/\/+/\//g; #merges multiple /
 $value =~ s/^\///;     #removes a leading /
 $value =~ s/\/$//;     #removes a trailing /
-
-
-
-
-
-
-
-
-
 ##<-- end transliteration -->##
     $value =~ s/\s+$//;                     #removes trailing whitespace
     $value =~ s/^\s+//;                     #removes leading whitespace

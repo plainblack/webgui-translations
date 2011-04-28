@@ -233,6 +233,10 @@ eingeben, zeigt das Syndizierte Inhalte Weboject Meldungen aus allen aggregierte
     'lastUpdated' => '1252274111',
     'message' => 'Die Maximalzahl von Überschriften, die angezeigt werden.'
   },
+  'media' => {
+    'lastUpdated' => '1301988962',
+    'message' => '<span>Alle MediaRSS-Einträge für dieses Item: die Struktur ist direkt aus <a href="http://search.cpan.org/perldoc?XML::FeedPP::MediaRSS#KEYS">XML::FeedPP::MediaRSS<br></a> kopiert</span>'
+  },
   'new_rss_site' => {
     'lastUpdated' => undef,
     'message' => ''
@@ -246,8 +250,8 @@ eingeben, zeigt das Syndizierte Inhalte Weboject Meldungen aus allen aggregierte
     'message' => 'Makros in RSS URLs ausführen'
   },
   'process macros in rss url description' => {
-    'lastUpdated' => '1252274320',
-    'message' => 'Wenn Sie hier Ja auswählen, können Sie in URS Makros benutzen'
+    'lastUpdated' => '1283623233',
+    'message' => 'Wenn Sie hier Ja auswählen, können Sie in URLs Makros benutzen'
   },
   'processMacrosInRssUrl' => {
     'lastUpdated' => '1252274394',

@@ -110,8 +110,8 @@ our $I18N = {
     'message' => "Jak tylko konto zostanie utworzone has\x{142}o natychmiast wyga\x{15b}nie."
   },
   'account activation template' => {
-    'lastUpdated' => '1237551535',
-    'message' => ''
+    'lastUpdated' => '1270552865',
+    'message' => "Szablon wiadomo\x{15b}ci aktywacji konta"
   },
   'account template' => {
     'lastUpdated' => '1204241513',
@@ -154,8 +154,8 @@ our $I18N = {
     'message' => 'Wskazuje, czy formularz danych konta posiada jakiekolwiek widoczne pola.'
   },
   'activationUrl' => {
-    'lastUpdated' => '1237551577',
-    'message' => ''
+    'lastUpdated' => '1263295670',
+    'message' => 'Adres URL do aktywacji nowo utworzonego konta.'
   },
   'anon reg template title' => {
     'lastUpdated' => '1228859883',
@@ -358,12 +358,12 @@ our $I18N = {
     'message' => 'Adres URL dla strony logowania.'
   },
   'new password help' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295751',
+    'message' => "Wprowad\x{17a} nowe has\x{142}o"
   },
   'new password label' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295768',
+    'message' => "Nowe has\x{142}o"
   },
   'new password verify' => {
     'lastUpdated' => undef,
@@ -377,21 +377,25 @@ our $I18N = {
     'lastUpdated' => '1204241690',
     'message' => "zako\x{144}cz anonimow\x{105} rejestracj\x{119} klikaj\x{105}c bezpo\x{15b}rednio adres URL createAccountSave."
   },
+  'password recovery disabled' => {
+    'lastUpdated' => '1263295843',
+    'message' => "Twoje konto zosta\x{142}o wy\x{142}\x{105}czone. Nie mo\x{17c}esz odzyska\x{107} has\x{142}a, dop\x{f3}ki nie zostanie uaktywnione."
+  },
   'password recovery email hoverHelp' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295906',
+    'message' => "Wprowad\x{17a} sw\x{f3}j adres email"
   },
   'password recovery email label' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295918',
+    'message' => 'Adres email'
   },
   'password recovery login hoverHelp' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295935',
+    'message' => "Wprowad\x{17a} nazw\x{119} u\x{17c}ytkownika"
   },
   'password recovery login label' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263295984',
+    'message' => "Wprowad\x{17a} login"
   },
   'password recovery multiple results' => {
     'lastUpdated' => '1204241802',
@@ -414,20 +418,20 @@ our $I18N = {
     'message' => ''
   },
   'recover password email text1' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296042',
+    'message' => "Otrzymali\x{15b}my pro\x{15b}b\x{119} o zmian\x{119} has\x{142}a dla"
   },
   'recover password email text2' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296122',
+    'message' => "Prosz\x{119} u\x{17c}y\x{107} poni\x{17c}szego linku do odwiedzenia strony w celu zmiany has\x{142}a."
   },
   'recover password email text3' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   'recover password not found' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296389',
+    'message' => "W systemie nie istnieje u\x{17c}ytkownik pasuj\x{105}cy do podanych przez ciebie danych."
   },
   'recover.form.footer' => {
     'lastUpdated' => '1149220395',
@@ -494,20 +498,20 @@ our $I18N = {
     'message' => "Wymaga\x{107} nazwy u\x{17c}ytkownika dla odzyskania has\x{142}a?"
   },
   'setting passwordRecoveryType email' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296414',
+    'message' => 'Adres email'
   },
   'setting passwordRecoveryType none' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296423',
+    'message' => 'Nie'
   },
   'setting passwordRecoveryType profile' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296445',
+    'message' => 'Pola profilu'
   },
   'setting webguiNonWordCharacters' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1263296580',
+    'message' => "Liczba znak\x{f3}w spoza zbioru liter od A-Z wymagana w ha\x{15b}le"
   },
   'setting webguiRequiredDigits' => {
     'lastUpdated' => undef,
@@ -529,6 +533,10 @@ our $I18N = {
     'lastUpdated' => '1204241990',
     'message' => "U\x{17c}ywa\x{107} obrazek kontrolny?"
   },
+  'use email as username label' => {
+    'lastUpdated' => '1263296717',
+    'message' => "U\x{17c}yj adresu email jako nazwy u\x{17c}ytkownika"
+  },
   'validate email' => {
     'lastUpdated' => '1204241996',
     'message' => "Potwierdza\x{107} adres e-mail?"
@@ -540,6 +548,10 @@ our $I18N = {
   'webguiPasswordRecoveryRequireUsername hoverHelp' => {
     'lastUpdated' => '1204242021',
     'message' => "Ustaw &quot;Tak&quot; je\x{15b}li chcesz aby u\x{17c}ytkownicy podawali nazw\x{119} konta podczas odzyskiwania has\x{142}a.  W przeciwnym razie b\x{119}d\x{105} mogli zmieni\x{107} has\x{142}a i logowa\x{107} do systemu wykorzystuj\x{105}c wy\x{142}\x{105}cznie warto\x{15b}ci w oznaczonych dla procedury odzyskania polach. Znajomo\x{15b}\x{107} nazwy konta nie b\x{119}dzie wymagana."
+  },
+  'welcome message template' => {
+    'lastUpdated' => '1263296783',
+    'message' => "Szablon wiadomo\x{15b}ci powitalnej"
   }
 }
 ;

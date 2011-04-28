@@ -213,6 +213,10 @@ our $I18N = {
     'lastUpdated' => '1274108258',
     'message' => 'Vul de staat of provincie in voor het factuuradres.'
   },
+  'billingAddressChooser help' => {
+    'lastUpdated' => '1278062332',
+    'message' => 'Een dropdown menu om een factuuradres te kiezen.'
+  },
   'biweekly' => {
     'lastUpdated' => '1213968466',
     'message' => 'Twee weken'
@@ -393,6 +397,10 @@ our $I18N = {
     'lastUpdated' => '1225914524',
     'message' => 'E-mail'
   },
+  'emailField help' => {
+    'lastUpdated' => '1278062352',
+    'message' => 'Een veld met het e-mailadres van dit adres.'
+  },
   'empty cart' => {
     'lastUpdated' => '1219727781',
     'message' => 'Momenteel is de winkelwagen leeg.'
@@ -410,8 +418,8 @@ our $I18N = {
     'message' => 'Exportbelastingen'
   },
   'extended price' => {
-    'lastUpdated' => '1216724624',
-    'message' => 'Uitgebreide prijs'
+    'lastUpdated' => '1286873319',
+    'message' => 'Totaalprijs'
   },
   'extendedPrice help' => {
     'lastUpdated' => '1216724730',
@@ -509,6 +517,10 @@ our $I18N = {
     'lastUpdated' => '1216729717',
     'message' => 'Het assetId van dit object.'
   },
+  'item extendedPricePlusTax help' => {
+    'lastUpdated' => '1280492298',
+    'message' => 'De hoeveelheid BTW plus de prijs van het item maal de hoeveelheid items in de winkelwagen. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
   'item lastUpdated' => {
     'lastUpdated' => '1216730339',
     'message' => 'De datum waarop dit tranactie item het laatst vernieuwd is.'
@@ -524,6 +536,10 @@ our $I18N = {
   'item price' => {
     'lastUpdated' => '1216730460',
     'message' => 'De ongeformatteerde prijs van deze SKU.'
+  },
+  'item pricePlusTax help' => {
+    'lastUpdated' => '1280492292',
+    'message' => 'De hoeveelheid BTW plus de prijs van het item. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
   },
   'item quantity' => {
     'lastUpdated' => '1226910763',
@@ -573,6 +589,14 @@ our $I18N = {
     'lastUpdated' => '1216730901',
     'message' => 'De toegekende naam van het verzendadres van dit object.'
   },
+  'item taxAmount help' => {
+    'lastUpdated' => '1280492315',
+    'message' => 'De hoeveelheid BTW bij dit item. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
+  'item taxRate help' => {
+    'lastUpdated' => '1280492333',
+    'message' => 'Het BTW tarief van dit item. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
   'item transactionId' => {
     'lastUpdated' => '1216730933',
     'message' => 'De ID van de tranactie waaronder dit object valt.'
@@ -584,6 +608,10 @@ our $I18N = {
   'item vendorId' => {
     'lastUpdated' => '1216730996',
     'message' => 'De ID van de verkoper van dit object.'
+  },
+  'itemAddressChooser help' => {
+    'lastUpdated' => '1280492396',
+    'message' => 'Een uitklapmenu voor het kiezen van een adres voor een los product.'
   },
   'itemId' => {
     'lastUpdated' => '1216731091',
@@ -617,6 +645,26 @@ our $I18N = {
     'lastUpdated' => '1216734319',
     'message' => 'U moet ingelogd zijn om af te rekenen. Klik <a href="%s">hier</a> om in te loggen.'
   },
+  'loginFormButton help' => {
+    'lastUpdated' => '1280492432',
+    'message' => 'Een knop voor het indienen van het login formulier. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
+  'loginFormFooter help' => {
+    'lastUpdated' => '1280492448',
+    'message' => 'Het einde van het login formulier. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
+  'loginFormHeader help' => {
+    'lastUpdated' => '1280492464',
+    'message' => 'Het begin van het login formulier. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
+  'loginFormPassword help' => {
+    'lastUpdated' => '1280492504',
+    'message' => 'Een tekstveld waar de gebruiker het wachtwoord verborgen in kan voeren. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
+  'loginFormUsername help' => {
+    'lastUpdated' => '1280492531',
+    'message' => 'Een tekstveld waar de gebruiker de naam in kan voeren. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
   'manage' => {
     'lastUpdated' => '1213968361',
     'message' => '<p>Beheren </p>'
@@ -629,6 +677,10 @@ our $I18N = {
     'lastUpdated' => '1216734365',
     'message' => 'Dit sjabloon toont informatie over transacties aan de gebruiker.'
   },
+  'message help' => {
+    'lastUpdated' => '1280492560',
+    'message' => 'Wanneer de winkelwagen leeg is, wordt dit bericht getoond aan de gebruiker.'
+  },
   'minicart template' => {
     'lastUpdated' => '1216734379',
     'message' => 'Miniwinkelwagen sjabloon'
@@ -636,6 +688,10 @@ our $I18N = {
   'minicart template help' => {
     'lastUpdated' => '1216734412',
     'message' => 'De volgende variablen zijn beschikbaar in het sjabloon van het Miniwinkelwagen macro.'
+  },
+  'minimumCartAmount help' => {
+    'lastUpdated' => '1280492606',
+    'message' => 'De minimale hoeveelheid met twee decimalen, zoals dit in de instellingen is ingesteld.'
   },
   'mixed items warning' => {
     'lastUpdated' => '1216734579',
@@ -785,6 +841,10 @@ our $I18N = {
     'lastUpdated' => '1216652610',
     'message' => 'De staat of provincie van het factuuradres.'
   },
+  'paymentOptions help' => {
+    'lastUpdated' => '1280492639',
+    'message' => 'Een selectielijst die alle betalingsopties van deze bestelling bevat.'
+  },
   'per item shipping' => {
     'lastUpdated' => '1216732174',
     'message' => 'Losse objecten verzenden'
@@ -857,9 +917,17 @@ our $I18N = {
     'lastUpdated' => '1215446275',
     'message' => 'Terugstorten'
   },
+  'registerLink help' => {
+    'lastUpdated' => '1280492682',
+    'message' => 'Een link waar een gebruiker naartoe kan gaan om te registreren. Deze variabele heeft alleen een waarde als de huidige gebruiker niet de Bezoeker gebruiker is.'
+  },
   'remove button' => {
     'lastUpdated' => '1215446283',
     'message' => 'Verwijderen'
+  },
+  'removeBox help' => {
+    'lastUpdated' => '1280492740',
+    'message' => 'Een veld dat, wanneer aangevinkt, ervoor zorgt dat een item uit de winkelwagen gehaald kan worden.'
   },
   'removeButton help' => {
     'lastUpdated' => '1216732463',
@@ -876,6 +944,10 @@ our $I18N = {
   'sale notification group help' => {
     'lastUpdated' => '1256113102',
     'message' => 'Wie moet op de hoogte gehouden worden van nieuwe transacties?'
+  },
+  'sameShippingAsBilling help' => {
+    'lastUpdated' => '1280492973',
+    'message' => 'Een veld dat, wanneer aangevinkt, de winkelwagen meedeelt dat het verzend -en factuuradres hetzelfde zijn.'
   },
   'saveButton help' => {
     'lastUpdated' => '1216732492',
@@ -926,8 +998,8 @@ our $I18N = {
     'message' => 'Vul aub een straatnaam en huisnummer in voor het verzendadres.'
   },
   'shipping amount' => {
-    'lastUpdated' => '1216652012',
-    'message' => 'Hoeveelheid te verzenden'
+    'lastUpdated' => '1284129924',
+    'message' => 'Verzendkosten'
   },
   'shipping city' => {
     'lastUpdated' => '1274108540',
@@ -984,6 +1056,10 @@ our $I18N = {
   'shippingAddress3' => {
     'lastUpdated' => '1216651614',
     'message' => 'De derde regel in een verzendadres met meer regels.<br /> '
+  },
+  'shippingAddressChooser help' => {
+    'lastUpdated' => '1280493025',
+    'message' => 'Een uitklapmenu voor het kiezen van het stanaard verzendadres voor alle items in de iwnkelwagen. Bevat ook acties voor het bewerken en toevoegen van adressen.'
   },
   'shippingAddressCity' => {
     'lastUpdated' => '1216651632',
@@ -1168,6 +1244,10 @@ our $I18N = {
   'userId' => {
     'lastUpdated' => '1216719821',
     'message' => 'De gebruikers ID van de gebruiker die deze transactie heeft uitgevoerd.'
+  },
+  'userIsVisitor help' => {
+    'lastUpdated' => '1278062392',
+    'message' => 'Een functie die waar is wanneer de huidige gebruiker de Bezoeker gebruiker is.'
   },
   'username' => {
     'lastUpdated' => '1213968124',

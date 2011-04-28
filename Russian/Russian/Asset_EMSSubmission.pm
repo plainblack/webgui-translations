@@ -4,6 +4,10 @@ our $I18N = {
   'comments' => {
     'lastUpdated' => '1260579622',
     'message' => "\x{41a}\x{43e}\x{43c}\x{43c}\x{435}\x{43d}\x{442}\x{430}\x{440}\x{438}\x{438}"
+  },
+  'subject' => {
+    'lastUpdated' => '1268095285',
+    'message' => "\x{422}\x{435}\x{43c}\x{430}"
   }
 }
 ;
