@@ -45,6 +45,26 @@ our $I18N = {
     'lastUpdated' => '1180078717',
     'message' => 'Diese Liste entält ein Auswahlfeld für jedes Asset auf der Seite. W&auml;hlen Sie hier die Assets aus, die nicht auf der Seite dargestellt werden sollen.'
   },
+  'canDelete' => {
+    'lastUpdated' => '1304371313',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn der aktuelle Benutzer in der Gruppe ist, die das Dashboard personalisieren darf und wenn dieses Dashlet nicht als Pflicht-Dashlet konfiguriert ist.'
+  },
+  'canEdit' => {
+    'lastUpdated' => '1304371346',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn der aktuelle Benutzer dieses Dashboard bearbeiten darf.'
+  },
+  'canEditUserPrefs' => {
+    'lastUpdated' => '1304371505',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn der aktuelle Benutzer in der Gruppe der "Registrierte Benutzer" ist, das Dashlet eine Verknüpfung ist und die Verknüpfung konfigurierbare Einstellungen hat.'
+  },
+  'canMove' => {
+    'lastUpdated' => '1304371581',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn der aktuelle Benutzer in der Gruppe ist, die das Dashbaord personalisieren darf und das Dashlet nicht als statisch konfiguriert ist.'
+  },
+  'canPersonalize' => {
+    'lastUpdated' => '1304371608',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn der aktuelle Benutzer in der Gruppe ist, die das Dashbaord personalisieren darf.'
+  },
   'content' => {
     'lastUpdated' => '1301989188',
     'message' => 'Dashlet-Inhalt'
@@ -77,6 +97,26 @@ our $I18N = {
     'lastUpdated' => '1180079505',
     'message' => 'Wer darf personalisieren?'
   },
+  'dashletTitle' => {
+    'lastUpdated' => '1304371633',
+    'message' => 'Titel des Dashlets, der reine Asset-Titel'
+  },
+  'dashletUrl' => {
+    'lastUpdated' => '1304371646',
+    'message' => 'URL zu diesem Dashlet'
+  },
+  'dragger.init' => {
+    'lastUpdated' => '1304371698',
+    'message' => 'Javascript zum initialisieren des Dashboards. Sollte am Ende des Templates stehen.'
+  },
+  'editFormUrl' => {
+    'lastUpdated' => '1304371886',
+    'message' => 'URL um das Benutzer-Überschreibungsformular für dieses Dashlet zu holen. Es ist Verknüpfungs-basiert oder ein normales Asset mit Überschreibungen.'
+  },
+  'fullUrl' => {
+    'lastUpdated' => '1304371951',
+    'message' => 'Vollständiger URL zu diesem Dashboard inklusive Sitename und jeglicher Gateway-Konfiguration.'
+  },
   'hide new content list' => {
     'lastUpdated' => '1234738453',
     'message' => '"Neuer Inhalt" verbergen'
@@ -84,6 +124,30 @@ our $I18N = {
   'id' => {
     'lastUpdated' => '1303290025',
     'message' => 'Asset-ID des aktuellen Dashlets'
+  },
+  'isInitialized' => {
+    'lastUpdated' => '1304372013',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn dieses Dashboard initialisiert wurde. Mehr müssen Sie dazu gar nicht wissen.'
+  },
+  'positionN_loop' => {
+    'lastUpdated' => '1304372157',
+    'message' => 'Standardmäßig gibt es vier Positionen, nummeriert mit 1, 2, 3 und 4. Jede Schleife enthält die Liste der darin platzierten Assets. Position 1 hat eine besondere Funktion, sie enthält auch alle Assets, die vom Benutzer nicht gesondert platziert wurden.'
+  },
+  'shortcutUrl' => {
+    'lastUpdated' => '1304372197',
+    'message' => 'Falls dieses Dashlet eine Verknüfung ist, der URL der Verknüpfung.'
+  },
+  'showReloadIcon' => {
+    'lastUpdated' => '1304372277',
+    'message' => 'Ein boolscher Wert, der wahr ist, wenn das Dashlet eine Verknüpfung ist und die Show Reload Icon - Eigenschaft auf wahr gesetzt ist.'
+  },
+  'templateId' => {
+    'lastUpdated' => '1304372316',
+    'message' => 'Die GUID des Templates, das zur Anzeige des Dashboards genutzt wird.'
+  },
+  'usersGroupId' => {
+    'lastUpdated' => '1304372368',
+    'message' => 'Die GUID der Gruppe, die die Erlaubnis hat, das Aussehen des eigenen Dashboards anzupassen.'
   }
 }
 ;
