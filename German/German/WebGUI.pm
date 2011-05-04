@@ -1969,6 +1969,10 @@ our $I18N = {
     'lastUpdated' => '1238257007',
     'message' => 'Werberaum'
   },
+  'Add' => {
+    'lastUpdated' => '1304526520',
+    'message' => 'Hinzufügen'
+  },
   'Addons title' => {
     'lastUpdated' => '1285235314',
     'message' => 'Addons'
@@ -2012,6 +2016,10 @@ our $I18N = {
   'Discuss your ideas and get help from our community.' => {
     'lastUpdated' => '1225319495',
     'message' => 'Teilen Sie uns Ihre Ideen mit und erfahren Sie die Unterstützung unserer Community'
+  },
+  'Down' => {
+    'lastUpdated' => '1304526534',
+    'message' => 'nach unten'
   },
   'Enable Metadata' => {
     'lastUpdated' => '1180077207',
@@ -2120,6 +2128,10 @@ our $I18N = {
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1224799495',
     'message' => 'Danke für Ihre Nachricht bzgl. ^c;. Wir werden diese bald bearbeiten.'
+  },
+  'Up' => {
+    'lastUpdated' => '1304526541',
+    'message' => 'Nach oben'
   },
   'Upload an attachment' => {
     'lastUpdated' => '1234735008',

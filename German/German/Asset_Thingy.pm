@@ -747,6 +747,10 @@ Wenn Sie "verborgen" oder "sichtbar" wählen, geben Sie bitte auch einen Standar
     'lastUpdated' => '1240471739',
     'message' => 'Tabellenvorlage'
   },
+  'variables by label' => {
+    'lastUpdated' => '1304526771',
+    'message' => 'In Ergänzung zum filed_loop können Felder auch direkt über ihr Label angesprochen werden. Prüfen Sie bitte in der Dokumentation des verwendeten Template-Plugins, wie Sonderzeichen, z.B. Leerzeichen oder Anführungszeichen, behandelt werden müssen.'
+  },
   'vertical description' => {
     'lastUpdated' => '1227000728',
     'message' => 'Diese Eigenschaft bestimmt ob Knöpfe horizontal oder vertikal angezeigt werden.'
