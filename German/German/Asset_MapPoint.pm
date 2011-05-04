@@ -125,6 +125,14 @@ our $I18N = {
     'lastUpdated' => '1271850538',
     'message' => 'HTML-Code der das Bearbeitungsformular startet'
   },
+  'form_isGeocoded' => {
+    'lastUpdated' => '1304526870',
+    'message' => 'Ein Checkbox-Feld, das angibt, ob der Map Point anhand seiner Adresse direkt auf der Karte platziert werden soll.'
+  },
+  'form_isHidden' => {
+    'lastUpdated' => '1304526921',
+    'message' => 'Ein ja/nein-Feld, das anzeigt, ob der Map Point in der Navigationsrouten angezeigt werden soll.'
+  },
   'form_phone' => {
     'lastUpdated' => '1271850256',
     'message' => 'Textfeld zur Eingabe einer Telefonnummer'
@@ -156,6 +164,14 @@ our $I18N = {
   'form_zipCode' => {
     'lastUpdated' => '1271850770',
     'message' => 'Textfeld zur Eingabe der PLZ'
+  },
+  'isGeocoded description' => {
+    'lastUpdated' => '1304527094',
+    'message' => 'Wählen Sie, ob der Map Point anhand von Längen- und Breitengrad, dynamisch aus der angegebenen Adresse ermittelt, automatisch platziert werden soll. Mit "ja" ist der Map Point nicht mehr auf der Karte verschiebbar.'
+  },
+  'isGeocoded label' => {
+    'lastUpdated' => '1304527124',
+    'message' => 'Automatisch Positioniert'
   },
   'latitude' => {
     'lastUpdated' => '1271849920',
