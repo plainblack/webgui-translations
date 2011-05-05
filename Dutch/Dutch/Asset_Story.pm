@@ -161,6 +161,10 @@ our $I18N = {
     'lastUpdated' => '1250240976',
     'message' => 'De URL van de afbeelding als deze foto een afbeelding heeft.'
   },
+  'imgRemoteUrlForm' => {
+    'lastUpdated' => '1304600525',
+    'message' => 'Een formulierveld voor het specificeren van een URL van een foto.'
+  },
   'imgThumb' => {
     'lastUpdated' => '1250241056',
     'message' => 'De URL van de miniatuurafbeelding als de foto een afbeelding heeft.'
@@ -232,6 +236,10 @@ our $I18N = {
   'photo delete' => {
     'lastUpdated' => '1250240987',
     'message' => 'Verwijder foto en metadata'
+  },
+  'photo remote url' => {
+    'lastUpdated' => '1304600543',
+    'message' => 'Foto URL'
   },
   'photo title' => {
     'lastUpdated' => '1248178338',
