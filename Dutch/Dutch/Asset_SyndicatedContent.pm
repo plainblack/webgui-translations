@@ -229,6 +229,10 @@ our $I18N = {
     'lastUpdated' => '1170692326',
     'message' => 'Het maximum aantal koppen dat wordt weergegeven. '
   },
+  'media' => {
+    'lastUpdated' => '1304600276',
+    'message' => 'MediaRSS behornde bij het object. De structuur is direct gekopieerd van <a href="http://search.cpan.org/perldoc?XML::FeedPP::MediaRSS#KEYS">XML::FeedPP::MediaRSS</a>.'
+  },
   'new_rss_site' => {
     'lastUpdated' => '1207904293',
     'message' => 'Een variabele (te gebruiken als tmpl_if tag) die bepaalt of het huidige item van hetzelfde RSS bestand is als het vorige item. Deze optie is zeer bruikbaar als u de bestanden gegroepeerd weergeeft. Hierdoor kunt u bijvoorbeeld per groep de site_title en de site_link weergeven.'

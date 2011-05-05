@@ -1987,6 +1987,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'lastUpdated' => '1242135166',
     'message' => 'Advertentie ruimte'
   },
+  'Add' => {
+    'lastUpdated' => '1304600312',
+    'message' => 'Toevoegen'
+  },
   'Addons title' => {
     'lastUpdated' => '1285166519',
     'message' => 'Plugins'
@@ -2030,6 +2034,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
   'Discuss your ideas and get help from our community.' => {
     'lastUpdated' => '1222936863',
     'message' => 'Bespreek je idee&euml;n en krijg hulp van de gemeenschap.'
+  },
+  'Down' => {
+    'lastUpdated' => '1304600328',
+    'message' => 'Naar beneden'
   },
   'Enable Metadata' => {
     'lastUpdated' => '1156171376',
@@ -2138,6 +2146,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1222938085',
     'message' => 'Dedankt voor uw interesse in ^c;. We zullen uw bericht spoedig evalueren.'
+  },
+  'Up' => {
+    'lastUpdated' => '1304600337',
+    'message' => 'Naar boven'
   },
   'Upload an attachment' => {
     'lastUpdated' => '1231520617',
@@ -2709,6 +2721,18 @@ LongTruncOk=1'
   'options.display' => {
     'lastUpdated' => '1201183342',
     'message' => 'Een volledige HTML link, met geinternationaliseerd label, voor individuele account opties, zoals het bewerken van een profiel, het bekijken van een profiel, het kunnen bekijken van de inbox van een gebruiker en meer.'
+  },
+  'or' => {
+    'lastUpdated' => '1304600353',
+    'message' => 'of'
+  },
+  'override user email preference' => {
+    'lastUpdated' => '1304600399',
+    'message' => 'Gebruikers e-mailinstellingen negeren?'
+  },
+  'override user email preference description' => {
+    'lastUpdated' => '1304600450',
+    'message' => 'Stuur de mail onafhankelijk van de gebruikersinstellingen van de gebruiker wat betreft het ontvangen van notificaties.'
   },
   'packages' => {
     'lastUpdated' => '1155907695',

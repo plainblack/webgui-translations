@@ -77,6 +77,10 @@ our $I18N = {
     'lastUpdated' => '1242721133',
     'message' => 'Items'
   },
+  'rich editor description' => {
+    'lastUpdated' => '1304600079',
+    'message' => 'Kies een tekstbewerker voor het invoeren van tekst in elk paneel van de Caroussel. De nieuwe setting wordt gebruikt vanaf de volgende keer dat de caroussel bewerkt wordt.'
+  },
   'sequenceNumber' => {
     'lastUpdated' => '1242721200',
     'message' => 'Het reeksnummer van het carrousel item'

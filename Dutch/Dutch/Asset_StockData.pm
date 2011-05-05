@@ -81,6 +81,10 @@ our $I18N = {
     'lastUpdated' => '1154528413',
     'message' => 'Beurscijfers'
   },
+  'cache timeout help' => {
+    'lastUpdated' => '1304600154',
+    'message' => 'Hoe lang moeten de opgezochte waarden van aandelen bewaard worden. Let erop dat het standaard sjabloon javascript gebruikt dat vanaf de browser de data ophaalt.'
+  },
   'defaultStocks' => {
     'lastUpdated' => '1189373007',
     'message' => 'De standaard lijst van aandelen als de gebruiker er nog geen gekozen heeft. Dit is een tekst waarin elk aandeel op een nieuwe regel staat.'
