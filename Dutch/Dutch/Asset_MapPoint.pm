@@ -198,8 +198,8 @@ our $I18N = {
     'message' => 'Longitude'
   },
   'map point asset template variables' => {
-    'lastUpdated' => '1272463787',
-    'message' => 'Kaart locatie sjabloon variabelen'
+    'lastUpdated' => '1304607640',
+    'message' => 'Kaart locatie sjabloonvariabelen'
   },
   'phone' => {
     'lastUpdated' => '1271836023',
