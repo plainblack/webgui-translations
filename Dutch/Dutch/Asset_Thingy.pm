@@ -741,6 +741,10 @@ our $I18N = {
     'lastUpdated' => '1206449144',
     'message' => 'Thingy sjabloon'
   },
+  'variables by label' => {
+    'lastUpdated' => '1304599751',
+    'message' => 'Als toevoeging op de functie field_loop, kunnen veldwaarden direct aangesproken worden via het label. Raadpleeg de documentatie voor de sjabloon plugin die gebruikt wordt voor het verwerken van niet standaard karakters zoals spaties of aanhalingstekens in het label.'
+  },
   'vertical description' => {
     'lastUpdated' => '1205854727',
     'message' => 'Deze eigenschap bepaalt of radio knoppen en aanvinklijsten horizontaal of vertikaal worden afgebeeld.'

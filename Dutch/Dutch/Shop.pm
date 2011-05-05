@@ -457,6 +457,10 @@ our $I18N = {
     'lastUpdated' => '1213971510',
     'message' => 'Een functie die aangeeft of de gebruiker al een verzendadres heeft opgegeven. Dit adres is altijd nodig om belastingen te berekenen.'
   },
+  'hasSku' => {
+    'lastUpdated' => '1304599856',
+    'message' => 'Een functie die waar is als het asset dat naar dit object refereert zich nog steeds in WebGUI bevindt. Als de waarde van de functie "niet waar" is, moet de variabele viewItemUrl niet gebruikt worden.'
+  },
   'import' => {
     'lastUpdated' => '1213968590',
     'message' => 'Importeren'
@@ -588,6 +592,10 @@ our $I18N = {
   'item shippingName' => {
     'lastUpdated' => '1216730901',
     'message' => 'De toegekende naam van het verzendadres van dit object.'
+  },
+  'item sku deleted' => {
+    'lastUpdated' => '1304599876',
+    'message' => 'Het asset van dit object kan niet geinstancieerd worden.'
   },
   'item taxAmount help' => {
     'lastUpdated' => '1280492315',

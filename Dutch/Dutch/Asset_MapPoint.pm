@@ -125,6 +125,14 @@ our $I18N = {
     'lastUpdated' => '1272463662',
     'message' => 'HTML code om het formulier mee te beginnen.'
   },
+  'form_isGeocoded' => {
+    'lastUpdated' => '1304599384',
+    'message' => 'Eeen aanvinkveld waarmee aangegeven wordt of het punt automatisch op de kaart gezet moet worden met behulp van de adresgegevens.'
+  },
+  'form_isHidden' => {
+    'lastUpdated' => '1304599422',
+    'message' => 'Een Ja/Nee veld wat aangeeft of punten wel of niet in de navigatie getoond moeten worden.'
+  },
   'form_phone' => {
     'lastUpdated' => '1271938146',
     'message' => 'Een tekstveld voor het invoeren van een telefoonnummer.'
@@ -156,6 +164,14 @@ our $I18N = {
   'form_zipCode' => {
     'lastUpdated' => '1272463769',
     'message' => 'Een tekst veld voor het invoeren van de postcode van het adres.'
+  },
+  'isGeocoded description' => {
+    'lastUpdated' => '1304599546',
+    'message' => 'Kies of dit punt automatisch gepositioneerd moet worden, waarbij lengte- en breedtegraad dynamisch ingesteld worden met behulp van het adres. Door ja te kiezen, kan het punt niet verplaatst worden op de kaart.'
+  },
+  'isGeocoded label' => {
+    'lastUpdated' => '1304599559',
+    'message' => 'Automatisch positioneren'
   },
   'latitude' => {
     'lastUpdated' => '1271836780',

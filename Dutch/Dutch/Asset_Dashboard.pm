@@ -5,13 +5,29 @@ our $I18N = {
     'lastUpdated' => '1302278135',
     'message' => 'Inhoud toevoegen'
   },
+  'Dashboard Template Variables' => {
+    'lastUpdated' => '1304599064',
+    'message' => 'Dashboard sjabloonvariabelen'
+  },
+  'Edit Dashlet' => {
+    'lastUpdated' => '1304599079',
+    'message' => 'Bewerk Dashlet'
+  },
   'Is required' => {
     'lastUpdated' => '1302278392',
     'message' => 'Vereist?'
   },
+  'Is required help' => {
+    'lastUpdated' => '1304598927',
+    'message' => 'Kan dit dashlet verwijderd worden door gebruikers van het Dashboard?'
+  },
   'Is static' => {
     'lastUpdated' => '1302278379',
     'message' => 'Statisch?'
+  },
+  'Is static help' => {
+    'lastUpdated' => '1304599110',
+    'message' => 'Kan het dashlet verplaatst worden op het dashboard door gebruikers?'
   },
   'assetName' => {
     'lastUpdated' => '1152624242',
@@ -53,9 +69,25 @@ our $I18N = {
     'lastUpdated' => '1231700981',
     'message' => 'Lijst met verborgen nieuwe inhoud'
   },
+  'id' => {
+    'lastUpdated' => '1304599142',
+    'message' => 'Asset ID van het huidige dashlet.'
+  },
+  'shortcutUrl' => {
+    'lastUpdated' => '1304599307',
+    'message' => 'Als dit dashlet een snekoppeling is, is dit de URL daarvan.'
+  },
+  'showReloadIcon' => {
+    'lastUpdated' => '1304599257',
+    'message' => 'Een functie die waar is als dit dashlet een snelkoppeling is en "Laat ikoon zien bij herladen" op ja staat.'
+  },
   'templateId' => {
     'lastUpdated' => '1302278172',
     'message' => 'Het GUID van het sjabloon waarmee het dashboard wordt weergegeven.'
+  },
+  'usersGroupId' => {
+    'lastUpdated' => '1304599178',
+    'message' => 'De GUID van de groep die het uiterlijk van hun dashboard mag aanpassen.'
   }
 }
 ;
