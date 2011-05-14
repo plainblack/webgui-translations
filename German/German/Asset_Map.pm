@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1250971837',
     'message' => 'Landkarte'
   },
+  'canEdit' => {
+    'lastUpdated' => '1305381313',
+    'message' => 'Boolischer Wert. \'Wahr\', wenn der aktuelle Benutzer dieses Asset bearbeiten kann.'
+  },
   'error add unauthorized' => {
     'lastUpdated' => '1250984055',
     'message' => 'Sie haben keine Berechtigung, um Positionen hinzuzufügen'
@@ -33,6 +37,10 @@ our $I18N = {
     'lastUpdated' => '1250972470',
     'message' => 'Gruppe Position hinzufügen '
   },
+  'mapApiKey' => {
+    'lastUpdated' => '1305381354',
+    'message' => 'Google Maps API Schlüssel'
+  },
   'mapApiKey description' => {
     'lastUpdated' => '1250971899',
     'message' => 'Der Google Maps API Schlüssel für diese Website'
@@ -52,6 +60,11 @@ our $I18N = {
   'mapHeight label' => {
     'lastUpdated' => '1250971972',
     'message' => 'Kartenhöhe'
+  },
+  'mapPoints' => {
+    'lastUpdated' => '1305381471',
+    'message' => 'Eine Schleife mit Map-Positionen.
+Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
   },
   'mapWidth description' => {
     'lastUpdated' => '1250983869',
@@ -81,6 +94,10 @@ our $I18N = {
     'lastUpdated' => '1250983738',
     'message' => 'Einstellung Standardansichtsbereich'
   },
+  'startLatitude' => {
+    'lastUpdated' => '1305381669',
+    'message' => 'Anfangliche geografische Breite (Latitude) zur Kartenmitte'
+  },
   'startLatitude description' => {
     'lastUpdated' => '1250972509',
     'message' => 'Geografische Breite der Startposition auf der Landkarte'
@@ -89,6 +106,10 @@ our $I18N = {
     'lastUpdated' => '1250972225',
     'message' => 'Start geografische Breite (Latitude)'
   },
+  'startLongitude' => {
+    'lastUpdated' => '1305381653',
+    'message' => 'Anfängliche geografische Länge der Kartenmitte'
+  },
   'startLongitude description' => {
     'lastUpdated' => '1250972783',
     'message' => 'Geografische Länge zur Ausgangsposition auf der Karte'
@@ -96,6 +117,10 @@ our $I18N = {
   'startLongitude label' => {
     'lastUpdated' => '1250972338',
     'message' => 'Start geografischer Länge (Longitude)'
+  },
+  'startZoom' => {
+    'lastUpdated' => '1305381730',
+    'message' => 'Anfänglicher Vergrößerungsfaktor der Karte'
   },
   'startZoom description' => {
     'lastUpdated' => '1250972523',
