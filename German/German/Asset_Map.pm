@@ -9,6 +9,14 @@ our $I18N = {
     'lastUpdated' => '1250971837',
     'message' => 'Landkarte'
   },
+  'button_addPoint' => {
+    'lastUpdated' => '1305397288',
+    'message' => 'Ein von einem Template gestalteten Knopf mit i18n-Bezeichnung zum Hinzufügen eines weiteren Knopfes.'
+  },
+  'button_setCenter' => {
+    'lastUpdated' => '1305397403',
+    'message' => 'Ein von einem Template gestalteten Knopf mit i18n-Bezeichnung zur Positionierung der Kartenmitte in die Ausgangsposition.'
+  },
   'canAddPoint' => {
     'lastUpdated' => '1305397023',
     'message' => 'Ein boolischer Wert, der angibt, ob der aktuelle Benutzer eine Position hinzufügen kann.'
@@ -102,6 +110,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
     'lastUpdated' => '1257324685',
     'message' => 'Wählen Sie einen Punkt'
   },
+  'selectPoint' => {
+    'lastUpdated' => '1305397586',
+    'message' => 'Von einem Template gestalteter Knopf zur Zentrierung der Karte um einen Punkt und zur Anzeige der Information dazu. '
+  },
   'set default viewing area label' => {
     'lastUpdated' => '1250983738',
     'message' => 'Einstellung Standardansichtsbereich'
@@ -165,6 +177,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
   'templateIdViewPoint label' => {
     'lastUpdated' => '1250972589',
     'message' => 'Vorlage Ansicht Position'
+  },
+  'workflowIdPoint' => {
+    'lastUpdated' => '1305397658',
+    'message' => 'Der GUID der Workflow zur Aktivierung einer Kartenposition'
   },
   'workflowIdPoint description' => {
     'lastUpdated' => '1250972666',
