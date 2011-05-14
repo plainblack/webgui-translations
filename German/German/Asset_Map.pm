@@ -9,6 +9,10 @@ our $I18N = {
     'lastUpdated' => '1250971837',
     'message' => 'Landkarte'
   },
+  'canAddPoint' => {
+    'lastUpdated' => '1305397023',
+    'message' => 'Ein boolischer Wert, der angibt, ob der aktuelle Benutzer eine Position hinzufügen kann.'
+  },
   'canEdit' => {
     'lastUpdated' => '1305381313',
     'message' => 'Boolischer Wert. \'Wahr\', wenn der aktuelle Benutzer dieses Asset bearbeiten kann.'
@@ -53,6 +57,10 @@ our $I18N = {
     'lastUpdated' => '1250971957',
     'message' => 'Holen Sie Ihren Google Maps API Schlüssel'
   },
+  'mapHeight' => {
+    'lastUpdated' => '1305397056',
+    'message' => 'Höhe der Kart, in Pixel'
+  },
   'mapHeight description' => {
     'lastUpdated' => '1250983905',
     'message' => 'Höhe der erzeugten Karte. Geben Sie die Einheit an in px=Pixel oder %=Prozent'
@@ -65,6 +73,10 @@ our $I18N = {
     'lastUpdated' => '1305381471',
     'message' => 'Eine Schleife mit Map-Positionen.
 Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
+  },
+  'mapWidth' => {
+    'lastUpdated' => '1305397077',
+    'message' => 'Breite der Karte, in Pixel'
   },
   'mapWidth description' => {
     'lastUpdated' => '1250983869',
