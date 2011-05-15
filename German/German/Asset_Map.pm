@@ -41,6 +41,10 @@ our $I18N = {
     'lastUpdated' => '1250983972',
     'message' => 'Sie haben keine Berechtigung um den Standardansichtsbereich festzulegen'
   },
+  'groupIdAddPoint' => {
+    'lastUpdated' => '1305418823',
+    'message' => 'Die GUID der Gruppe, die Karten-Positionen hinzufügen kann'
+  },
   'groupIdAddPoint description' => {
     'lastUpdated' => '1250983937',
     'message' => 'Gruppe, die Positionen zur Karte hinzufügen darf.'
@@ -48,6 +52,10 @@ our $I18N = {
   'groupIdAddPoint label' => {
     'lastUpdated' => '1250972470',
     'message' => 'Gruppe Position hinzufügen '
+  },
+  'map asset template variables' => {
+    'lastUpdated' => '1305418775',
+    'message' => 'Karten-Asset Template Variabelen '
   },
   'mapApiKey' => {
     'lastUpdated' => '1305381354',
@@ -154,6 +162,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
     'lastUpdated' => '1250972407',
     'message' => 'Startfaktor Vergrößerung'
   },
+  'templateIdEditPoint' => {
+    'lastUpdated' => '1305418683',
+    'message' => 'Die GUID der Vorlage zur Änderung einer Position'
+  },
   'templateIdEditPoint description' => {
     'lastUpdated' => '1250983710',
     'message' => 'Vorlage um eine Kartenposition zu bearbeiten. Erscheint innerhalb der Karte.'
@@ -161,6 +173,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
   'templateIdEditPoint label' => {
     'lastUpdated' => '1250983640',
     'message' => 'Vorlage Bearbeitung Position'
+  },
+  'templateIdView' => {
+    'lastUpdated' => '1305418652',
+    'message' => 'Die GUID der Vorlage zur Kartenansicht'
   },
   'templateIdView description' => {
     'lastUpdated' => '1250983661',
@@ -170,6 +186,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
     'lastUpdated' => '1250972607',
     'message' => 'Vorlage Kartenansicht'
   },
+  'templateIdViewPoint' => {
+    'lastUpdated' => '1305418624',
+    'message' => 'Die GUID der Vorlage für eine Position auf der Karte'
+  },
   'templateIdViewPoint description' => {
     'lastUpdated' => '1250972721',
     'message' => 'Vorlage zur Ansicht einer Kartenposition. Diese erscheint innerhalb der Karte.'
@@ -177,6 +197,10 @@ Verfügbare Vorlagenvariabelen werden in der Vorlagenbeschreibung aufgeführt.'
   'templateIdViewPoint label' => {
     'lastUpdated' => '1250972589',
     'message' => 'Vorlage Ansicht Position'
+  },
+  'view template' => {
+    'lastUpdated' => '1305418558',
+    'message' => 'Template Kartenansicht'
   },
   'workflowIdPoint' => {
     'lastUpdated' => '1305397658',
