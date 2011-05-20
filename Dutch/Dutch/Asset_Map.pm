@@ -162,7 +162,7 @@ our $I18N = {
     'message' => 'Start Zoom eenheid'
   },
   'templateIdEditPoint' => {
-    'lastUpdated' => '1304608048',
+    'lastUpdated' => '1305868348',
     'message' => 'De GUID van het sjabloon voor het toevoegen en bewerken van een locatie.'
   },
   'templateIdEditPoint description' => {
