@@ -89,6 +89,10 @@ Sollten die Fehler nicht behoben werden können, kontaktieren Sie uns bitte.'
     'lastUpdated' => '1241156178',
     'message' => 'Gehen Sie bitte zurück und versuchen Sie es erneut.'
   },
+  'unable to finish transaction' => {
+    'lastUpdated' => '1306299889',
+    'message' => 'Wir können die Transaktion nicht aufrufen, um den Bezahlvorgang abzuschließen.'
+  },
   'who can use' => {
     'lastUpdated' => '1241156196',
     'message' => 'Wer kann dieses Zahlungsart verwenden?'
