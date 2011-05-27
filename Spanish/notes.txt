@@ -12,6 +12,8 @@ DataForm      = Formulario
    Field      = Campo
    Entry      = Registro
 
+Survey        = Cuestionario
+
 ad            = Publicidad
 ad space      = Espacio Publicitario
 asset         = Activo
@@ -133,6 +135,7 @@ sub makeUrlCompliant {                  # you have to have this method, but it c
 1;
 #vim:ft=perl
 --------------------------------------------------------------------------
+
 
 
 
