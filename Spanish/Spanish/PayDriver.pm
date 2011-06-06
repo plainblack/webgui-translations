@@ -85,6 +85,10 @@ our $I18N = {
     'lastUpdated' => '1226521509',
     'message' => 'Regrese a la p&aacute;gina anterior e intente de nuevo.'
   },
+  'unable to finish transaction' => {
+    'lastUpdated' => '1307399425',
+    'message' => 'Fue imposible obtener la transacción necesaria para completar la compra.'
+  },
   'who can use' => {
     'lastUpdated' => '1226521651',
     'message' => 'Grupo de Usuarios'

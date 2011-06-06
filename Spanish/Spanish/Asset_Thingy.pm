@@ -743,6 +743,10 @@ asociado.'
     'lastUpdated' => '1253309806',
     'message' => 'Plantilla para la Cosa'
   },
+  'variables by label' => {
+    'lastUpdated' => '1307399505',
+    'message' => 'Ademas del bucle <strong>field_loop</strong>, se puede acceder a los valores de los campos a través de su etiqueta. Consulte la documentación del plugin para plantillas en uso, en caso que necesite enviar caracteres especiales en la etiqueta.'
+  },
   'vertical description' => {
     'lastUpdated' => '1253309830',
     'message' => 'Esta propiedad controla la disposición vertical u horizontal de los botones radio y checklists.'

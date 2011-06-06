@@ -161,6 +161,10 @@ our $I18N = {
     'lastUpdated' => '1253674090',
     'message' => 'El URL a la imagen.'
   },
+  'imgRemoteUrlForm' => {
+    'lastUpdated' => '1307399527',
+    'message' => 'El campo que permite especificar un URL remoto para una Foto.'
+  },
   'imgThumb' => {
     'lastUpdated' => '1253674102',
     'message' => 'El URL a la miniatura de la imagen.'
@@ -228,6 +232,10 @@ our $I18N = {
   'photo delete' => {
     'lastUpdated' => '1253674351',
     'message' => 'Eliminar Foto y Metadatos'
+  },
+  'photo remote url' => {
+    'lastUpdated' => '1307399544',
+    'message' => 'URL Remoto para Foto'
   },
   'photo title' => {
     'lastUpdated' => '1253674364',

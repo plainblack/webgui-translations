@@ -77,6 +77,10 @@ our $I18N = {
     'lastUpdated' => '1252513284',
     'message' => 'Items'
   },
+  'rich editor description' => {
+    'lastUpdated' => '1307399224',
+    'message' => 'Seleccione el editor empleado para ingresar contenido en el Carrusel. El cambio será efectivo la próxima vez que se edite el Carrusel.'
+  },
   'sequenceNumber' => {
     'lastUpdated' => '1252513303',
     'message' => 'El <strong>sequenceNumber</strong> para este item del Carrusel'

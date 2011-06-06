@@ -1969,6 +1969,10 @@ our $I18N = {
     'lastUpdated' => '1253894651',
     'message' => 'Espacio Publicitario'
   },
+  'Add' => {
+    'lastUpdated' => '1307399247',
+    'message' => 'Agregar'
+  },
   'Addons title' => {
     'lastUpdated' => '1289571828',
     'message' => 'Módulos Adicionales'
@@ -2012,6 +2016,10 @@ our $I18N = {
   'Discuss your ideas and get help from our community.' => {
     'lastUpdated' => '1224122163',
     'message' => 'Discuta sus ideas y obtenga ayuda de nuestra comunidad usuaria.'
+  },
+  'Down' => {
+    'lastUpdated' => '1307399255',
+    'message' => 'Bajar'
   },
   'Enable Metadata' => {
     'lastUpdated' => '1207839059',
@@ -2120,6 +2128,10 @@ our $I18N = {
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1224122349',
     'message' => 'Gracias por su inter&eacute;s en ^c;. Su mensaje ser&aacute; procesado en breve.'
+  },
+  'Up' => {
+    'lastUpdated' => '1307399264',
+    'message' => 'Subir'
   },
   'Upload an attachment' => {
     'lastUpdated' => '1234625352',
@@ -2680,6 +2692,18 @@ our $I18N = {
   'options.display' => {
     'lastUpdated' => '1208205874',
     'message' => 'un vinculo HTML complet, con etiqueta internacionalizada, para opciones de una cuenta individual, tales como editar un perfil, ver un perfil, acceder a la bandeja de entrada de un usuario, y asi por el estilo.'
+  },
+  'or' => {
+    'lastUpdated' => '1307399274',
+    'message' => 'o'
+  },
+  'override user email preference' => {
+    'lastUpdated' => '1307399293',
+    'message' => '¿Ignorar preferencia del usuario?'
+  },
+  'override user email preference description' => {
+    'lastUpdated' => '1307399316',
+    'message' => 'Enviar mensaje de correo independientemente de la preferencia del usuario en cuanto a recibir notificaciones.'
   },
   'packages' => {
     'lastUpdated' => '1207726962',

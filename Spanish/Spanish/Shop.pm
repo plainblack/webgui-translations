@@ -453,6 +453,10 @@ our $I18N = {
     'lastUpdated' => '1221854298',
     'message' => '<div id="result_box" dir="ltr">Una condici&oacute;n que indica si el usuario ya ha especificado una direcci&oacute;n de env&iacute;o. Direcci&oacute;n de env&iacute;o es siempre necesaria con el fin de calcular los impuestos.</div>'
   },
+  'hasSku' => {
+    'lastUpdated' => '1307399381',
+    'message' => 'Un condicional que indica si el Activo al cual hace referencia este item aún existe en WebGUI o no. Si no existe, no debe intentarse el acceso a viewItemUrl.'
+  },
   'import tax' => {
     'lastUpdated' => '1221854316',
     'message' => 'Impuestos de Importaci&oacute;n'
@@ -576,6 +580,10 @@ our $I18N = {
   'item shippingName' => {
     'lastUpdated' => '1222111090',
     'message' => 'El nombre asignado a la direcci&oacute;n de env&iacute;o de este item.'
+  },
+  'item sku deleted' => {
+    'lastUpdated' => '1307399400',
+    'message' => 'El Activo asociado a este item no puede ser instanciado.'
   },
   'item taxAmount help' => {
     'lastUpdated' => '1280866251',
