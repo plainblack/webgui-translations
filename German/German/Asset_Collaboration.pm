@@ -17,6 +17,10 @@ our $I18N = {
     'lastUpdated' => '1274268200',
     'message' => 'Abbestellen von %s'
   },
+  'View this message on the website' => {
+    'lastUpdated' => '1308051724',
+    'message' => 'Betrachte diese Nachricht auf der Website.'
+  },
   'You have been unsubscribed' => {
     'lastUpdated' => '1274268216',
     'message' => 'Ihr Abo wurde abbestellt.'

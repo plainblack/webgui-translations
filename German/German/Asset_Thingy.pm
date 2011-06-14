@@ -747,6 +747,14 @@ Wenn Sie "verborgen" oder "sichtbar" wählen, geben Sie bitte auch einen Standar
     'lastUpdated' => '1240471739',
     'message' => 'Tabellenvorlage'
   },
+  'unique description' => {
+    'lastUpdated' => '1308051838',
+    'message' => 'Ist dies ein eindeutiges Feld? In einfachen Worten: Werte in eindeutigen Feldern dürfen keine Duplikate in anderen Zeilen haben.'
+  },
+  'unique label' => {
+    'lastUpdated' => '1308051845',
+    'message' => 'Eindeutig'
+  },
   'variables by label' => {
     'lastUpdated' => '1304526771',
     'message' => 'In Ergänzung zum filed_loop können Felder auch direkt über ihr Label angesprochen werden. Prüfen Sie bitte in der Dokumentation des verwendeten Template-Plugins, wie Sonderzeichen, z.B. Leerzeichen oder Anführungszeichen, behandelt werden müssen.'
