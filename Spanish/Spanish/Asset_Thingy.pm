@@ -743,6 +743,14 @@ asociado.'
     'lastUpdated' => '1253309806',
     'message' => 'Plantilla para la Cosa'
   },
+  'unique description' => {
+    'lastUpdated' => '1309214075',
+    'message' => '¿Este campo es único? No puede haber valores duplicados.'
+  },
+  'unique label' => {
+    'lastUpdated' => '1309214081',
+    'message' => 'Unico'
+  },
   'variables by label' => {
     'lastUpdated' => '1307399505',
     'message' => 'Ademas del bucle <strong>field_loop</strong>, se puede acceder a los valores de los campos a través de su etiqueta. Consulte la documentación del plugin para plantillas en uso, en caso que necesite enviar caracteres especiales en la etiqueta.'

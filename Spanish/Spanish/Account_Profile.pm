@@ -1,6 +1,18 @@
 package WebGUI::i18n::Spanish::Account_Profile;
 use utf8;
 our $I18N = {
+  'ascending' => {
+    'lastUpdated' => '1309213925',
+    'message' => 'Ascendente'
+  },
+  'assetManagerSortColumn label' => {
+    'lastUpdated' => '1309214027',
+    'message' => 'Ordenar Activos por'
+  },
+  'assetManagerSortDirection label' => {
+    'lastUpdated' => '1309214015',
+    'message' => 'Activos con Orden'
+  },
   'back label' => {
     'lastUpdated' => '1232558331',
     'message' => 'Regresar al sitio'
@@ -8,6 +20,10 @@ our $I18N = {
   'back to profile label' => {
     'lastUpdated' => '1232558355',
     'message' => 'Regresar al perfil'
+  },
+  'descending' => {
+    'lastUpdated' => '1309213956',
+    'message' => 'Descendiente'
   },
   'edit my profile' => {
     'lastUpdated' => '1232558367',
