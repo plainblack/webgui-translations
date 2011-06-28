@@ -61,6 +61,10 @@ our $I18N = {
     'lastUpdated' => '1244363512',
     'message' => 'Da alle Benutzer dieses Asset in gleicher Form sehen, kann es, um die Performance zu erhöhen, für längere Zeit ins Cache aufgenommen werden. Wie lange soll es aufgenommen werden?'
   },
+  'callerAssetId' => {
+    'lastUpdated' => '1309239575',
+    'message' => 'Wenn in www_viewThingData übergeben, wird die assetId des caller assets bereitgestellt. Wird von RenderThingMacro genutzt. Näheres siehe POD.'
+  },
   'canEditThings' => {
     'lastUpdated' => '1241126984',
     'message' => '"wahr" wenn der aktuelle Benutzer die Tabellen in diesem Asset sehen kann.'

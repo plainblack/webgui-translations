@@ -369,6 +369,14 @@ our $I18N = {
     'lastUpdated' => '1251835073',
     'message' => 'Diese Bezeichnung bezieht sich auf alle Namensschilder in dieser Gruppe zusammen.'
   },
+  'badge group ticketsPerBadge' => {
+    'lastUpdated' => '1309239056',
+    'message' => 'Tickets pro Namensschild'
+  },
+  'badge group ticketsPerBadge help' => {
+    'lastUpdated' => '1309239108',
+    'message' => 'Die Anzahl an Tickets, die zu jedem Namensschild in dieser Gruppe erworben werden dürfen.'
+  },
   'badge groups' => {
     'lastUpdated' => '1251835092',
     'message' => 'Namensschilderguppe'
@@ -837,6 +845,10 @@ our $I18N = {
     'lastUpdated' => '1239658038',
     'message' => 'Fehler'
   },
+  'error badge group ticket limit' => {
+    'lastUpdated' => '1309239272',
+    'message' => 'Das Ticket-Limit ist erreicht, %s kann nicht hinzugefügt werden.'
+  },
   'error no colon' => {
     'lastUpdated' => '1239658427',
     'message' => 'Fehler'
@@ -1037,6 +1049,14 @@ Es gibt dynamisches Menüs, die ein oder mehrere Teile der Veranstaltungsschnitt
   'hasCheckedIn' => {
     'lastUpdated' => '1251844310',
     'message' => 'Eine Bedingungsvariable die wahr ist, wenn sich der Nutzer zur Veranstaltung eingeschrieben hat.'
+  },
+  'help badgeMeta' => {
+    'lastUpdated' => '1309239446',
+    'message' => 'Füge Metadaten-Werte zum Template hinzu indem der Name hinter "badgeMeta_" ergänzt wird. Beispiel: badgeMeta_department'
+  },
+  'help ticketMeta' => {
+    'lastUpdated' => '1309239485',
+    'message' => 'Füge Metadaten-Werte zum Template hinzu indem der Name hinter "ticketMeta_" ergänzt wird. Beispiel: ticketMeta_department'
   },
   'hours' => {
     'lastUpdated' => '1239658049',
