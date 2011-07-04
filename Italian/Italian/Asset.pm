@@ -73,6 +73,10 @@ our $I18N = {
     'lastUpdated' => '1294399772',
     'message' => 'Vuoi davvero eliminare questo elemento e tutto il suo contenuto? Ricorda che questa operazione non è reversibile e verrà effettuata immediatamente.'
   },
+  486 => {
+    'lastUpdated' => '1309785863',
+    'message' => 'Tipo di dato'
+  },
   487 => {
     'lastUpdated' => '1294399819',
     'message' => 'Valori possibili'
@@ -193,13 +197,37 @@ our $I18N = {
     'lastUpdated' => '1294401825',
     'message' => 'Incolla l\'asset'
   },
+  'Set Rank' => {
+    'lastUpdated' => '1309786671',
+    'message' => 'Imposta il rank'
+  },
   'apply' => {
     'lastUpdated' => '1294402015',
     'message' => 'applica'
   },
+  'committed versions' => {
+    'lastUpdated' => '1309786579',
+    'message' => 'Versioni pubblicate'
+  },
   'copy' => {
     'lastUpdated' => '1294401842',
     'message' => 'copia'
+  },
+  'create shortcut' => {
+    'lastUpdated' => '1309786543',
+    'message' => 'Crea collegamento'
+  },
+  'cut' => {
+    'lastUpdated' => '1309785956',
+    'message' => 'taglia'
+  },
+  'delete' => {
+    'lastUpdated' => '1309785966',
+    'message' => 'cancella'
+  },
+  'deleteConfirm' => {
+    'lastUpdated' => '1309786003',
+    'message' => 'Sei sicuro di voler cancellare questo Metadato?'
   },
   'done' => {
     'lastUpdated' => '1294401851',
@@ -213,9 +241,69 @@ our $I18N = {
     'lastUpdated' => '1294401875',
     'message' => 'Edita'
   },
+  'isHidden' => {
+    'lastUpdated' => '1309786048',
+    'message' => 'Nascosto'
+  },
+  'isPrototype' => {
+    'lastUpdated' => '1309786075',
+    'message' => 'Prototipo'
+  },
+  'locked' => {
+    'lastUpdated' => '1309786487',
+    'message' => 'Bloccato'
+  },
+  'locked by' => {
+    'lastUpdated' => '1309786500',
+    'message' => 'bloccato da'
+  },
+  'manage' => {
+    'lastUpdated' => '1309786474',
+    'message' => 'Gestione risorse'
+  },
+  'menuTitle' => {
+    'lastUpdated' => '1309786118',
+    'message' => 'Titolo nei menu'
+  },
+  'no results' => {
+    'lastUpdated' => '1309786327',
+    'message' => 'Nessun risultato!'
+  },
+  'none' => {
+    'lastUpdated' => '1309786312',
+    'message' => 'Niente'
+  },
+  'properties' => {
+    'lastUpdated' => '1309786291',
+    'message' => 'Propriet&agrave;'
+  },
   'purge' => {
     'lastUpdated' => '1294402040',
     'message' => 'Svuota'
+  },
+  'restore' => {
+    'lastUpdated' => '1309786392',
+    'message' => 'Ripristina'
+  },
+  'revision date' => {
+    'lastUpdated' => '1309786377',
+    'message' => 'Data della revisione'
+  },
+  'save and commit' => {
+    'lastUpdated' => '1309786247',
+    'message' => 'salva e pubblica'
+  },
+  'search' => {
+    'lastUpdated' => '1309786220',
+    'message' => 'Cerca'
+  },
+  'select all' => {
+    'lastUpdated' => '1309786229',
+    'message' => 'Seleziona tutto'
+  },
+  'size' => {
+    'lastUpdated' => '1309786211',
+    'message' => 'Dimensione'
   },
   'synopsis' => {
     'lastUpdated' => '1294401964',
@@ -224,6 +312,14 @@ our $I18N = {
   'title' => {
     'lastUpdated' => '1294401908',
     'message' => 'titolo'
+  },
+  'type' => {
+    'lastUpdated' => '1309786182',
+    'message' => 'Tipo'
+  },
+  'update' => {
+    'lastUpdated' => '1309786164',
+    'message' => 'Aggiorna'
   },
   'view' => {
     'lastUpdated' => '1294401924',
