@@ -1,947 +1,759 @@
 package WebGUI::i18n::French::Asset_DataForm;
 use utf8;
-
 our $I18N = {
-	'27 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.subtext' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'defaultView var desc' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'90' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'date' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'102' => {
-		message => q|Modifier l'onglet|,
-		lastUpdated => 1202582132
-	},
-
-	'confirm delete one' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'77 description' => {
-		message => q|C'est la description texte pour pour que l'utilisateur sache &agrave; quoi correspond lechamp.|,
-		lastUpdated => 1203431237
-	},
-
-	'tab.controls' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'18' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'16' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'27' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'84' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.data.value' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.inTab' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'20' => {
-		message => q|Modifier le champ|,
-		lastUpdated => 1203072560
-	},
-
-	'744' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'defaultView description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'86 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'javascript.confirmation.deleteAll' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.end' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'editField extras label description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'acknowledgement var desc' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.data.name' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'11' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'entryList.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to view entries' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'Delete entry confirmation' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'ipAddress' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.start' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.save' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'106' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.edit.icon' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'acknowlegementTemplateId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'29' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.edit.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'back.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'80 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'entryId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'81' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'87 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'73' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'101' => {
-		message => q|Etiquette|,
-		lastUpdated => 1202582117
-	},
-
-	'76' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'86' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'groupToViewEntries' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'105 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'defaultView' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.isRequired' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'mail attachments description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.end' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.isRequired' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.subtext' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.entryId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'17' => {
-		message => q|Message envoy&eacute;|,
-		lastUpdated => 1203072645
-	},
-
-	'2' => {
-		message => q|Le sujet de votre email|,
-		lastUpdated => 1203072606
-	},
-
-	'form.send' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'addTab.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'79 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'mailData' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'mailAttachments' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'canEdit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'82' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'24 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'listTemplateId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.subtext' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'744 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'mail attachments' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'deleteAllEntries.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'14' => {
-		message => q|Sujet|,
-		lastUpdated => 1203072630
-	},
-
-	'tab.field.value' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'group to view entries description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'24' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.isHidden' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'104' => {
-		message => q|Onglet|,
-		lastUpdated => 1202582153
-	},
-
-	'record.delete.icon' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'79' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'Field Position description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'editField vertical subtext' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'23' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'delete.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'templateId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.type' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'21 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'data form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'8' => {
-		message => q|Largueur|,
-		lastUpdated => 1203431280
-	},
-
-	'no tab' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.submissionDate.human' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'editField vertical label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.isDisplayed' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'confirm delete all' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'5' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'21' => {
-		message => q|Nom du champ|,
-		lastUpdated => 1203072549
-	},
-
-	'javascript.confirmation.deleteOne' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'7' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.start' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'80' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.userId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'82 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.ipAddress' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.sequence' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'74' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'hasEntries' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.isDisplayed' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'delete.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.data.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'addField.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'data list' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'username' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.isHidden' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'103' => {
-		message => q|Ajouter un nouvel onglet|,
-		lastUpdated => 1202582145
-	},
-
-	'error_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'10' => {
-		message => q|de|,
-		lastUpdated => 1202582069
-	},
-
-	'tab.field.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.tid' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'editField extras label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.tid' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.tid' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'91' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'87' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'77' => {
-		message => q|Etiquette|,
-		lastUpdated => 1203431154
-	},
-
-	'16 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'addField.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.value' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'22 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'12' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.id' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'8 description' => {
-		message => q||,
-		lastUpdated => 1203431294
-	},
-
-	'go to form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'Field Position' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'25 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'19' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'104 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.name' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'emailTemplateId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'assetName' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'edit.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'88' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.init' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'delete file' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'100' => {
-		message => q|Êtes-vous sûr de vouloir effacer cet onglet?|,
-		lastUpdated => 1202582108
-	},
-
-	'deleteAllEntries.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'25' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'addTab.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'81 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'epoch' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'28' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'74 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'75' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.data_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.username' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'23 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'error.message' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'export.tab.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.name' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'canViewEntries' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.controls' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.submissionDate.epoch' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'data form asset template variables body' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.data.isMailField' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'entryList.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'22' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'13' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.controls' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'105' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'6' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'85' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'3' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'field.isMailField' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'export.tab.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'editField vertical label description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'data form asset template variables title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'4' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'back.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'745' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record.delete.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'76 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'record_data_type' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'tab.field.isMailField' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-};
+  10 => {
+    'lastUpdated' => '1202582069',
+    'message' => 'de'
+  },
+  100 => {
+    'lastUpdated' => '1202582108',
+    'message' => 'Êtes-vous sûr de vouloir effacer cet onglet?'
+  },
+  101 => {
+    'lastUpdated' => '1202582117',
+    'message' => 'Etiquette'
+  },
+  102 => {
+    'lastUpdated' => '1202582132',
+    'message' => 'Modifier l\'onglet'
+  },
+  103 => {
+    'lastUpdated' => '1202582145',
+    'message' => 'Ajouter un nouvel onglet'
+  },
+  104 => {
+    'lastUpdated' => '1202582153',
+    'message' => 'Onglet'
+  },
+  '104 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  105 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '105 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  106 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  11 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  12 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  13 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  14 => {
+    'lastUpdated' => '1203072630',
+    'message' => 'Sujet'
+  },
+  16 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '16 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  17 => {
+    'lastUpdated' => '1203072645',
+    'message' => 'Message envoy&eacute;'
+  },
+  18 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  19 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  2 => {
+    'lastUpdated' => '1203072606',
+    'message' => 'Le sujet de votre email'
+  },
+  20 => {
+    'lastUpdated' => '1203072560',
+    'message' => 'Modifier le champ'
+  },
+  21 => {
+    'lastUpdated' => '1203072549',
+    'message' => 'Nom du champ'
+  },
+  '21 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  22 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '22 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  23 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '23 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  24 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '24 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  25 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '25 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  27 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '27 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  28 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  29 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  3 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  4 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  5 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  6 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  7 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  73 => {
+    'lastUpdated' => '1307112782',
+    'message' => 'Envoyer'
+  },
+  74 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '74 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  744 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '744 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  745 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  75 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  76 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '76 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  77 => {
+    'lastUpdated' => '1203431154',
+    'message' => 'Etiquette'
+  },
+  '77 description' => {
+    'lastUpdated' => '1203431237',
+    'message' => 'C\'est la description texte pour pour que l\'utilisateur sache &agrave; quoi correspond lechamp.'
+  },
+  79 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '79 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  8 => {
+    'lastUpdated' => '1203431280',
+    'message' => 'Largueur'
+  },
+  '8 description' => {
+    'lastUpdated' => '1203431294',
+    'message' => ''
+  },
+  80 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '80 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  81 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '81 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  82 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '82 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  84 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  85 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  86 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '86 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  87 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '87 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  88 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  90 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  91 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'Delete entry confirmation' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'Field Position' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'Field Position description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'acknowledgement var desc' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'acknowlegementTemplateId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'addField.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'addField.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'addTab.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'addTab.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'assetName' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'back.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'back.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'canEdit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'canViewEntries' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'confirm delete all' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'confirm delete one' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'data form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'data form asset template variables body' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'data form asset template variables title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'data list' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'date' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'defaultView' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'defaultView description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'defaultView var desc' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'delete file' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'delete.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'delete.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'deleteAllEntries.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'deleteAllEntries.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'edit.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'editField extras label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'editField extras label description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'editField vertical label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'editField vertical label description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'editField vertical subtext' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'emailTemplateId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'entryId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'entryList.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'entryList.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'epoch' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'error.message' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'error_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'export.tab.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'export.tab.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.controls' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.id' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.inTab' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.isDisplayed' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.isHidden' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.isMailField' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.isRequired' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.name' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.subtext' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.tid' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.type' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field.value' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'field_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.end' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.save' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.send' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.start' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'go to form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'group to view entries' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'group to view entries description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'groupToViewEntries' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'hasEntries' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'ipAddress' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'javascript.confirmation.deleteAll' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'javascript.confirmation.deleteOne' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'listTemplateId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'mail attachments' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'mail attachments description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'mailAttachments' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'mailData' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'no tab' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.data.isMailField' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.data.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.data.name' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.data.value' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.data_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.delete.icon' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.delete.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.edit.icon' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.edit.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.entryId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.ipAddress' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.submissionDate.epoch' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.submissionDate.human' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.userId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record.username' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record_data_type' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'record_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.controls' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.end' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.controls' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.isDisplayed' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.isHidden' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.isMailField' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.isRequired' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.name' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.subtext' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.tid' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field.value' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.field_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.init' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.sequence' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.start' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.subtext' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab.tid' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'tab_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'templateId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'username' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  }
+}
+;
 
 1;
