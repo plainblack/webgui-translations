@@ -2029,6 +2029,10 @@ our $I18N = {
     'lastUpdated' => '1180077248',
     'message' => 'Diese Option aktiviert den Metadaten Tab der Assets. Dadurch können Metadaten eingegeben und von WebGUI verfolgt werden.'
   },
+  'Enable Users after Anonymous Registration?' => {
+    'lastUpdated' => '1311664368',
+    'message' => 'Benutzer nach anonymer Registrierung aktivieren?'
+  },
   'Enable passive profiling' => {
     'lastUpdated' => '1178618599',
     'message' => 'Passives Profiling aktivieren?'
@@ -2461,6 +2465,10 @@ Kopieren Sie ggf. Dateien und fügen Sie diese in den Editor ein.'
   'editSettings error occurred' => {
     'lastUpdated' => '1199973777',
     'message' => 'Folgende Fehler sind beim Speichern der Einstellungen aufgetreten.'
+  },
+  'enableUsersAfterAnonymousRegistration help' => {
+    'lastUpdated' => '1311664481',
+    'message' => 'Wenn dies ausgeschaltet ist, müssen Benutzer per Hand durch einen Workflow oder einen Admin aktiviert werden.'
   },
   'ends with' => {
     'lastUpdated' => '1178618694',
