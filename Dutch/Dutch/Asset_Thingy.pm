@@ -61,6 +61,10 @@ our $I18N = {
     'lastUpdated' => '1205854024',
     'message' => '<p>Omdat alle gebruikers dit asset op dezelfde manier zien, kan het voor langere periode opgeslagen worden in het cache, zodat prestaties verbeterd worden. Hoe lang moet het in het cache opgeslagen worde?</p><p><strong>Gebruikers niveau:8</strong> </p>'
   },
+  'callerAssetId' => {
+    'lastUpdated' => '1311780656',
+    'message' => 'Wanneer dit aan www_viewThingData meegegeven wordt, geeft dit het asstId van de beller. Wordt gebruikt door RenderThingMacro. Zie de POD in de code.'
+  },
   'canEditThings' => {
     'lastUpdated' => '1206042541',
     'message' => 'Is waar wanneer de huidige gebruiker de Things kan bekijken die voor dit Thingy asset gedefini&euml;erd zijn.'
@@ -82,8 +86,8 @@ our $I18N = {
     'message' => 'Standaard Thing'
   },
   'default value description' => {
-    'lastUpdated' => '1224075774',
-    'message' => 'Voer de standaard waarde (indien deze er is) voor het veld. Wanneer de mogelijke waarden met behulp van een hash gedefini&euml;erd zijn, moet de standaardwaarde een key in de hash zijn. Voor Ja/Nee velden, voer &quot;ja&quot; in om &quot;Ja&quot; te selecteren en &quot;nee&quot; voor &quot;Nee&quot;.'
+    'lastUpdated' => '1311780754',
+    'message' => 'Voer de standaard waarde (indien deze er is) voor het veld. Wanneer de mogelijke waarden met behulp van een hash gedefini&euml;erd zijn, moet de standaardwaarde een key in de hash zijn. Voor Ja/Nee velden, voer &quot;ja&quot; in om &quot;Ja&quot; te selecteren en &quot;nee&quot; voor &quot;Nee&quot;. Voor datum/tijd velden kan een epoch datum of een datum in ISO 9601 format (JJJJ-MM-DD UU:MM:SS) ingevoerd worden, met de tijd optioneel.'
   },
   'default value label' => {
     'lastUpdated' => '1206042678',
@@ -740,6 +744,14 @@ our $I18N = {
   'thingy template label' => {
     'lastUpdated' => '1206449144',
     'message' => 'Thingy sjabloon'
+  },
+  'unique description' => {
+    'lastUpdated' => '1311780579',
+    'message' => 'Is dit een uniek veld? Met andere woorden, kan dezelfde waarde in deze kolom meer keren voorkomen?'
+  },
+  'unique label' => {
+    'lastUpdated' => '1311780535',
+    'message' => 'Uniek'
   },
   'variables by label' => {
     'lastUpdated' => '1304599751',
