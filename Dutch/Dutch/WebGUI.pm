@@ -2047,6 +2047,10 @@ De verstrekte informatie is niet gelijk aan de accountinformatie. '
     'lastUpdated' => '1156171359',
     'message' => 'Dit zet de metadata tab van assets aan, zodat metadata kan worden ingevoerd en bijgehouden door WebGUI.'
   },
+  'Enable Users after Anonymous Registration?' => {
+    'lastUpdated' => '1311780428',
+    'message' => 'Gebruikers activeren na anonieme registratie?'
+  },
   'Enable passive profiling' => {
     'lastUpdated' => '1156171308',
     'message' => 'Passieve profilering aanzetten?'
@@ -2473,6 +2477,10 @@ LongTruncOk=1'
   'editSettings error occurred' => {
     'lastUpdated' => '1190023515',
     'message' => 'De volgende fouten treden op wanneer getracht wordt de instellingen te bewaren:'
+  },
+  'enableUsersAfterAnonymousRegistration help' => {
+    'lastUpdated' => '1311780458',
+    'message' => 'Als dit uitstaat dienen gebruikers handmatig of via een workflow geactiveerd te worden.'
   },
   'ends with' => {
     'lastUpdated' => '1154097957',

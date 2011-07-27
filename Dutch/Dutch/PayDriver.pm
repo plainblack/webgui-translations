@@ -85,6 +85,10 @@ our $I18N = {
     'lastUpdated' => '1218985952',
     'message' => 'Ga terug om het opnieuw te proberen.'
   },
+  'unable to finish transaction' => {
+    'lastUpdated' => '1311780390',
+    'message' => 'Helaas kon de transactie niet worden gecontroleerd, waardoor de betaling nog niet afgerond is.'
+  },
   'who can use' => {
     'lastUpdated' => '1213879757',
     'message' => 'Groep die deze methode kan gebruiken'

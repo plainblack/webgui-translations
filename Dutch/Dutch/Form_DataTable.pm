@@ -21,6 +21,10 @@ our $I18N = {
     'lastUpdated' => '1225915496',
     'message' => 'Annuleren'
   },
+  'data error' => {
+    'lastUpdated' => '1311780184',
+    'message' => 'Fout in data'
+  },
   'delete column' => {
     'lastUpdated' => '1226493004',
     'message' => 'Verwijder'
@@ -45,6 +49,10 @@ our $I18N = {
     'lastUpdated' => '1225915570',
     'message' => 'E-mail'
   },
+  'format htmlarea' => {
+    'lastUpdated' => '1311780195',
+    'message' => 'HTML vak'
+  },
   'format link' => {
     'lastUpdated' => '1225915578',
     'message' => 'URL'
@@ -56,6 +64,10 @@ our $I18N = {
   'format text' => {
     'lastUpdated' => '1225915597',
     'message' => 'Tekst'
+  },
+  'format textarea' => {
+    'lastUpdated' => '1311780207',
+    'message' => 'Tekstvak'
   },
   'help' => {
     'lastUpdated' => '1225915607',
@@ -96,6 +108,14 @@ our $I18N = {
   'save success' => {
     'lastUpdated' => '1225915948',
     'message' => 'Tabel succesvol opgeslagen!'
+  },
+  'sort ascending' => {
+    'lastUpdated' => '1311780225',
+    'message' => 'Klik om oplopend te sorteren.'
+  },
+  'sort descending' => {
+    'lastUpdated' => '1311780234',
+    'message' => 'Klik om aflopend te sorteren.'
   },
   'topicName' => {
     'lastUpdated' => '1225915960',

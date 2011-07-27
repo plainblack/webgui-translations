@@ -293,6 +293,14 @@ our $I18N = {
     'lastUpdated' => '1214558397',
     'message' => 'Voer een naam in waarmee naamplaatjes aan de verkochte kaartjes gelinkt kunnen worden.'
   },
+  'badge group ticketsPerBadge' => {
+    'lastUpdated' => '1311779967',
+    'message' => 'Tickets per naamplaatje'
+  },
+  'badge group ticketsPerBadge help' => {
+    'lastUpdated' => '1311780002',
+    'message' => 'Het aantal tickets dat voor elk naamplaatje in deze groep verkoocht kan worden.'
+  },
   'badge groups' => {
     'lastUpdated' => '1214558409',
     'message' => 'Naamplaatjes groepen'
@@ -737,6 +745,10 @@ our $I18N = {
     'lastUpdated' => '1148299352',
     'message' => 'Fout:'
   },
+  'error badge group ticket limit' => {
+    'lastUpdated' => '1311780051',
+    'message' => 'Maximum aantal tickets bereikt voor dit naamplaatje. Kan %s niet toevoegen.'
+  },
   'error no colon' => {
     'lastUpdated' => '1190027389',
     'message' => 'Fout'
@@ -900,6 +912,14 @@ our $I18N = {
   'hasCheckedIn' => {
     'lastUpdated' => '1216646300',
     'message' => 'Een functie die war is als de gebruiker ingechecked is bij het evenement.'
+  },
+  'help badgeMeta' => {
+    'lastUpdated' => '1311780116',
+    'message' => 'Voeg een metadata waarde toe aan het sjabloon door de naam toe te voegen aan "badgeMeta_". Voorbeeld: badgeMeta_department'
+  },
+  'help ticketMeta' => {
+    'lastUpdated' => '1311780140',
+    'message' => 'Voeg een metadata waarde toe aan het sjabloon door de naam toe te voegen aan "ticketMeta_". Voorbeeld: ticketMeta_department'
   },
   'hours' => {
     'lastUpdated' => '1213703163',
