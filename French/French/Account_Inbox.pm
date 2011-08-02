@@ -165,6 +165,10 @@ our $I18N = {
     'lastUpdated' => '1241172312',
     'message' => 'Modèle pour voir une invitation'
   },
+  'invalid email' => {
+    'lastUpdated' => '1312282362',
+    'message' => 'L\'adresse email est invalide : %s.'
+  },
   'invitation count' => {
     'lastUpdated' => '1241172322',
     'message' => 'invitations'

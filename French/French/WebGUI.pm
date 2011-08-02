@@ -2030,6 +2030,10 @@ www_somename=somevalue;otherName=otherValue
     'lastUpdated' => '1242811995',
     'message' => 'Espace de pub'
   },
+  'Add' => {
+    'lastUpdated' => '1312282805',
+    'message' => 'Ajouter'
+  },
   'Addons title' => {
     'lastUpdated' => '1294063154',
     'message' => 'Extensions'
@@ -2045,6 +2049,10 @@ www_somename=somevalue;otherName=otherValue
   'Attachments formName' => {
     'lastUpdated' => '1242812048',
     'message' => 'Pièces jointes'
+  },
+  'Cancel' => {
+    'lastUpdated' => '1312282817',
+    'message' => 'Annuler'
   },
   'Cannot find what you are looking for? Try our search.' => {
     'lastUpdated' => '1242812117',
@@ -2070,6 +2078,10 @@ www_somename=somevalue;otherName=otherValue
     'lastUpdated' => '1242812257',
     'message' => 'Parler de vos idées et recever l\'aide de notre communauté.'
   },
+  'Down' => {
+    'lastUpdated' => '1312282852',
+    'message' => 'Descendre'
+  },
   'Enable Metadata' => {
     'lastUpdated' => '1294063236',
     'message' => 'Activer les métadonnées ?'
@@ -2077,6 +2089,10 @@ www_somename=somevalue;otherName=otherValue
   'Enable Metadata description' => {
     'lastUpdated' => '1294120811',
     'message' => 'Cela active l\'onglet métadonnées des modules ainsi elles peuvent être ajoutées et utilisées par WebGUI.'
+  },
+  'Enable Users after Anonymous Registration?' => {
+    'lastUpdated' => '1312282915',
+    'message' => 'Activer les utilisateurs après un enregistrement Anonyme ?'
   },
   'Enable passive profiling' => {
     'lastUpdated' => '1203674843',
@@ -2173,6 +2189,10 @@ www_somename=somevalue;otherName=otherValue
   'Thanks for for your interest in ^c;. We will review your message shortly.' => {
     'lastUpdated' => '1294065772',
     'message' => 'Merci pour votre intérêt pour ^c;. Nous examinerons votre message prochainement.'
+  },
+  'Up' => {
+    'lastUpdated' => '1312282865',
+    'message' => 'Monter'
   },
   'Upload an attachment' => {
     'lastUpdated' => '1294065797',
@@ -2745,6 +2765,10 @@ Notez que lorsque vous utilisez cette option en conjonction avec "Sauter les com
   'options.display' => {
     'lastUpdated' => '1292947765',
     'message' => 'Un lien HTML complet, avec son étiquette, pour les options individuelles du compte, comme modifier le profil, voir le profil, voir la boîte de réception des messages, etc.'
+  },
+  'or' => {
+    'lastUpdated' => '1312282949',
+    'message' => 'ou'
   },
   'packages' => {
     'lastUpdated' => '1203672406',

@@ -1,6 +1,10 @@
 package WebGUI::i18n::French::Account_Profile;
 use utf8;
 our $I18N = {
+  'ascending' => {
+    'lastUpdated' => '1312282495',
+    'message' => 'Ascendant'
+  },
   'back label' => {
     'lastUpdated' => '1231232160',
     'message' => 'Retour vers le site'
@@ -8,6 +12,10 @@ our $I18N = {
   'back to profile label' => {
     'lastUpdated' => '1231232170',
     'message' => 'Retourner au profil'
+  },
+  'descending' => {
+    'lastUpdated' => '1312282465',
+    'message' => 'Descendant'
   },
   'edit my profile' => {
     'lastUpdated' => '1231232178',

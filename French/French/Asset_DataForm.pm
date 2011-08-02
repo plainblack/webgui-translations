@@ -30,52 +30,52 @@ our $I18N = {
     'message' => ''
   },
   105 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631173',
+    'message' => 'Ajouter un onglet'
   },
   '105 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   106 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632017',
+    'message' => 'Modèle d\'onglet'
   },
   11 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631246',
+    'message' => 'à'
   },
   12 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631282',
+    'message' => 'Cc'
   },
   13 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631295',
+    'message' => 'Cci'
   },
   14 => {
     'lastUpdated' => '1203072630',
     'message' => 'Sujet'
   },
   16 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631415',
+    'message' => 'Remerciements'
   },
   '16 description' => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631476',
+    'message' => 'Ce message sera affiché à l\'utilisateur après validation du formulaire.'
   },
   17 => {
     'lastUpdated' => '1203072645',
     'message' => 'Message envoy&eacute;'
   },
   18 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631566',
+    'message' => 'Retour'
   },
   19 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631622',
+    'message' => 'Êtes-vous sûr de vouloir supprimer ce champ?'
   },
   2 => {
     'lastUpdated' => '1203072606',
@@ -90,44 +90,44 @@ our $I18N = {
     'message' => 'Nom du champ'
   },
   '21 description' => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311631548',
+    'message' => 'Le nom de ce champ. Il doit être unique parmi les autres champs du formulaire.'
   },
   22 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632035',
+    'message' => 'Statut'
   },
   '22 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   23 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632168',
+    'message' => 'Type'
   },
   '23 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   24 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632185',
+    'message' => 'Valeurs possibles'
   },
   '24 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   25 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632210',
+    'message' => 'Valeur(s) par défaut'
   },
   '25 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   27 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632225',
+    'message' => 'Hauteur'
   },
   '27 description' => {
     'lastUpdated' => 0,
@@ -138,24 +138,24 @@ our $I18N = {
     'message' => ''
   },
   29 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632292',
+    'message' => 'est requis'
   },
   3 => {
     'lastUpdated' => 0,
     'message' => ''
   },
   4 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632329',
+    'message' => 'Caché'
   },
   5 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632343',
+    'message' => 'Affiché'
   },
   6 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632361',
+    'message' => 'Modifiable'
   },
   7 => {
     'lastUpdated' => 0,
@@ -166,8 +166,8 @@ our $I18N = {
     'message' => 'Envoyer'
   },
   74 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632450',
+    'message' => 'Envoyer les données par email?'
   },
   '74 description' => {
     'lastUpdated' => 0,
@@ -186,8 +186,8 @@ our $I18N = {
     'message' => ''
   },
   75 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632481',
+    'message' => 'Requis'
   },
   76 => {
     'lastUpdated' => 0,
@@ -222,24 +222,24 @@ our $I18N = {
     'message' => ''
   },
   80 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632513',
+    'message' => 'Modèle d\'email'
   },
   '80 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   81 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632537',
+    'message' => 'Modèle de remerciements'
   },
   '81 description' => {
     'lastUpdated' => 0,
     'message' => ''
   },
   82 => {
-    'lastUpdated' => 0,
-    'message' => ''
+    'lastUpdated' => '1311632559',
+    'message' => 'Modèle de formulaire de données'
   },
   '82 description' => {
     'lastUpdated' => 0,
