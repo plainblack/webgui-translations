@@ -525,6 +525,10 @@ our $I18N = {
     'lastUpdated' => '1238534949',
     'message' => 'Ort'
   },
+  'clear form' => {
+    'lastUpdated' => '1314565706',
+    'message' => 'Löschen'
+  },
   'confirm delete event' => {
     'lastUpdated' => undef,
     'message' => ''
