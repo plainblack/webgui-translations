@@ -441,6 +441,10 @@ our $I18N = {
     'lastUpdated' => '1148295432',
     'message' => 'Stad'
   },
+  'clear form' => {
+    'lastUpdated' => '1314787613',
+    'message' => 'Formulier leegmaken'
+  },
   'confirm delete event metadata' => {
     'lastUpdated' => '1213710657',
     'message' => 'Weet u zeker dat dit metadata veld verwijderd moet worden? De metadata waarden van dit veld worden verwijderd uit alle evenementen.'
