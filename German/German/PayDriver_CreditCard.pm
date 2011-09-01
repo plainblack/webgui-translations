@@ -34,8 +34,8 @@ our $I18N = {
     'message' => 'Der Ort ist ungültig'
   },
   'invalid email' => {
-    'lastUpdated' => '1314851856',
-    'message' => 'Die Email-Adresse ist ungültig'
+    'lastUpdated' => '1314860665',
+    'message' => 'Die E-Mail-Adresse ist ungültig'
   },
   'invalid firstName' => {
     'lastUpdated' => '1314851928',
