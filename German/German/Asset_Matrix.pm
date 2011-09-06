@@ -342,8 +342,8 @@ our $I18N = {
     'message' => 'Sowohl das Vergleichsformular als auch die Matrix-Vergleichsliste werden dynamisch mit yui-Datentabellen generiert. Siehe auch <a href="http://developer.yahoo.com/yui/examples/datatable/dt_skinning.html" target="new">yui docs</a> für die weitere Gestaltung der yui-Tabellen.'
   },
   'comparison template help title' => {
-    'lastUpdated' => '1249633395',
-    'message' => 'Variablen Matrixvergleich Vorlage'
+    'lastUpdated' => '1315294310',
+    'message' => 'Matrix, Variablen Matrixvergleich Vorlage'
   },
   'count' => {
     'lastUpdated' => '1250875162',
@@ -767,8 +767,8 @@ Alle Daten gehen verloren und Sie können das nicht rückgängig machen!!<br><br
     'message' => ''
   },
   'matrix template help title' => {
-    'lastUpdated' => '1250932031',
-    'message' => 'Variablen der Matrix-Hauptvorlage'
+    'lastUpdated' => '1315294409',
+    'message' => 'Matrix, Variablen der Matrix-Hauptvorlage'
   },
   'max comparisons' => {
     'lastUpdated' => '1221289007',
@@ -1031,8 +1031,8 @@ Alle Daten gehen verloren und Sie können das nicht rückgängig machen!!<br><br
     'message' => 'Selektieren Sie eine Vorlage für den "Suchen"-Bildschirm.'
   },
   'search template help title' => {
-    'lastUpdated' => '1250934956',
-    'message' => 'Variablen der Matrix-Suchvorlage'
+    'lastUpdated' => '1315294483',
+    'message' => 'Matrix, Variablen der Matrix-Suchvorlage'
   },
   'search template label' => {
     'lastUpdated' => '1245448652',

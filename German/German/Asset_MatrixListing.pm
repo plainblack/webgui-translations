@@ -90,16 +90,16 @@ Wenn Sie also eine Kategorie "Blumen und Pflanzen" hätten, wäre die Bezeichnun
     'message' => 'Beschreibung'
   },
   'detail template help title' => {
-    'lastUpdated' => '1250937194',
-    'message' => 'Variablen zur Matrix-Listen-Detail-Vorlage'
+    'lastUpdated' => '1315294606',
+    'message' => 'Matrix, Variablen zur Matrix-Listen-Detail-Vorlage'
   },
   'edit label' => {
     'lastUpdated' => '1246484519',
     'message' => 'Bearbeiten'
   },
   'edit listing template help title' => {
-    'lastUpdated' => '1250937284',
-    'message' => 'Bearbeiten der Variablen zur Matrix-Listen-Detail-Vorlage'
+    'lastUpdated' => '1315294654',
+    'message' => 'Matrix, Bearbeiten der Variablen zur Matrix-Listen-Detail-Vorlage'
   },
   'edit matrix listing title' => {
     'lastUpdated' => '1250932386',
