@@ -21,13 +21,42 @@ our $I18N = {
     'lastUpdated' => '1314852075',
     'message' => 'Vorlage Kreditkartenangaben'
   },
+  'credentials template help' => {
+    'lastUpdated' => '1315293154',
+    'message' => 'Wählen Sie eine Vorlage für die Eingabe von Rechnungsadresse und Kreditkarteninformation'
+  },
   'cvv2' => {
     'lastUpdated' => '1314851777',
     'message' => 'Verifizierungsnummer (CVV2)'
   },
+  'cvv2Field help' => {
+    'lastUpdated' => '1315292659',
+    'message' => 'Ein Textfeld zur Eingabe der Kreditkarten-Verifizierungsnummer (CVV2)
+Wenn der Zahlungsmodus ohne der Nutzung von CVV2 konfiguriert wurde, wird dieses Feld leer sein.'
+  },
+  'edit credentials template' => {
+    'lastUpdated' => '1315293262',
+    'message' => 'Vorlage Legitimation bearbeiten'
+  },
+  'edit credentials template help' => {
+    'lastUpdated' => '1315293328',
+    'message' => 'Diese Vorlage wird verwendet zur Eingabe von Kontaktdaten und Kreditkarteninformation'
+  },
   'emailField help' => {
     'lastUpdated' => '1314861247',
     'message' => 'Einzelnes Textfeld für die Eingabe der E-Mail-Adresse'
+  },
+  'error help' => {
+    'lastUpdated' => '1315293043',
+    'message' => 'Ein Fehler aus der Fehlerliste.'
+  },
+  'error occurred message' => {
+    'lastUpdated' => '1315292990',
+    'message' => 'Es sind die folgenden Fehler aufgetreten:'
+  },
+  'errors help' => {
+    'lastUpdated' => '1315292933',
+    'message' => 'Eine Schleife, die eine Liste mit Verarbeitungsfehlern enthält.'
   },
   'expiration date' => {
     'lastUpdated' => '1314851999',
@@ -36,6 +65,10 @@ our $I18N = {
   'expired expiration date' => {
     'lastUpdated' => '1314861223',
     'message' => 'Gültigkeitsdatum abgelaufen'
+  },
+  'fields help' => {
+    'lastUpdated' => '1315292804',
+    'message' => 'Eine Schleife der verfügbaren Felder. Jeder Eintrag enthält Name (Feldname), Label (Bezeichnung) und Feld (wie cityField, stateFiled etc.)'
   },
   'invalid address' => {
     'lastUpdated' => '1314851894',
@@ -76,6 +109,10 @@ our $I18N = {
   'monthYearField help' => {
     'lastUpdated' => '1314860922',
     'message' => 'Ein kombiniertes Formularfeld, um Monat und Jahr des Gültigkeitsdatums der Kreditkarte einzugeben.'
+  },
+  'template gone' => {
+    'lastUpdated' => '1315292863',
+    'message' => 'Die Vorlage zur Eingabe der Sicherheitsdaten fehlt. Bitte informieren Sie den Administrator.'
   },
   'use cvv2' => {
     'lastUpdated' => '1314851801',

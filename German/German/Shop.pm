@@ -346,8 +346,8 @@ our $I18N = {
     'message' => '%s hat einen Gesamtkredit über %s.'
   },
   'date' => {
-    'lastUpdated' => '1228174772',
-    'message' => '<p>Datum&nbsp;</p>'
+    'lastUpdated' => '1315292436',
+    'message' => 'Datum'
   },
   'date created' => {
     'lastUpdated' => '1240496089',
