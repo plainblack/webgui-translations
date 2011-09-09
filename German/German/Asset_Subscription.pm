@@ -190,8 +190,8 @@ our $I18N = {
     'message' => 'Sie müssen eine Beschreibung eingeben'
   },
   'no subscription code batches' => {
-    'lastUpdated' => '1251897054',
-    'message' => 'Es wurde noch keine Codeserie für die Abonnements wurde erstellt. Benutzen Sie das Untermenue rechts, um eine Codeserie zu erstellen.'
+    'lastUpdated' => '1315601231',
+    'message' => 'Es wurde noch keine Codeserie für die Abonnements erstellt. Benutzen Sie das Untermenü rechts, um eine Codeserie zu erstellen.'
   },
   'no subscriptions' => {
     'lastUpdated' => '1240879978',
