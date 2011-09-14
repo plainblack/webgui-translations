@@ -5,6 +5,10 @@ our $I18N = {
     'lastUpdated' => '1233558908',
     'message' => 'Fehler: Kann keine Instanz der Vorlage %s für die Klasse %s bilden!'
   },
+  'Return to Account' => {
+    'lastUpdated' => '1315987665',
+    'message' => 'Zurück zur Übersicht'
+  },
   'account className' => {
     'lastUpdated' => '1233774713',
     'message' => 'Der Perl-Klassenname für dieses Konto-Plugin.'
