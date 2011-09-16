@@ -98,7 +98,7 @@ our $I18N = {
     'message' => 'Kies een stijl sjabloon uit de lijst voor het tonen van de inkomende mail.'
   },
   'profile style template label' => {
-    'lastUpdated' => '1228764104',
+    'lastUpdated' => '1315853665',
     'message' => 'Stijl sjabloon'
   },
   'profile view template hoverHelp' => {
