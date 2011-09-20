@@ -304,8 +304,8 @@ Danach können Sie sich mit Ihrer Kennung und dem Passwort anmelden.
     'message' => 'Mit Instruktionen, um Ihr Passwort zurück zu setzen.'
   },
   'email recover password start message' => {
-    'lastUpdated' => '1192977996',
-    'message' => 'Geben Sie entweder Ihre E-Mail-Adresse oder Ihre Anmeldung unten ein, um das Passwort zurücksetzen zu können.'
+    'lastUpdated' => '1316512933',
+    'message' => 'Geben Sie entweder Ihre E-Mail-Adresse oder Ihre Login-Kennung ein, um ein neues Passwort zu erhalten.'
   },
   'email validation confirmed' => {
     'lastUpdated' => '1252480610',
@@ -485,8 +485,8 @@ Sie können sich jetzt mit Ihrer Kennung und Ihrem Passwort anmelden.'
     'message' => 'Wählen Sie die Vorlage für die Seite aus, die dem Benutzer angezeigt wird, auf der er ein verlorendes Passwort wiederherstellen kann.'
   },
   'recover password banner' => {
-    'lastUpdated' => '1225317250',
-    'message' => 'Wiederherstellung Passwort'
+    'lastUpdated' => '1316512776',
+    'message' => 'Neues Passwort'
   },
   'recover password email text1' => {
     'lastUpdated' => '1225317402',

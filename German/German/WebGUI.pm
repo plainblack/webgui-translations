@@ -1218,8 +1218,8 @@ our $I18N = {
     'message' => 'Wenn Bilder auf ihr System hochgeladen werden die grösser als das Maximum sind, so werden diese auf die maximale Gr&ouml;sse angepasst. Maximal Gr&ouml;sse gemessen in Pixeln und ausgehend von der längsten Seite des Bildes. '
   },
   59 => {
-    'lastUpdated' => '1178617705',
-    'message' => 'Ich habe mein Passwort vergessen.'
+    'lastUpdated' => '1316513192',
+    'message' => 'Neues Passwort anfordern.'
   },
   60 => {
     'lastUpdated' => '1178196220',

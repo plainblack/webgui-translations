@@ -26,8 +26,8 @@ our $I18N = {
     'message' => 'Weitere Tabelle hinzufügen'
   },
   'add thing label' => {
-    'lastUpdated' => '1227001889',
-    'message' => 'Tabelle hinzufügen'
+    'lastUpdated' => '1316500636',
+    'message' => 'Tabelleneintrag hinzufügen'
   },
   'addThing_url' => {
     'lastUpdated' => '1227002010',
