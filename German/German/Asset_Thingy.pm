@@ -86,11 +86,11 @@ our $I18N = {
     'message' => 'Standardtabelle'
   },
   'default value description' => {
-    'lastUpdated' => '1310454022',
+    'lastUpdated' => '1316522662',
     'message' => 'Geben Sie ggf. einen Standardwert für dieses Feld ein.
 Wenn Sie einen Hash mit möglichen Werten definiert haben, dann soll der Standardwert ein Schlüssel dieses Hashes sein und kein Wert.
 Bei "Ja/Nein" Feldern, geben Sie "yes" für "Ja" und "no" für "Nein" ein.
-Für Datum-Zeit-Felder geben Sie das Datum im Epoch-Date-format oder in ISO 9601 mit optionaler Zeitangabe: YYY-MM-DD HH:MM:SS an.
+Für Datum-Zeit-Felder geben Sie das Datum im Epoch-Date-format oder in ISO 9601 mit optionaler Zeitangabe: YYYY-MM-DD HH:MM:SS an.
 '
   },
   'default value label' => {
