@@ -94,8 +94,8 @@ our $I18N = {
     'message' => 'Passwortwiederherstellung erlauben?'
   },
   7 => {
-    'lastUpdated' => '1153201835',
-    'message' => 'Passwörter müssen eine Mindestlänge haben von <br />'
+    'lastUpdated' => '1317202144',
+    'message' => 'Passwörter müssen eine Mindestlänge haben von &nbsp;'
   },
   8 => {
     'lastUpdated' => '1153201846',
