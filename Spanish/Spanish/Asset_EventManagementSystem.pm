@@ -213,6 +213,14 @@ our $I18N = {
     'lastUpdated' => '1252518734',
     'message' => 'Este nombre será utilizado para referirse en conjunto a todos los Gafetes de este grupo.'
   },
+  'badge group ticketsPerBadge' => {
+    'lastUpdated' => '1317823367',
+    'message' => 'Tickets por Gafete'
+  },
+  'badge group ticketsPerBadge help' => {
+    'lastUpdated' => '1317823398',
+    'message' => 'El número de Tickets que puede comprar cada Gafete en este grupo.'
+  },
   'badge groups' => {
     'lastUpdated' => '1252518745',
     'message' => 'Grupos de Gafetes'
@@ -316,6 +324,10 @@ our $I18N = {
   'city' => {
     'lastUpdated' => '1221579423',
     'message' => 'Ciudad'
+  },
+  'clear form' => {
+    'lastUpdated' => '1317823406',
+    'message' => 'Limpiar'
   },
   'confirm delete event metadata' => {
     'lastUpdated' => '1252519173',
@@ -509,6 +521,10 @@ our $I18N = {
     'lastUpdated' => '1252519969',
     'message' => 'Error:'
   },
+  'error badge group ticket limit' => {
+    'lastUpdated' => '1317823426',
+    'message' => 'Imposible agregar %s pues se excedió el límite de Tickets.'
+  },
   'error no colon' => {
     'lastUpdated' => '1252519979',
     'message' => 'Error'
@@ -652,6 +668,14 @@ our $I18N = {
   'hasCheckedIn' => {
     'lastUpdated' => '1252520348',
     'message' => 'Un condicional que indica si el usuario se ha registrado en el Evento o no.'
+  },
+  'help badgeMeta' => {
+    'lastUpdated' => '1317823468',
+    'message' => 'Agregar un valor de metadatos a la Plantilla indicando su nombre después del prefijo "badgeMeta_", e.g. badgeMeta_departamento'
+  },
+  'help ticketMeta' => {
+    'lastUpdated' => '1317823507',
+    'message' => 'Agregar valores de metadatos a la Plantilla usando su nombre después del prefijo "ticketMeta_", e.g. ticketMeta_departamento'
   },
   'hours' => {
     'lastUpdated' => '1216073286',

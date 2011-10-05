@@ -278,8 +278,8 @@ our $I18N = {
     'message' => 'Bienvenido a nuestro sitio, Por favor haga click en el siguiente enlace para activar su cuenta'
   },
   'email address validation email subject' => {
-    'lastUpdated' => '1207712354',
-    'message' => 'Activaci&oacute;n de la cuenta'
+    'lastUpdated' => '1309247903',
+    'message' => 'Activación de la cuenta'
   },
   'email password recovery end message' => {
     'lastUpdated' => '1207712400',

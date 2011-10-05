@@ -2029,6 +2029,10 @@ our $I18N = {
     'lastUpdated' => '1208196986',
     'message' => '<p>Esto activa la tabla de metadatos en los activos de manera que los metadatos puedan ser ingresados y monitoreados por WebGUI. </p><p>&nbsp;</p><p>&nbsp;</p>'
   },
+  'Enable Users after Anonymous Registration?' => {
+    'lastUpdated' => '1317823923',
+    'message' => '¿Habilitar usuarios después de registrarse de manera anónima?'
+  },
   'Enable passive profiling' => {
     'lastUpdated' => '1291126476',
     'message' => '¿Perfilado pasivo?'
@@ -2456,6 +2460,10 @@ our $I18N = {
   'editSettings error occurred' => {
     'lastUpdated' => '1208204624',
     'message' => 'Los siguientes errores ocurrieron mientra se trataban de guardar las configuraciones.'
+  },
+  'enableUsersAfterAnonymousRegistration help' => {
+    'lastUpdated' => '1317823992',
+    'message' => 'Si está desactivado, los usuarios que se registran anónimamente deben ser activados manualmente por el administrador o por un flujo de trabajo.'
   },
   'ends with' => {
     'lastUpdated' => '1207728140',

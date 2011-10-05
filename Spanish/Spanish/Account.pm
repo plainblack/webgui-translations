@@ -5,6 +5,10 @@ our $I18N = {
     'lastUpdated' => '1252502958',
     'message' => 'Error: Imposible instanciar la plantilla %s para la clase %s'
   },
+  'Return to Account' => {
+    'lastUpdated' => '1317823068',
+    'message' => 'Regresar a la Cuenta'
+  },
   'account className' => {
     'lastUpdated' => '1252503001',
     'message' => 'El nombre de la clase Perl para este plugin.'

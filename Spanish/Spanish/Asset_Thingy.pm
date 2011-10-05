@@ -61,6 +61,10 @@ our $I18N = {
     'lastUpdated' => '1253305153',
     'message' => 'Debido a que todos los usuarios verán este recurso de la misma manera, podemos mantenerlo en cache por largos períodos de tiempo para mejorar el desempeño. ¿Cuánto tiempo debemos mantenerlo en cache?'
   },
+  'callerAssetId' => {
+    'lastUpdated' => '1317823561',
+    'message' => 'Provee el assetId del Activo que invocó a www_viewThingData. Es empleado por RenderThingMacro. Es preferible que consulte la documentación POD del código fuente para obtener más detalles.'
+  },
   'canEditThings' => {
     'lastUpdated' => '1253305175',
     'message' => 'Un condicional que indica si el usuario puede ver Cosas definidas en esta Cosa.'
@@ -82,8 +86,8 @@ our $I18N = {
     'message' => 'Cosa por Omisión'
   },
   'default value description' => {
-    'lastUpdated' => '1253305229',
-    'message' => 'Inserte el valor por defecto (si lo hubiera) para el campo. Si ha definido los valores posibles para este campo usando una función (hash), el valor por defecto será una llave de esa función y no un valor. Para los campos sí/no, seleccione "si" o "no".'
+    'lastUpdated' => '1317823623',
+    'message' => 'Inserte el valor por omisión (si lo hubiera) para el campo. Si ha definido los valores posibles para este campo usando una función (hash), el valor por omisión será una llave de esa función y no un valor. Para los campos sí/no, seleccione "si" o "no". Para los campos fecha y hora, ingrese una época Unix o una fecha en el formato ISO-9601 (AAAA-MM-DD HH:MM:SS) según convenga.'
   },
   'default value label' => {
     'lastUpdated' => '1253305238',
