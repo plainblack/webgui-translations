@@ -1,268 +1,215 @@
 package WebGUI::i18n::Italian::Asset_Poll;
 use utf8;
-
-
 our $I18N = {
-	'form.end' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'72 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'7' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'generate graph description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'assetName' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'10 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'72' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'poll asset template variables body' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'hasImageGraph' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'canVote' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'generateGraph' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'graphConfiguration' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'voteGroup' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'active' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.number' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'4 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'5 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'20' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'10' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.text' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'3 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'aN' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'11' => {
-		message => q|Vota|,
-		lastUpdated => 1172424076
-	},
-
-	'20 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'73 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.graphWidth' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'7 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.start' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'karmaPerVote' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'6 description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'templateId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'6' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'3' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.total' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'9' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.submit' => {
-		message => q|Vota|,
-		lastUpdated => 1156590506
-	},
-
-	'graphUrl' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'12' => {
-		message => q|Voti totali|,
-		lastUpdated => 1172424028
-	},
-
-	'randomizeAnswers' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'8' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'question' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'poll asset template variables title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'4' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'graphWidth' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'answer.percent' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'generate graph' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'73' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'responses.label' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'responses.total' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'5' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-};
+  10 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '10 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  11 => {
+    'lastUpdated' => '1172424076',
+    'message' => 'Vota'
+  },
+  12 => {
+    'lastUpdated' => '1172424028',
+    'message' => 'Voti totali'
+  },
+  20 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '20 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  3 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '3 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  4 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '4 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  5 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '5 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  6 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '6 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  7 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '7 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  72 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '72 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  73 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  '73 description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  8 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  9 => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'aN' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'active' => {
+    'lastUpdated' => '1311590942',
+    'message' => 'attivo'
+  },
+  'answer.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer.graphWidth' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer.number' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer.percent' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer.text' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer.total' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'answer_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'assetName' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'canVote' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.end' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.start' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.submit' => {
+    'lastUpdated' => '1156590506',
+    'message' => 'Vota'
+  },
+  'generate graph' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'generate graph description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'generateGraph' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'graphConfiguration' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'graphUrl' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'graphWidth' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'hasImageGraph' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'karmaPerVote' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'poll asset template variables body' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'poll asset template variables title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'question' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'randomizeAnswers' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'responses.label' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'responses.total' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'templateId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'voteGroup' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  }
+}
+;
 
 1;

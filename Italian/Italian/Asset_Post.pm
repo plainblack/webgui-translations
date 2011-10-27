@@ -1,543 +1,435 @@
 package WebGUI::i18n::Italian::Asset_Post;
 use utf8;
-
-
 our $I18N = {
-	'dateUpdated' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'post received' => {
-		message => q|Il tuo post &egrave; stato ricevuto.<div>A seconda delle impostazioni, la pubblicazione sar&agrave; istantanea o richieder&agrave; l&#39;approvazione di un moderatore.</div>|,
-		lastUpdated => 1157560733
-	},
-
-	'userDefinedN.form.textarea' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'title.form.textarea' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'content' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'523' => {
-		message => q|Notifica|,
-		lastUpdated => 1157560779
-	},
-
-	'newWindow' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'synopsis.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isNewPost' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'threadId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'hasRated' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isHidden' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'groupIdEdit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'visitorName.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'preview.title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'delete.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.header' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'sticky.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'new file description' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'pending' => {
-		message => q|In sospeso|,
-		lastUpdated => 1157560915
-	},
-
-	'username' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'preview.synopsis' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'title.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isNewThread' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'image.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefined1' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'preview.userDefinedN' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefinedN.form.htmlarea' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isImage' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'user.isModerator' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'storageId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'notify url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefined5' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'reply.userDefinedN' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'attachment.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'dateSubmitted' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'karmaScale.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'reply.withQuote.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'views' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'attachment.icon' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'usePreview' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'reply.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'add/edit post template title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userProfile.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefinedN.form.float' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'attachment_loop' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.submit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'archive.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefined2' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isEdit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'lock.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'filename' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.preview' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'reply.synopsis' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'user.isVisitor' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'user.isPoster' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'attachment.name' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefinedN.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'contentType.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'rating.value' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'assetName' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isThread' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefined3' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'edit.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'875' => {
-		message => q|Un nuovo messaggio &egrave; stato inviato in una delle tue iscrizioni.|,
-		lastUpdated => 1157560838
-	},
-
-	'reply.content' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'synopsis' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'extraHeadTags' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'ownerUserId' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'avatar.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isPrototype' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'karmaIsEnabled' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'title.short' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'dateUpdated.human' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'rate.url.thumbsUp' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'archived' => {
-		message => q|Archiviato|,
-		lastUpdated => 1157560872
-	},
-
-	'isReply' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'groupIdView' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'notification template body' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'icon' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'status' => {
-		message => q|Stato|,
-		lastUpdated => 1157561314
-	},
-
-	'menuTitle' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'assetSize' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'user.canEdit' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'By' => {
-		message => q|di|,
-		lastUpdated => 1157561932
-	},
-
-	'rating' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'Edited_on' => {
-		message => q|Modificato il|,
-		lastUpdated => 1157560769
-	},
-
-	'reply.title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefinedN.form.yesNo' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'isPackage' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'content.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'dateSubmitted.human' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'contentType' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'form.footer' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'thumbnail' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'preview.content' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'userDefined4' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'post template variables title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'subscribe.form' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'notification template title' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'approved' => {
-		message => q|Approvato|,
-		lastUpdated => 1157560747
-	},
-
-	'rate.url.thumbsDown' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'attachment.url' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-	'image.thumbnail' => {
-		message => q||,
-		lastUpdated => 0
-	},
-
-};
+  523 => {
+    'lastUpdated' => '1157560779',
+    'message' => 'Notifica'
+  },
+  875 => {
+    'lastUpdated' => '1157560838',
+    'message' => 'Un nuovo messaggio &egrave; stato inviato in una delle tue iscrizioni.'
+  },
+  'By' => {
+    'lastUpdated' => '1157561932',
+    'message' => 'di'
+  },
+  'Edited_on' => {
+    'lastUpdated' => '1157560769',
+    'message' => 'Modificato il'
+  },
+  'add/edit post template title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'approved' => {
+    'lastUpdated' => '1157560747',
+    'message' => 'Approvato'
+  },
+  'archive.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'archived' => {
+    'lastUpdated' => '1157560872',
+    'message' => 'Archiviato'
+  },
+  'assetName' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'assetSize' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'attachment.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'attachment.icon' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'attachment.name' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'attachment.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'attachment_loop' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'avatar.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'content' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'content.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'contentType' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'contentType.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'dateSubmitted' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'dateSubmitted.human' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'dateUpdated' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'dateUpdated.human' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'delete.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'edit.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'extraHeadTags' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'filename' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.footer' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.header' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.preview' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'form.submit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'groupIdEdit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'groupIdView' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'hasRated' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'icon' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'image.thumbnail' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'image.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isEdit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isHidden' => {
+    'lastUpdated' => '1311590900',
+    'message' => 'Nascosto'
+  },
+  'isImage' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isNewPost' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isNewThread' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isPackage' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isPrototype' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isReply' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'isThread' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'karmaIsEnabled' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'karmaScale.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'lock.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'menuTitle' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'new file description' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'newWindow' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'notification template body' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'notification template title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'notify url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'ownerUserId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'pending' => {
+    'lastUpdated' => '1157560915',
+    'message' => 'In sospeso'
+  },
+  'post received' => {
+    'lastUpdated' => '1157560733',
+    'message' => 'Il tuo post &egrave; stato ricevuto.<div>A seconda delle impostazioni, la pubblicazione sar&agrave; istantanea o richieder&agrave; l&#39;approvazione di un moderatore.</div>'
+  },
+  'post template variables title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'preview.content' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'preview.synopsis' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'preview.title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'preview.userDefinedN' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'rate.url.thumbsDown' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'rate.url.thumbsUp' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'rating' => {
+    'lastUpdated' => '1311590913',
+    'message' => 'voto'
+  },
+  'rating.value' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.content' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.synopsis' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.userDefinedN' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'reply.withQuote.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'status' => {
+    'lastUpdated' => '1157561314',
+    'message' => 'Stato'
+  },
+  'sticky.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'storageId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'subscribe.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'synopsis' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'synopsis.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'threadId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'thumbnail' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'title' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'title.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'title.form.textarea' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'title.short' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'usePreview' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'user.canEdit' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'user.isModerator' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'user.isPoster' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'user.isVisitor' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefined1' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefined2' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefined3' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefined4' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefined5' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefinedN.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefinedN.form.float' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefinedN.form.htmlarea' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefinedN.form.textarea' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userDefinedN.form.yesNo' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userId' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'userProfile.url' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'username' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'views' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  },
+  'visitorName.form' => {
+    'lastUpdated' => 0,
+    'message' => ''
+  }
+}
+;
 
 1;

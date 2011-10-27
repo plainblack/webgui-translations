@@ -5,6 +5,10 @@ our $I18N = {
     'lastUpdated' => '1294398465',
     'message' => 'Errore: Impossibile istanziare il template %s per la classe %s'
   },
+  'Return to Account' => {
+    'lastUpdated' => '1319711860',
+    'message' => 'Ritorna al tuo Account'
+  },
   'account className' => {
     'lastUpdated' => '1294398503',
     'message' => 'Il nome della classe di questo plugin.'
@@ -17,9 +21,17 @@ our $I18N = {
     'lastUpdated' => '1294398782',
     'message' => 'Template della pagina Account'
   },
+  'account title' => {
+    'lastUpdated' => '1319711927',
+    'message' => 'Il titolo di questo account plugin, come da file di configurazione. Le macro inserite verranno elaborate.'
+  },
   'account url' => {
     'lastUpdated' => '1294398836',
     'message' => 'L\'URL per richiamare questo plugin.'
+  },
+  'is_[[IDENTIFIER]]' => {
+    'lastUpdated' => '1319712028',
+    'message' => '[[IDENTIFIER]] viene sostituito con l\'identificatore proveniente dal plugin (es: is_profile). Il booleano risultante sarà true per questo plugin.'
   }
 }
 ;
