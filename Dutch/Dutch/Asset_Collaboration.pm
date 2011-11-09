@@ -1472,20 +1472,20 @@ Nadat u deze instelling wijzigt worden niet alle  bestaande foto\'s opnieuw verk
     'message' => '<p>Het email adres van de technicus verantwoordelijk voor de RSS toevoer (optioneel veld).</p>'
   },
   'who posts' => {
-    'lastUpdated' => '1166436752',
-    'message' => 'Wie kan berichten plaatsen?'
+    'lastUpdated' => '1320871123',
+    'message' => 'Wie kan reacties plaatsen?'
   },
   'who posts description' => {
-    'lastUpdated' => '1147702549',
-    'message' => 'De groep die posts mag toevoegen in deze asset.'
+    'lastUpdated' => '1320871157',
+    'message' => 'De groep die mag reageren op bijdragen, maar geen nieuwe bijdrage mag plaatsen.'
   },
   'who threads' => {
-    'lastUpdated' => '1190027774',
-    'message' => 'Wie kan reageren op deze bijdrage?'
+    'lastUpdated' => '1320871144',
+    'message' => 'Wie kan nieuwe bijdragen plaatsen?'
   },
   'who threads description' => {
-    'lastUpdated' => '1190027754',
-    'message' => 'De groep die nieuwe bijdragen mag starten bij dit object. (Asset)'
+    'lastUpdated' => '1320871175',
+    'message' => 'De groep die nieuwe bijdragen mag plaatsen.'
   }
 }
 ;
