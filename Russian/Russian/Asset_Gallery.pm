@@ -137,13 +137,141 @@ our $I18N = {
     'lastUpdated' => '1235898531',
     'message' => "\x{410}\x{432}\x{442}\x{43e}\x{440}"
   },
+  'template galleryalbum url' => {
+    'lastUpdated' => '1321484456',
+    'message' => "\x{421}\x{43c}\x{43e}\x{442}\x{440}\x{435}\x{442}\x{44c} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}"
+  },
+  'template listAlbumsRss' => {
+    'lastUpdated' => '1321484490',
+    'message' => "RSS \x{41f}\x{43e}\x{434}\x{43f}\x{438}\x{441}\x{43a}\x{430}"
+  },
+  'template listFilesForUser albums files' => {
+    'lastUpdated' => '1321484508',
+    'message' => "\x{444}\x{430}\x{439}\x{43b}\x{44b}"
+  },
+  'template listFilesForUser albums title' => {
+    'lastUpdated' => '1321484523',
+    'message' => "\x{41c}\x{43e}\x{438} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{44b}"
+  },
+  'template listFilesForUser pictures title' => {
+    'lastUpdated' => '1321484538',
+    'message' => "\x{41c}\x{43e}\x{438} \x{43a}\x{430}\x{440}\x{442}\x{438}\x{43d}\x{43a}\x{438}"
+  },
+  'template listFilesForUser title' => {
+    'lastUpdated' => '1321484579',
+    'message' => "%s \x{413}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{44f}"
+  },
+  'template search basic title' => {
+    'lastUpdated' => '1321484672',
+    'message' => "\x{41f}\x{438}\x{441}\x{43a} \x{43f}\x{43e} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{435}"
+  },
+  'template search field className' => {
+    'lastUpdated' => '1321484686',
+    'message' => "\x{422}\x{438}\x{43f} \x{43f}\x{43e}\x{438}\x{441}\x{43a}\x{430}"
+  },
+  'template search field creationDate' => {
+    'lastUpdated' => '1321484803',
+    'message' => "\x{414}\x{430}\x{442}\x{430}"
+  },
+  'template search field description' => {
+    'lastUpdated' => '1321484816',
+    'message' => "\x{41e}\x{43f}\x{438}\x{441}\x{430}\x{43d}\x{438}\x{435}"
+  },
+  'template search field keywords' => {
+    'lastUpdated' => '1321484831',
+    'message' => "\x{41a}\x{43b}\x{44e}\x{447}\x{435}\x{432}\x{44b}\x{435} \x{441}\x{43b}\x{43e}\x{432}\x{430}"
+  },
+  'template search field location' => {
+    'lastUpdated' => '1321484860',
+    'message' => "\x{420}\x{430}\x{441}\x{43f}\x{43e}\x{43b}\x{43e}\x{436}\x{435}\x{43d}\x{438}\x{435}"
+  },
+  'template search field title' => {
+    'lastUpdated' => '1321484882',
+    'message' => "\x{417}\x{430}\x{433}\x{43e}\x{43b}\x{43e}\x{432}\x{43e}\x{43a}"
+  },
+  'template search results for' => {
+    'lastUpdated' => '1321484937',
+    'message' => "\x{420}\x{435}\x{437}\x{443}\x{43b}\x{44c}\x{442}\x{430}\x{442}\x{44b} \x{43f}\x{43e}"
+  },
+  'template search title' => {
+    'lastUpdated' => '1321484958',
+    'message' => "\x{420}\x{430}\x{441}\x{448}\x{438}\x{440}\x{435}\x{43d}\x{43d}\x{44b}\x{439} \x{43f}\x{43e}\x{438}\x{441}\x{43a}"
+  },
+  'template search to' => {
+    'lastUpdated' => '1321484974',
+    'message' => "\x{43f}\x{43e}"
+  },
+  'template url_addAlbum' => {
+    'lastUpdated' => '1321484995',
+    'message' => "\x{414}\x{43e}\x{431}\x{430}\x{432}\x{438}\x{442}\x{44c} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}"
+  },
+  'template url_listFilesForCurrentUser' => {
+    'lastUpdated' => '1321485021',
+    'message' => "\x{41c}\x{43e}\x{44f} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{44f}"
+  },
+  'template url_search' => {
+    'lastUpdated' => '1321485039',
+    'message' => "\x{420}\x{430}\x{441}\x{448}\x{438}\x{440}\x{435}\x{43d}\x{43d}\x{44b}\x{439} \x{43f}\x{43e}\x{438}\x{441}\x{43a}"
+  },
+  'templateIdAddArchive description' => {
+    'lastUpdated' => '1321485124',
+    'message' => "\x{41f}\x{43e}\x{43a}\x{430}\x{437}\x{430}\x{442}\x{44c} \x{444}\x{43e}\x{440}\x{43c}\x{443} \x{434}\x{43e}\x{431}\x{430}\x{432}\x{43b}\x{435}\x{43d}\x{438}\x{44f} \x{430}\x{440}\x{445}\x{438}\x{432}\x{430} \x{438}\x{437} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432} \x{432} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{44e}."
+  },
   'templateIdAddArchive label' => {
     'lastUpdated' => '1235898592',
     'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{434}\x{43e}\x{431}\x{430}\x{432}\x{43b}\x{435}\x{43d}\x{438}\x{44f} \x{43d}\x{435}\x{441}\x{43a}\x{43e}\x{43b}\x{44c}\x{43a}\x{438}\x{445} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432}"
   },
+  'templateIdDeleteAlbum description' => {
+    'lastUpdated' => '1321485228',
+    'message' => "\x{41f}\x{435}\x{440}\x{435}\x{441}\x{43f}\x{440}\x{430}\x{448}\x{438}\x{432}\x{430}\x{442}\x{44c} \x{43f}\x{440}\x{438} \x{443}\x{434}\x{430}\x{43b}\x{435}\x{43d}\x{438}\x{438} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{430} \x{438}\x{437} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{438}."
+  },
+  'templateIdDeleteAlbum label' => {
+    'lastUpdated' => '1321485271',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{443}\x{434}\x{430}\x{43b}\x{435}\x{43d}\x{438}\x{44f} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{430}."
+  },
+  'templateIdDeleteFile description' => {
+    'lastUpdated' => '1321485311',
+    'message' => "\x{41f}\x{435}\x{440}\x{435}\x{441}\x{43f}\x{440}\x{430}\x{448}\x{438}\x{432}\x{430}\x{442}\x{44c} \x{43f}\x{440}\x{438} \x{443}\x{434}\x{430}\x{43b}\x{435}\x{43d}\x{438}\x{438} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432} \x{438}\x{437} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{438}"
+  },
+  'templateIdDeleteFile label' => {
+    'lastUpdated' => '1321485334',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{443}\x{434}\x{430}\x{43b}\x{435}\x{43d}\x{438}\x{44f} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432}"
+  },
+  'templateIdEditAlbum description' => {
+    'lastUpdated' => '1321485375',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{434}\x{43e}\x{431}\x{430}\x{432}\x{43b}\x{435}\x{43d}\x{438}\x{44f}/\x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{430}"
+  },
   'templateIdEditAlbum label' => {
     'lastUpdated' => '1235898620',
     'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{430}"
+  },
+  'templateIdEditComment description' => {
+    'lastUpdated' => '1321485403',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{43a}\x{43e}\x{43c}\x{43c}\x{435}\x{43d}\x{442}\x{430}\x{440}\x{438}\x{435}\x{432}"
+  },
+  'templateIdEditComment label' => {
+    'lastUpdated' => '1321485434',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{43a}\x{43e}\x{43c}\x{43c}\x{435}\x{43d}\x{442}\x{430}\x{440}\x{438}\x{435}\x{432}"
+  },
+  'templateIdEditFile description' => {
+    'lastUpdated' => '1321485477',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43e}\x{431}\x{430}\x{432}\x{43b}\x{435}\x{43d}\x{438}\x{44f}/\x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432}."
+  },
+  'templateIdEditFile label' => {
+    'lastUpdated' => '1321485504',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{440}\x{435}\x{434}\x{430}\x{43a}\x{442}\x{438}\x{440}\x{43e}\x{432}\x{430}\x{43d}\x{438}\x{44f} \x{444}\x{430}\x{439}\x{43b}\x{43e}\x{432}"
+  },
+  'templateIdListAlbums description' => {
+    'lastUpdated' => '1321485555',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{434}\x{43b}\x{44f} \x{43e}\x{442}\x{43e}\x{431}\x{440}\x{430}\x{436}\x{435}\x{43d}\x{438}\x{44f} \x{441}\x{43f}\x{438}\x{441}\x{43a}\x{430} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{43e}\x{432} \x{432} \x{433}\x{430}\x{43b}\x{435}\x{440}\x{435}\x{435}"
+  },
+  'templateIdListAlbums label' => {
+    'lastUpdated' => '1321485574',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{441}\x{43f}\x{438}\x{441}\x{43a}\x{430} \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{43e}\x{432}"
+  },
+  'templateIdListAlbumsRss description' => {
+    'lastUpdated' => '1321485649',
+    'message' => "\x{428}\x{430}\x{431}\x{43b}\x{43e}\x{43d} \x{43e}\x{442}\x{43e}\x{431}\x{440}\x{430}\x{436}\x{435}\x{43d}\x{438}\x{44f} RSS \x{430}\x{43b}\x{44c}\x{431}\x{43e}\x{43c}\x{430}"
   },
   'templateIdListAlbumsRss label' => {
     'lastUpdated' => '1294348847',

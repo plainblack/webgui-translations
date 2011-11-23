@@ -438,8 +438,8 @@ our $I18N = {
     'message' => 'ICQ messenger UIN'
   },
   318 => {
-    'lastUpdated' => '1220384343',
-    'message' => 'AIM ID'
+    'lastUpdated' => '1317248818',
+    'message' => '<a href="http://www.aim.com/">AIM</a> ID'
   },
   319 => {
     'lastUpdated' => '1233447429',
@@ -2330,8 +2330,8 @@ our $I18N = {
     'message' => "\x{421}\x{43e}\x{434}\x{435}\x{440}\x{436}\x{430}\x{43d}\x{438}\x{435} \x{43f}\x{43e}\x{43c}\x{43e}\x{449}\x{438}"
   },
   'help index' => {
-    'lastUpdated' => '1236442548',
-    'message' => "\x{412} \x{43d}\x{430}\x{447}\x{430}\x{43b}\x{43e}"
+    'lastUpdated' => '1317248889',
+    'message' => "\x{412} \x{43d}\x{430}\x{447}\x{430}\x{43b}\x{43e} \x{441}\x{43f}\x{440}\x{430}\x{432}\x{43a}\x{438}."
   },
   'help toc' => {
     'lastUpdated' => '1236278688',
