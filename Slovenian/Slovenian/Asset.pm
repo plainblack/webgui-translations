@@ -14,28 +14,28 @@ our $I18N = {
     'message' => ''
   },
   105 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940252',
+    'message' => 'Prikaz'
   },
   107 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940258',
+    'message' => 'Varnost'
   },
   1073 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940286',
+    'message' => 'Predloga sloga'
   },
   1079 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940314',
+    'message' => 'Slog za tiskanje'
   },
   108 => {
     'lastUpdated' => '1221334842',
     'message' => 'Lastnik'
   },
   '108 description' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940743',
+    'message' => "Lastnik komponente je obi\x{10d}ajno oseba, ki je komponento ustvarila. Ta uporabnik lahko komponento vedno vidi in ima vse pravice do urejanja. Po privzetem je to lastnik nadrejene komponente.\r\n\r\nOPOMBA: Lastnika lahko spremeni samo skrbnik."
   },
   1082 => {
     'lastUpdated' => '1221334949',
@@ -54,84 +54,84 @@ our $I18N = {
     'message' => "Prika\x{17e}i naslov?"
   },
   411 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940476',
+    'message' => 'Naslov menija'
   },
   '411 description' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940586',
+    'message' => "Kraj\x{161}i naslov, ki se bo pojavil v krmarjenju. V primeru, da pustite prazno bo to po privzetem Naslov."
   },
   412 => {
     'lastUpdated' => '1221335084',
     'message' => 'Povzetek'
   },
   '412 description' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940604',
+    'message' => 'Kratek opis te komponente.'
   },
   43 => {
     'lastUpdated' => undef,
     'message' => ''
   },
   486 => {
-    'lastUpdated' => '1221335114',
-    'message' => 'Podatkovni tip'
+    'lastUpdated' => '1323940201',
+    'message' => 'Vrsta podatkov'
   },
   487 => {
     'lastUpdated' => '1221335130',
     'message' => "Mo\x{17e}ne vrednosti"
   },
   85 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940622',
+    'message' => 'Opis'
   },
   871 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940642',
+    'message' => 'Kdo lahko ureja?'
   },
   '871 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   872 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940666',
+    'message' => 'Kdo lahko vidi?'
   },
   '872 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   886 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940766',
+    'message' => 'Skrito v krmarjenju?'
   },
   '886 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   895 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940814',
+    'message' => "\x{10c}asovna omejitev predpomnilnika"
   },
   896 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940825',
+    'message' => "\x{10c}asovna omejitev predpomnilnika (Obiskovalci)"
   },
   940 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940845',
+    'message' => 'Naj se odpre v novem oknu?'
   },
   '940 description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   949 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940858',
+    'message' => "Upravljanje odlo\x{17e}i\x{161}\x{10d}a."
   },
   950 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940871',
+    'message' => "Izprazni odlo\x{17e}i\x{161}\x{10d}e."
   },
   951 => {
     'lastUpdated' => undef,
@@ -158,8 +158,8 @@ our $I18N = {
     'message' => ''
   },
   99 => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940891',
+    'message' => 'Naslov'
   },
   '99 description' => {
     'lastUpdated' => undef,
@@ -181,6 +181,10 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
+  'Copy' => {
+    'lastUpdated' => '1323940924',
+    'message' => 'Kopiraj'
+  },
   'Data Type description' => {
     'lastUpdated' => undef,
     'message' => ''
@@ -190,8 +194,8 @@ our $I18N = {
     'message' => ''
   },
   'Depth' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940937',
+    'message' => 'Globina'
   },
   'Depth description' => {
     'lastUpdated' => undef,
@@ -202,8 +206,8 @@ our $I18N = {
     'message' => ''
   },
   'Export Page' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940946',
+    'message' => 'Izvoz strani'
   },
   'Export as user' => {
     'lastUpdated' => undef,
@@ -230,12 +234,12 @@ our $I18N = {
     'message' => ''
   },
   'Field name' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940958',
+    'message' => 'Ime polja'
   },
   'Metadata' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323940965',
+    'message' => 'Metapodatki'
   },
   'Metadata Description description' => {
     'lastUpdated' => undef,
@@ -249,13 +253,17 @@ our $I18N = {
     'lastUpdated' => undef,
     'message' => ''
   },
+  'Paste' => {
+    'lastUpdated' => '1323940990',
+    'message' => 'Prilepi'
+  },
   'Possible Values description' => {
     'lastUpdated' => undef,
     'message' => ''
   },
   'Select' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323941002',
+    'message' => 'Izberi ...'
   },
   'Uploads URL' => {
     'lastUpdated' => undef,
@@ -270,8 +278,12 @@ our $I18N = {
     'message' => ''
   },
   'ago' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323941017',
+    'message' => 'nazaj'
+  },
+  'apply' => {
+    'lastUpdated' => '1323941025',
+    'message' => 'uveljavi'
   },
   'asset' => {
     'lastUpdated' => undef,
@@ -342,8 +354,8 @@ our $I18N = {
     'message' => ''
   },
   'copy' => {
-    'lastUpdated' => undef,
-    'message' => ''
+    'lastUpdated' => '1323941041',
+    'message' => 'kopiraj'
   },
   'could not create' => {
     'lastUpdated' => undef,
