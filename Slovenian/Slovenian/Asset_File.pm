@@ -58,8 +58,8 @@ our $I18N = {
     'message' => 'Velikost datoteke'
   },
   'fileUrl' => {
-    'lastUpdated' => '1208789052',
-    'message' => 'URL naslov datoteke.'
+    'lastUpdated' => '1323936968',
+    'message' => 'Naslov URL datoteke.'
   },
   'filename' => {
     'lastUpdated' => '1221335263',
