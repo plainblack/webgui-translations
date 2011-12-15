@@ -57,6 +57,10 @@ our $I18N = {
     'lastUpdated' => '1263083383',
     'message' => 'Nastavitve strani'
   },
+  'View' => {
+    'lastUpdated' => '1323938990',
+    'message' => 'Pogled'
+  },
   'locked' => {
     'lastUpdated' => '1221338131',
     'message' => 'Zaklenjeno'

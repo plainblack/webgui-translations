@@ -1,1 +1,6 @@
 ziga.boehm@vseved.net
+
+cvelbar@gmail.com (started 20111215)
+Asset = komponenta
+
+

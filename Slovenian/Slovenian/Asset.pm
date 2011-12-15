@@ -1,8 +1,12 @@
 package WebGUI::i18n::Slovenian::Asset;
 use utf8;
 our $I18N = {
+  '%s is not a valid depth' => {
+    'lastUpdated' => '1323939299',
+    'message' => '%s ni veljavna globina'
+  },
   104 => {
-    'lastUpdated' => '1178226155',
+    'lastUpdated' => '1323939304',
     'message' => 'URL'
   },
   '104 description' => {

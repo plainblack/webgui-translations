@@ -78,8 +78,8 @@ our $I18N = {
     'message' => "\x{10d}etrtek"
   },
   'timezone' => {
-    'lastUpdated' => '1178704586',
-    'message' => "\x{10d}asovni pas<br />"
+    'lastUpdated' => '1323938895',
+    'message' => "\x{10c}asovni pas"
   },
   'tuesday' => {
     'lastUpdated' => '1178618268',
@@ -98,8 +98,8 @@ our $I18N = {
     'message' => 'sreda'
   },
   'wednesday 1char' => {
-    'lastUpdated' => '1263083445',
-    'message' => 's'
+    'lastUpdated' => '1323938915',
+    'message' => 'S'
   }
 }
 ;
